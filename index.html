@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./bootstrap-4.0.0-dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-..."
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <nav>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 col-md-1 col-lg-5">
+            <ul class="nav-list">
+              <li class="nav-item">
+                <a href="#" class="nav-link logo"
+                  ><img src="./img/logo.png" alt=""
+                /></a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-6">
+            <ul class="nav-list">
+              <li class="nav-item">
+                <a href="#" class="nav-link">Home</a>
+              </li>
+              <li
+                class="nav-item dropdown"
+                onmouseover="showDropdown(this)"
+                onmouseout="hideDropdown(this)"
+              >
+                <a href="#" class="nav-link">Categories</a>
+                <div class="dropdown-content">
+                  <a href="#">Men</a>
+                  <a href="#">Women</a>
+                  <a href="#">Kids</a>
+                  <a href="#">Bags</a>
+                  <a href="#">Accessories</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link search"
+                  ><img src="./img/icon/search.png" alt=""
+                /></a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link heart"
+                  ><img src="./img/icon/heart.png" alt=""
+                /></a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link cart"
+                  ><img src="./img/icon/cart.png" alt=""
+                /></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <div class="col-12 men-cat-header"><h3>Men Department</h3></div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-4">
+          <div class="product">
+            <img src="./img/product/product-11.jpg" alt="Product 1" />
+            <p class="price">Price: $17</p>
+            <p class="description">Product Description</p>
+            <div class="rating">
+              <span class="star">&#9733;</span>
+              <span class="star">&#9733;</span>
+              <span class="star">&#9733;</span>
+              <span class="star">&#9734;</span>
+              <span class="star">&#9734;</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="product">
+            <img src="./img/product/product-12.jpg" alt="Product 2" />
+            <p class="price">Price: $20.5</p>
+            <p class="description">Product Description</p>
+            <div class="rating">
+              <span class="star">&#9733;</span>
+              <span class="star">&#9733;</span>
+              <span class="star">&#9733;</span>
+              <span class="star">&#9734;</span>
+              <span class="star">&#9734;</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4">
+          <div class="product" id="product-1">
+            <img src="./img/product/product-11.jpg" alt="Product 1" />
+            <p class="price">Price: $17</p>
+            <div class="rating" id="rating-1"></div>
+            <p class="description">Product Description</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 col-md-4">
+          <div class="product" id="product-1">
+            <img src="./img/product/product-11.jpg" alt="Product 1" />
+            <p class="price">Price: $17</p>
+            <div class="rating-container">
+              <input
+                type="radio"
+                id="star5"
+                name="rating"
+                value="5"
+                onclick="handleRating(5)"
+              />
+              <label for="star5">&#9733;</label>
+
+              <input
+                type="radio"
+                id="star4"
+                name="rating"
+                value="4"
+                onclick="handleRating(4)"
+              />
+              <label for="star4">&#9733;</label>
+
+              <input
+                type="radio"
+                id="star3"
+                name="rating"
+                value="3"
+                onclick="handleRating(3)"
+              />
+              <label for="star3">&#9733;</label>
+
+              <input
+                type="radio"
+                id="star2"
+                name="rating"
+                value="2"
+                onclick="handleRating(2)"
+              />
+              <label for="star2">&#9733;</label>
+
+              <input
+                type="radio"
+                id="star1"
+                name="rating"
+                value="1"
+                onclick="handleRating(1)"
+              />
+              <label for="star1">&#9733;</label>
+            </div>
+            <p class="description">Product Description</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-3">
+          <div class="product">
+            <img src="./img/product/product-12.jpg" alt="Product 2" />
+            <p class="price">Price: $20.5</p>
+            <p class="description">Product Description</p>
+          </div>
+        </div>
+        <div class="col-12 col-md-3">
+          <div class="product">
+            <img src="./img/product/product-13.jpg" alt="Product 3" />
+            <p class="price">Price: $15.5</p>
+            <p class="description">Product Description</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

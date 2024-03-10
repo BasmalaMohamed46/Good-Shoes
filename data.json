@@ -1,0 +1,46 @@
+{
+  "Men": {
+    "product-1": {
+      "name": "men1",
+      "description": "men clothes",
+      "price": 15
+    },
+    "product-2": {
+      "name": "men2",
+      "description": "men clothes",
+      "price": 15
+    },
+    "product-3": {
+      "name": "men3",
+      "description": "men clothes",
+      "price": 15
+    },
+    "product-4": {
+      "name": "men4",
+      "description": "men clothes",
+      "price": 15
+    }
+  },
+  "Women": {
+    "product-1": {
+      "name": "women1",
+      "description": "women clothes",
+      "price": 15
+    },
+    "product-2": {
+      "name": "women2",
+      "description": "women clothes",
+      "price": 15
+    },
+    "product-3": {
+      "name": "women3",
+      "description": "women clothes",
+      "price": 15
+    },
+    "product-4": {
+      "name": "women4",
+      "description": "women clothes",
+      "price": 15
+    }
+  }
+}
