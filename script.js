@@ -1,56 +1,12 @@
-// function showDropdown(element) {
-//   element.querySelector(".dropdown-content").style.display = "block";
-// }
+// ------------------------------------------ Show And Hide Dropdown Menu ------------------------------
+function showDropdown(element) {
+  element.querySelector(".dropdown-content").style.display = "block";
+}
 
-// function hideDropdown(element) {
-//   element.querySelector(".dropdown-content").style.display = "none";
-// }
-
-// function handleRating(rating) {
-//   const stars = document.querySelectorAll('input[type="radio"]');
-//   stars.forEach((star, index) => {
-//     star.checked = index < rating;
-//   });
-// }
-
-// async function getData() {
-//   const url = "data.json";
-//   let dataJson = await fetch(url);
-//   let data = await dataJson.json();
-//   return data;
-// }
-
-// async function Category(category) {
-//   let output;
-//   data = await getData();
-//   if (category === "Men") {
-//     output = await data["Men"];
-//   } else if (category === "Women") {
-//     output = await data["Women"];
-//   }
-//   return output;
-// }
-
-// async function processCategory() {
-//   let data = await Category("Men");
-//   var productsObjects = [];
-//   var productsName = [];
-//   var prodductsPrice = [];
-//   var prodductsDesc = [];
-//   Object.entries(data).forEach(([key, value]) => {
-//     productsObjects.push(value);
-//   });
-//   for (let i of productsObjects) {
-//     productsName.push(i.name);
-//     prodductsPrice.push(i.price);
-//     prodductsDesc.push(i.description);
-//   }
-//   console.log(productsObjects);
-//   console.log(productsName);
-//   console.log(prodductsPrice);
-//   console.log(prodductsDesc);
-// }
-// processCategory();
+function hideDropdown(element) {
+  element.querySelector(".dropdown-content").style.display = "none";
+}
+// ---------------------------------------- Fetching Data From JSON File --------------------------------
 
 async function fetchData() {
   const url = "db.json";
@@ -58,27 +14,63 @@ async function fetchData() {
   const data = await response.json();
   return data.products;
 }
+// ----------------------------------- Clear Function To Prevent Overriding Of Data -------------------------------------------------
+function clearDiv() {
+  var myDiv = document.getElementsByClassName("container")[1];
+  myDiv.innerHTML = "";
+}
 
-async function processCategory() {
-  const products = await fetchData();
+// ----------------------------------- Drawing Each Category In HTML File -------------------------------------------------
+async function processCategory(gender) {
+  clearDiv();
+  const data = await fetchData();
+  var products = data.filter((ele) => ele["gender"] === gender);
+
   const ids = products.map((product) => product.id);
-  const names = products.map((product) => product.name);
-  const descriptions = products.map((product) => product.description);
-  const genders = products.map((product) => product.gender);
-  const categories = products.map((product) => product.category);
+  const namesBeforeSlicing = products.map((product) => product.name);
   const ratings = products.map((product) => product.rating);
-  const isInStocks = products.map((product) => product.isInStock);
   const prices = products.map((product) => product.price.current.text);
   const imageUrls = products.map((product) => product.imageUrl);
+  var names = [];
 
-  console.log("Ids:", ids.length);
-  console.log("Names:", names.length);
-  console.log("Descriptions:", descriptions.length);
-  console.log("Genders:", genders.length);
-  console.log("Categories:", categories.length);
-  console.log("Ratings:", ratings.length);
-  console.log("Is In Stock:", isInStocks.length);
-  console.log("Prices:", prices.length);
-  console.log("Image URLs:", imageUrls);
+  for (let name of namesBeforeSlicing) {
+    names.push(name.split(" ").slice(0, 3).join(" ")); // take the first three words
+  }
+
+  let container = document.getElementsByClassName("container")[1];
+  var headerDiv = document.createElement("div");
+  let header = document.createElement("h4");
+  headerDiv.classList.add("col-12");
+  headerDiv.classList.add("men-cat-header");
+  if (gender === "male") {
+    header.textContent = "Men Department";
+  } else {
+    header.textContent = "Women Department";
+  }
+  // Create a row for every three products
+  for (let i = 0; i < ids.length; i += 3) {
+    const row = document.createElement("div");
+    row.classList.add("row");
+
+    // Create three columns in the row
+    for (let j = i; j < i + 3 && j < ids.length; j++) {
+      const col = document.createElement("div");
+      col.classList.add("col-lg-4");
+      col.classList.add("col-12");
+      col.classList.add("product-col");
+      col.innerHTML = `
+        <img src="${imageUrls[j]}" alt="${names[j]}">
+        <h2>${names[j]}</h2>
+        <p>ID: ${ids[j]}</p>
+        <p>Rating: ${ratings[j]}</p>
+        <p>Price: ${prices[j]}</p>
+      `;
+      row.appendChild(col);
+    }
+    container.appendChild(row);
+  }
+
+  headerDiv.appendChild(header);
+  container.appendChild(headerDiv[0]);
+  document.body.appendChild(container);
 }
-processCategory();

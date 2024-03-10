@@ -124,3 +124,31 @@ label:hover,
 label:hover ~ label {
   color: #f8d75a;
 }
+
+button {
+  color: #fff;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  background-color: #333;
+  border: none;
+  text-align: center;
+  width: 120px;
+}
+button:hover {
+  background-color: #5b5858;
+  color: #fff;
+  text-decoration: none;
+}
+
+.product-col {
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+image {
+  width: 100%;
+}
