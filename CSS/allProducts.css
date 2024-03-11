@@ -146,7 +146,14 @@ button:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
   padding: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 80px;
+  transition: all;
+  transition-duration: 3s;
+  margin-left: 0px;
+}
+
+.product-col:hover {
+  background-color: grey;
 }
 
 image {

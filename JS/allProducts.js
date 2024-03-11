@@ -9,7 +9,7 @@ function hideDropdown(element) {
 // ---------------------------------------- Fetching Data From JSON File --------------------------------
 
 async function fetchData() {
-  const url = "db.json";
+  const url = "../DATA/finalData.json";
   const response = await fetch(url);
   const data = await response.json();
   return data.products;
@@ -74,5 +74,5 @@ async function processCategory(gender) {
   container.appendChild(headerDiv[0]);
   document.body.appendChild(container);
 }
-console.log("script.js is loaded");
-processCategory("male");
+// console.log("script.js is loaded");
+// processCategory("male");

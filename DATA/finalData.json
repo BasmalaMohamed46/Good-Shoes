@@ -1,0 +1,1019 @@
+{
+  "products": [
+    {
+      "id": 205082351,
+      "name": "Walk London Milano lace up boots in black leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40, 41, 42],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Darron Miloscia",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2017",
+          "reviewTitle": "Thinking to buy another one!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Andres Papp",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Portugal",
+          "rating": 4,
+          "date": "March 3, 2020",
+          "reviewTitle": "Very good boots!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Twana Davinroy",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Germany",
+          "rating": 3,
+          "date": "March 3, 2023",
+          "reviewTitle": "It can be better!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "$115.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179002,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-1-black",
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-2",
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-3",
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-4"
+      ]
+    },
+    {
+      "id": 204349751,
+      "name": "Reebok BB 4000 II sneakers in white with blue detail",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40, 41, 42, 43, 44],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "India",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best sneakers in the whole world!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "China",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "This sneakers are golden!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Milan Dragić",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Serbia",
+          "rating": 1,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "brandName": "Reebok",
+      "productCode": 126663939,
+      "imageUrl": "http://images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-1-white",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-1-white",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-2",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-3",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-4",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-5"
+      ]
+    },
+    {
+      "id": 204525730,
+      "name": "Nike Air Force 1 '07 LV8 Remix sneakers in gray",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 39, 40, 41, 42, 43, 44],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Darwin Jeffres",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Gibraltar",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "I expected more from Nike",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Armando Robertus",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "England",
+          "rating": 2,
+          "date": "January 2, 2023",
+          "reviewTitle": "I don't like these sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Senegal",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 210,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "$130.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493550,
+      "imageUrl": "http://images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-1-grey",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-2",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-3",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-4"
+      ]
+    },
+    {
+      "id": 205116880,
+      "name": "Vans Knu Skool sneakers in navy and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 39, 40, 41, 42, 43, 44],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Tula Gunnip",
+          "userImage": "/src/assets/user profile photo 11.jpg",
+          "location": "Italy",
+          "rating": 3,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good present for my boyfriend",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alden Stropki",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Bosnia",
+          "rating": 4,
+          "date": "February 3, 2023",
+          "reviewTitle": "Good and practical",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 7,
+      "productionDate": "2013-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": "$75.00"
+        }
+      },
+      "brandName": "Vans",
+      "productCode": 132249573,
+      "imageUrl": "http://images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-1-navy",
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-2",
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-3",
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-4"
+      ]
+    },
+    {
+      "id": 205117227,
+      "name": "PUMA Palermo Leather sneakers in black and white",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 39, 40, 41, 42, 43, 44],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "John Markin",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "January 31, 2023",
+          "reviewTitle": "I like these sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Wilber Risola",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "This is excellent product by Puma!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 11,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "brandName": "Puma",
+      "productCode": 132250056,
+      "imageUrl": "http://images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-1-blackwhite",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-1-blackwhite",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-2",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-3",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-4",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-5"
+      ]
+    },
+    {
+      "id": 205170977,
+      "name": "New Balance 580 sneakers in gray",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Luka Modrić",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Croatia",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best sneakers for sport!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Leon Westphalen",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Japan",
+          "rating": 4,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "I am very happy with this product, but it is not perfect!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Berta Ruediger",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 320,
+      "productionDate": "2017-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 129.99,
+          "text": "$129.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362851,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-1-grey",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-2",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-3",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-4",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-5"
+      ]
+    },
+    {
+      "id": 205170993,
+      "name": "New Balance 574 sneakers in gray with black detail",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Sooo goood sneakers!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "The Best Sneakers In The World!!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3200,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 94.99,
+          "text": "$94.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362839,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-1-grey",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-2",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-3",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-4",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-5"
+      ]
+    },
+    {
+      "id": 205171062,
+      "name": "New Balance 480 sneakers in black and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Benedict Pojar",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2023",
+          "reviewTitle": "Solid sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Henry Buller",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Soo goood sneakers!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Egypt",
+          "rating": 1,
+          "date": "January 31, 2023",
+          "reviewTitle": "I want my money back",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3120,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 89.99,
+          "text": "$89.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362836,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-1-black",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-2",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-3",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-4",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-5"
+      ]
+    },
+    {
+      "id": 205171114,
+      "name": "New Balance 610 sneakers in blue with white detail",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Cristopher Sciano",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Holand",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Excellent sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Tommie Huesing",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Very good and affordable sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bryant Garns",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "August 31, 2023",
+          "reviewTitle": "Simple and elegant",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 230,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 109.99,
+          "text": "$109.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362845,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-1-midblue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-1-midblue",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-2",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-3",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-4",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-5"
+      ]
+    },
+    {
+      "id": 205171544,
+      "name": "New Balance 2002R sneakers in gray with black detail",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Jerald Rosemond",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "Soooo fantastic!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Elwood Winstone",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "These sneakers are sooo goood!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Claude Soots",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 31, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 139.99,
+          "text": "$139.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362844,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-1-grey",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-2",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-3",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-4",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-5"
+      ]
+    },
+    {
+      "id": 203509790,
+      "name": "Nike Blazer Low '77 Jumbo sneakers in green and brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Manuel Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Breslin",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "November 29, 2022",
+          "reviewTitle": "I am happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 130,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 121204339,
+      "imageUrl": "http://images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-1-green",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-1-green",
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-2",
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-3",
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-4"
+      ]
+    },
+    {
+      "id": 204525320,
+      "name": "Nike Blazer Mid '77 Vintage sneakers in white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 4,
+          "date": "November 31, 2022",
+          "reviewTitle": "Very good sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Geraldo Dellapina",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "December 31, 2022",
+          "reviewTitle": "Excellent as a present for my kid!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3770,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 105,
+          "text": "$105.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493551,
+      "imageUrl": "http://images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-1-white",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-1-white",
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-2",
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-3",
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-4"
+      ]
+    },
+    {
+      "id": 205136837,
+      "name": "Tommy Jeans retro basket essential sneakers in navy",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Errol Grabber",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kristofer Comi",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 131,
+          "text": "$131.00"
+        }
+      },
+      "brandName": "Tommy Jeans",
+      "productCode": 132292785,
+      "imageUrl": "http://images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-1-twilightnavy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-1-twilightnavy",
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-2",
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-3",
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-4"
+      ]
+    },
+    {
+      "id": 205102248,
+      "name": "Tommy Hilfiger core suede leather boots in cocoa",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Nathaniel Luebrecht",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "Not good at all!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2012-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 220,
+          "text": "$220.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229756,
+      "imageUrl": "http://images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-1-cocoa",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-1-cocoa",
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-2",
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-3",
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-4"
+      ]
+    },
+    {
+      "id": 205102326,
+      "name": "Tommy Hilfiger running sneakers in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Korey Stevie",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "England",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Belgium",
+          "rating": 3,
+          "date": "Februrary 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Omar Wolfendale",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Romania",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I won't buy these sneakers again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 330,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 147,
+          "text": "$147.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229752,
+      "imageUrl": "http://images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-1-black",
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-2",
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-3",
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-4"
+      ]
+    },
+    {
+      "id": 204811056,
+      "name": "New Look brogue in dark brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kris Uebbing",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marion Mulvenna",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 120,
+      "productionDate": "2014-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 58,
+          "text": "$58.00"
+        }
+      },
+      "brandName": "New Look",
+      "productCode": 130243741,
+      "imageUrl": "http://images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-1-darkbrown",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-1-darkbrown",
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-2",
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-3",
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-4"
+      ]
+    },
+    {
+      "id": 205225241,
+      "name": "AllSaints Rhett suede chelsea boots in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kris Uebbing",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marion Mulvenna",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 249,
+          "text": "$249.00"
+        }
+      },
+      "brandName": "AllSaints",
+      "productCode": 132462856,
+      "imageUrl": "http://images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-1-black",
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-2",
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-3",
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-4"
+      ]
+    },
+    {
+      "id": 204525864,
+      "name": "Nike Air Force 1 '07 LV8 Mid sneakers in green and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Marion Mulvenna",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good but..",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alex Mulvenna",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 140,
+          "text": "$140.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493601,
+      "imageUrl": "http://images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-1-midgreen",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-1-midgreen",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-2",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-3",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-4"
+      ]
+    }
+  ]
+}
