@@ -74,3 +74,5 @@ async function processCategory(gender) {
   container.appendChild(headerDiv[0]);
   document.body.appendChild(container);
 }
+console.log("script.js is loaded");
+processCategory("male");
