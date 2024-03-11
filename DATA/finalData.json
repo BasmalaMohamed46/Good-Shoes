@@ -1022,16 +1022,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "shoes",
-      "availableSizes": [
-        37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43,
-        44
-      ],
+      "availableSizes": [37, 38, 39, 40, 41, 42, 43, 44],
       "rating": 5,
       "reviews": [
         {
@@ -1079,7 +1070,7 @@
         "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-3",
         "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-4"
       ]
-    }, 
+    },
     {
       "id": 204811084,
       "name": "New Look woven loafers in dark brown",
@@ -1087,15 +1078,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "heels",
-      "availableSizes": [
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46
-      ],
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
       "rating": 4,
       "reviews": [
         {
@@ -1151,15 +1134,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "shoes",
-      "availableSizes": [
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46
-      ],
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
       "rating": 3,
       "reviews": [
         {
@@ -1215,15 +1190,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "shoes",
-      "availableSizes": [
-        40,
-        41,
-        42,
-        43,
-        44,
-        45,
-        46
-      ],
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
       "rating": 4,
       "reviews": [
         {
@@ -1279,13 +1246,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "boots",
-      "availableSizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
+      "availableSizes": ["XS", "S", "M", "L", "XL"],
       "rating": 5,
       "reviews": [
         {
@@ -1341,14 +1302,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "shoes",
-      "availableSizes": [
-        39,
-        40,
-        41,
-        42,
-        43,
-        44
-      ],
+      "availableSizes": [39, 40, 41, 42, 43, 44],
       "rating": 3,
       "reviews": [
         {
@@ -1404,15 +1358,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "shoes",
-      "availableSizes": [
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45
-      ],
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
       "rating": 5,
       "reviews": [
         {
@@ -1468,15 +1414,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "shoes",
-      "availableSizes": [
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45
-      ],
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
       "rating": 5,
       "reviews": [
         {
@@ -1532,15 +1470,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "slippers",
-      "availableSizes": [
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45
-      ],
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
       "rating": 4,
       "reviews": [
         {
@@ -1596,15 +1526,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "slippers",
-      "availableSizes": [
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45
-      ],
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
       "rating": 4,
       "reviews": [
         {
@@ -1660,15 +1582,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "slippers",
-      "availableSizes": [
-        39,
-        40,
-        41,
-        42,
-        43,
-        44,
-        45
-      ],
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
       "rating": 5,
       "reviews": [
         {
@@ -1724,13 +1638,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "sneakers",
-      "availableSizes": [
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
+      "availableSizes": [8, 9, 10, 11, 12],
       "rating": 4.5,
       "reviews": [
         {
@@ -1776,13 +1684,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "running",
-      "availableSizes": [
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
+      "availableSizes": [8, 9, 10, 11, 12],
       "rating": 4.8,
       "reviews": [
         {
@@ -1828,13 +1730,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "sneakers",
-      "availableSizes": [
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
+      "availableSizes": [8, 9, 10, 11, 12],
       "rating": 4.2,
       "reviews": [
         {
@@ -1880,13 +1776,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "sneakers",
-      "availableSizes": [
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
+      "availableSizes": [7, 8, 9, 10, 11],
       "rating": 4.7,
       "reviews": [
         {
@@ -1932,13 +1822,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "sneakers",
-      "availableSizes": [
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
+      "availableSizes": [7, 8, 9, 10, 11],
       "rating": 4.4,
       "reviews": [
         {
@@ -1984,13 +1868,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "sneakers",
-      "availableSizes": [
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
+      "availableSizes": [7, 8, 9, 10, 11],
       "rating": 4.6,
       "reviews": [
         {
@@ -2036,13 +1914,7 @@
       "isInStock": true,
       "gender": "female",
       "category": "boots",
-      "availableSizes": [
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
+      "availableSizes": [7, 8, 9, 10, 11],
       "rating": 4.9,
       "reviews": [
         {
@@ -2075,6 +1947,835 @@
       "brandName": "Timberland",
       "productCode": 132236493,
       "imageUrl": "http://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/100190s.jpg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_bc5f62d7-5b1b-445d-b989-d4272f65b1f6?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_c1195982-8dc5-492e-8071-695c26c67c2d?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_278f7635-0f84-4a8d-8879-8829d34d1459?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_197211c5-9877-404b-9a05-5d63e42b1104?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.1,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$150.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_e0e0569e-c9b3-4838-82c0-5fc4764126c3?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d568ea72-acfb-4b96-aea3-162ff9d8ad5b?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_b1955099-f156-425a-a1bd-962b93540ddf?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_9c120018-36ba-4615-8305-7ff40473d09d?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_fe431b0a-c069-49f0-ab2b-ad53231202e2?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5afe8969-4d35-4d6a-83bc-b8ee678f03fe?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_f91c9044-fc9a-47d4-9ae0-9faf6d4d8ca0?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da08e3d3-3e93-4edf-abab-da26c6fc54bc?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da08e3d3-3e93-4edf-abab-da26c6fc54bc?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_212f91aa-ddf3-4c09-8c76-ff40ad1fde22?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5815970b-f2e3-437a-b7ee-5d716a0945d8?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_f311624a-f156-4966-880d-5255be668d06?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_05663149-b93d-42c0-8c56-6230c6ba2dad?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_f15bfbd6-1733-41fa-85bd-7c408d0cf576?wid=626&hei=626&qlt=80&fmt=pjpeg",
       "additionalImageUrls": [
         "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
         "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
