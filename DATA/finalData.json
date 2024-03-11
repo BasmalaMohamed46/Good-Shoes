@@ -1014,6 +1014,1072 @@
         "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-3",
         "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-4"
       ]
+    },
+    {
+      "id": 205107270,
+      "name": "Walk London Sean tassel loafers in brown milled leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Gabriele Krein",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "France",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ashlie Amon",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "France",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "Not perfect but very good!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Rosenda Kukucka",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "I will buy 10 of these!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "$88.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132236489,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-1-brown",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-1-brown",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-2",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-3",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-4"
+      ]
+    }, 
+    {
+      "id": 204811084,
+      "name": "New Look woven loafers in dark brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Yuriko Infantolino",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Amira Georgevich",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Chery Marinoff",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 830,
+      "productionDate": "2015-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 65,
+          "text": "$65.00"
+        }
+      },
+      "brandName": "New Look",
+      "productCode": 130243740,
+      "imageUrl": "http://images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-1-darkbrown",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-1-darkbrown",
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-2",
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-3",
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-4"
+      ]
+    },
+    {
+      "id": 204811114,
+      "name": "New Look tassle loafers in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Shae Laday",
+          "userImage": "/src/assets/user profile photo 8 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good but..",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Anjelica Eisenbarth",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Guadalupe Domina",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 20,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 62,
+          "text": "$62.00"
+        }
+      },
+      "brandName": "New Look",
+      "productCode": 130243743,
+      "imageUrl": "http://images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-1-black",
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-2",
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-3",
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-4"
+      ]
+    },
+    {
+      "id": 205225329,
+      "name": "AllSaints Melos leather chelsea boots in dark brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Chery Marinoff",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Anjelica Eisenbarth",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Amira Georgevich",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 21330,
+      "productionDate": "2018-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 294,
+          "text": "$294.00"
+        }
+      },
+      "brandName": "AllSaints",
+      "productCode": 132462838,
+      "imageUrl": "http://images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-1-brownstone",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-1-brownstone",
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-2",
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-3",
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-4"
+      ]
+    },
+    {
+      "id": 205002072,
+      "name": "ASOS DESIGN heeled chelsea boots in snake print faux leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "boots",
+      "availableSizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Etta Corner",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Jerri Liriano",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marita Daya",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 870,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 99.99,
+          "text": "$99.99"
+        }
+      },
+      "brandName": "ASOS DESIGN",
+      "productCode": 131551127,
+      "imageUrl": "http://images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-2",
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-3",
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-4"
+      ]
+    },
+    {
+      "id": 205082069,
+      "name": "Walk London Campus loafers in black leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Alline Smylie",
+          "userImage": "/src/assets/user profile photo 8 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good but..",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Karie Timmermann",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Demetra Delappe",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 89980,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 101,
+          "text": "$101.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179016,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-2",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-3",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-4"
+      ]
+    },
+    {
+      "id": 205082069,
+      "name": "Walk London Campus loafers in black leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Errol Grabber",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kristofer Comi",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 34230,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 101,
+          "text": "$101.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179016,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-2",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-3",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-4"
+      ]
+    },
+    {
+      "id": 205107261,
+      "name": "Walk London Sean tassel loafers in black milled leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Daphne Binggeli",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Yolonda Doroteo",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shu Welland",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 8730,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "$88.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132236488,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-1-black",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-2",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-3",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-4"
+      ]
+    },
+    {
+      "id": 205242079,
+      "name": "Crocs Classic metallic Crocskin clog black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "slippers",
+      "availableSizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Jerri Liriano",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Daphne Binggeli",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Samira Mazar",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 1230,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 54.99,
+          "text": "$54.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 132515705,
+      "imageUrl": "http://images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-1-black",
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-2",
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-3",
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-4"
+      ]
+    },
+    {
+      "id": 205541560,
+      "name": "River Island faux shearling slides in beige",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "slippers",
+      "availableSizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Jerri Liriano",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marita Daya",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shu Welland",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 6530,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 55,
+          "text": "$55.00"
+        }
+      },
+      "brandName": "River Island",
+      "productCode": 133263510,
+      "imageUrl": "http://images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-1-beige",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-1-beige",
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-2",
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-3",
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-4"
+      ]
+    },
+    {
+      "id": 205602826,
+      "name": "Pull and Bear chunky sole loafer in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "slippers",
+      "availableSizes": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Demetra Delappe",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shu Welland",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hedy Barwari",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 62.35,
+          "text": "$62.35"
+        }
+      },
+      "brandName": "Pull and Bear",
+      "productCode": 133392665,
+      "imageUrl": "http://images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-1-black",
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-2",
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-3",
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-4"
+      ]
+    },
+    {
+      "id": 205107271,
+      "name": "Nike Air Force 1 '07 Sneakers in White",
+      "description": "Classic white sneakers from Nike",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "John Doe",
+          "userImage": "/src/assets/user-profile-photo-1.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great Shoes!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Jane Smith",
+          "userImage": "/src/assets/user-profile-photo-2.jpg",
+          "location": "United Kingdom",
+          "rating": 4,
+          "date": "March 3, 2023",
+          "reviewTitle": "Good but a bit tight",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 20,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 132236490,
+      "imageUrl": "http://cdn-images.farfetch-contents.com/16/12/40/94/16124094_40804155_600.jpg",
+      "additionalImageUrls": [
+        "https://example.com/nike-air-force-1-07-sneakers-white-1.jpg",
+        "https://example.com/nike-air-force-1-07-sneakers-white-2.jpg",
+        "https://example.com/nike-air-force-1-07-sneakers-white-3.jpg"
+      ]
+    },
+    {
+      "id": 204811115,
+      "name": "Adidas Ultraboost 21 Running Shoes in Black",
+      "description": "High-performance running shoes from Adidas",
+      "isInStock": true,
+      "gender": "female",
+      "category": "running",
+      "availableSizes": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "Chris Johnson",
+          "userImage": "/src/assets/user-profile-photo-3.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Amazing shoes for running!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Emily Davis",
+          "userImage": "/src/assets/user-profile-photo-4.jpg",
+          "location": "Australia",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Comfortable but could be lighter",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 15,
+      "productionDate": "2023-01-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 180,
+          "text": "$180.00"
+        }
+      },
+      "brandName": "Adidas",
+      "productCode": 130243744,
+      "imageUrl": "http://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7210d2419d5a448f9526ac7f0116f93f_9366/Ultraboost_21_Running_Shoes_Black_FZ2762_01_standard.jpg",
+      "additionalImageUrls": [
+        "https://example.com/adidas-ultraboost-21-running-shoes-black-1.jpg",
+        "https://example.com/adidas-ultraboost-21-running-shoes-black-2.jpg",
+        "https://example.com/adidas-ultraboost-21-running-shoes-black-3.jpg"
+      ]
+    },
+    {
+      "id": 205107272,
+      "name": "Puma Suede Classic Sneakers in Blue",
+      "description": "Iconic sneakers from Puma",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "rating": 4.2,
+      "reviews": [
+        {
+          "username": "Michael Thompson",
+          "userImage": "/src/assets/user-profile-photo-5.jpg",
+          "location": "United States",
+          "rating": 4,
+          "date": "March 3, 2023",
+          "reviewTitle": "Nice design but soles wear out quickly",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sarah Wilson",
+          "userImage": "/src/assets/user-profile-photo-6.jpg",
+          "location": "Canada",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Very comfortable",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 25,
+      "productionDate": "2022-12-20T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": "$75.00"
+        }
+      },
+      "brandName": "Puma",
+      "productCode": 132236491,
+      "imageUrl": "http://images.asos-media.com/products/puma-suede-classic-sneakers-in-blue-36534703/9358028-1-blue?$n_640w$&wid=513&fit=constrain",
+      "additionalImageUrls": [
+        "https://example.com/puma-suede-classic-sneakers-blue-1.jpg",
+        "https://example.com/puma-suede-classic-sneakers-blue-2.jpg",
+        "https://example.com/puma-suede-classic-sneakers-blue-3.jpg"
+      ]
+    },
+    {
+      "id": 204811116,
+      "name": "Converse Chuck Taylor All Star High Top Sneakers in Red",
+      "description": "Iconic high top sneakers from Converse",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "Alex Rodriguez",
+          "userImage": "/src/assets/user-profile-photo-7.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Timeless classic",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Maria Garcia",
+          "userImage": "/src/assets/user-profile-photo-8.jpg",
+          "location": "Spain",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Very comfortable but runs large",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2023-02-28T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 70,
+          "text": "$70.00"
+        }
+      },
+      "brandName": "Converse",
+      "productCode": 130243745,
+      "imageUrl": "http://converse.ca/media/catalog/product/cache/7675cebc3e2f09ee2a340c17d68ace33/m/9/m9621_a_107x1_2nd.jpg",
+      "additionalImageUrls": [
+        "https://example.com/converse-chuck-taylor-all-star-high-top-sneakers-red-1.jpg",
+        "https://example.com/converse-chuck-taylor-all-star-high-top-sneakers-red-2.jpg",
+        "https://example.com/converse-chuck-taylor-all-star-high-top-sneakers-red-3.jpg"
+      ]
+    },
+    {
+      "id": 205107273,
+      "name": "Vans Old Skool Sneakers in Black and White",
+      "description": "Classic skate shoes from Vans",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "rating": 4.4,
+      "reviews": [
+        {
+          "username": "David Brown",
+          "userImage": "/src/assets/user-profile-photo-9.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "My favorite shoes!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Emma White",
+          "userImage": "/src/assets/user-profile-photo-10.jpg",
+          "location": "Australia",
+          "rating": 4,
+          "date": "March 3, 2023",
+          "reviewTitle": "Good shoes but not the most durable",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 35,
+      "productionDate": "2022-11-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 60,
+          "text": "$60.00"
+        }
+      },
+      "brandName": "Vans",
+      "productCode": 132236492,
+      "imageUrl": "http://cdn-images.farfetch-contents.com/16/67/39/53/16673953_32666843_600.jpg",
+      "additionalImageUrls": [
+        "https://example.com/vans-old-skool-sneakers-black-white-1.jpg",
+        "https://example.com/vans-old-skool-sneakers-black-white-2.jpg",
+        "https://example.com/vans-old-skool-sneakers-black-white-3.jpg"
+      ]
+    },
+    {
+      "id": 204811117,
+      "name": "Reebok Classic Leather Sneakers in White",
+      "description": "Timeless sneakers from Reebok",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "Mark Wilson",
+          "userImage": "/src/assets/user-profile-photo-11.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Classic and comfortable",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Laura Johnson",
+          "userImage": "/src/assets/user-profile-photo-12.jpg",
+          "location": "United Kingdom",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great shoes but a bit narrow",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 40,
+      "productionDate": "2023-03-01T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 80,
+          "text": "$80.00"
+        }
+      },
+      "brandName": "Reebok",
+      "productCode": 130243746,
+      "imageUrl": "http://reebok.bynder.com/transform/22a2be53-79cb-454d-8618-18f693ff3569/100008491_SLC_eCom-tif?io=transform:fit,width:500&quality=100",
+      "additionalImageUrls": [
+        "https://example.com/reebok-classic-leather-sneakers-white-1.jpg",
+        "https://example.com/reebok-classic-leather-sneakers-white-2.jpg",
+        "https://example.com/reebok-classic-leather-sneakers-white-3.jpg"
+      ]
+    },
+    {
+      "id": 205107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "female",
+      "category": "boots",
+      "availableSizes": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "http://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/100190s.jpg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
     }
   ]
 }

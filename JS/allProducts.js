@@ -59,7 +59,7 @@ async function processCategory(gender) {
       col.classList.add("col-12");
       col.classList.add("product-col");
       col.innerHTML = `
-        <img src="${imageUrls[j]}" alt="${names[j]}">
+        <img src="${imageUrls[j]}" alt="${names[j]}" width="314px" height="500px">
         <h2>${names[j]}</h2>
         <p>ID: ${ids[j]}</p>
         <p>Rating: ${ratings[j]}</p>
@@ -75,4 +75,4 @@ async function processCategory(gender) {
   document.body.appendChild(container);
 }
 // console.log("script.js is loaded");
-// processCategory("male");
+processCategory("male");
