@@ -33,20 +33,26 @@ async function processCategory(gender) {
   const imageUrls = products.map((product) => product.imageUrl);
   var names = [];
 
+  // take the first three words from product name
   for (let name of namesBeforeSlicing) {
-    names.push(name.split(" ").slice(0, 3).join(" ")); // take the first three words
+    names.push(name.split(" ").slice(0, 3).join(" "));
   }
 
-  let container = document.getElementsByClassName("container")[1];
+  // Make Category Header-Name Dynamic
   var headerDiv = document.createElement("div");
-  let header = document.createElement("h4");
+  var header = document.createElement("h4");
+  header.classList.add("men-cat-header");
   headerDiv.classList.add("col-12");
   headerDiv.classList.add("men-cat-header");
   if (gender === "male") {
     header.textContent = "Men Department";
-  } else {
+  } else if (gender === "female") {
     header.textContent = "Women Department";
+  } else if (gender === "kids") {
+    header.textContent = "Kids Department";
   }
+
+  let container = document.getElementsByClassName("container")[1];
   // Create a row for every three products
   for (let i = 0; i < ids.length; i += 3) {
     const row = document.createElement("div");
@@ -55,15 +61,15 @@ async function processCategory(gender) {
     // Create three columns in the row
     for (let j = i; j < i + 3 && j < ids.length; j++) {
       const col = document.createElement("div");
-      col.classList.add("col-lg-4");
+      col.classList.add("col-lg-3");
       col.classList.add("col-12");
       col.classList.add("product-col");
       col.innerHTML = `
         <img src="${imageUrls[j]}" alt="${names[j]}" width="314px" height="500px">
-        <h2>${names[j]}</h2>
-        <p>ID: ${ids[j]}</p>
+        <h4 class="product-name">${names[j]}</h4>
         <p>Rating: ${ratings[j]}</p>
         <p>Price: ${prices[j]}</p>
+        <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"> </i> Add </button>
       `;
       row.appendChild(col);
     }
@@ -71,8 +77,14 @@ async function processCategory(gender) {
   }
 
   headerDiv.appendChild(header);
-  container.appendChild(headerDiv[0]);
+  container.insertBefore(headerDiv, container.firstChild);
   document.body.appendChild(container);
+
+  // Add event listeners to all "Add to Cart" buttons
+  const addToCartButtons = document.querySelectorAll(".add-to-cart-btn");
+  addToCartButtons.forEach((button, index) => {
+    button.addEventListener("click", () => addToCart(products[index]));
+  });
 }
-// console.log("script.js is loaded");
+
 processCategory("male");

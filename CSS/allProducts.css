@@ -96,9 +96,17 @@ body {
 
 .men-cat-header {
   text-align: center;
-  font-size: 24px;
+  font-size: 40px;
   font-weight: bold;
   margin: 20px 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  transition: all;
+  transition-duration: 0.5s;
+}
+
+.men-cat-header:hover {
+  word-spacing: 10px;
+  letter-spacing: 10px;
 }
 
 .price {
@@ -145,17 +153,60 @@ button:hover {
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
-  padding: 20px;
+  padding-bottom: 20px;
   margin-bottom: 80px;
+  margin-left: 30px;
   transition: all;
-  transition-duration: 3s;
-  margin-left: 0px;
+  transition-duration: 1s;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 90%; /* Adjust the width as needed */
+  max-width: 1200px; /* Optional: Set a maximum width to prevent it from becoming too wide on larger screens */
+}
+
+p {
+  /* margin-top: ; */
 }
 
 .product-col:hover {
-  background-color: grey;
+  background-color: rgb(219, 217, 217);
 }
 
 image {
   width: 100%;
+}
+
+.add-to-cart-btn {
+  position: relative;
+  color: #fff;
+  padding: 12px 16px 12px 36px; /* Added padding for the icon */
+  text-decoration: none;
+  display: block;
+  background-color: #333;
+  border: none;
+  text-align: center;
+  width: 160px; /* Increased width to accommodate the icon */
+}
+
+.add-to-cart-btn {
+  background-color: #1678e1;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #125fb1;
+}
+
+.add-to-cart-btn i {
+  position: absolute;
+  left: 33px; /* Position the icon */
+}
+
+.product-name {
+  margin-top: 10px;
 }
