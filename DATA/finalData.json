@@ -1,0 +1,2786 @@
+{
+  "products": [
+    {
+      "id": 205082351,
+      "name": "Walk London Milano lace up boots in black leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40, 41, 42],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Darron Miloscia",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2017",
+          "reviewTitle": "Thinking to buy another one!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Andres Papp",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Portugal",
+          "rating": 4,
+          "date": "March 3, 2020",
+          "reviewTitle": "Very good boots!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Twana Davinroy",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "Germany",
+          "rating": 3,
+          "date": "March 3, 2023",
+          "reviewTitle": "It can be better!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "$115.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179002,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-1-black",
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-2",
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-3",
+        "images.asos-media.com/products/walk-london-milano-lace-up-boots-in-black-leather/205082351-4"
+      ]
+    },
+    {
+      "id": 204349751,
+      "name": "Reebok BB 4000 II sneakers in white with blue detail",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40, 41, 42, 43, 44],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "India",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best sneakers in the whole world!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bennett Bushley",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "China",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "This sneakers are golden!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Milan Dragić",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Serbia",
+          "rating": 1,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "brandName": "Reebok",
+      "productCode": 126663939,
+      "imageUrl": "http://images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-1-white",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-1-white",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-2",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-3",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-4",
+        "images.asos-media.com/products/reebok-bb-4000-ii-sneakers-in-white-with-blue-detail/204349751-5"
+      ]
+    },
+    {
+      "id": 204525730,
+      "name": "Nike Air Force 1 '07 LV8 Remix sneakers in gray",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 39, 40, 41, 42, 43, 44],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Darwin Jeffres",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Gibraltar",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "I expected more from Nike",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Armando Robertus",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "England",
+          "rating": 2,
+          "date": "January 2, 2023",
+          "reviewTitle": "I don't like these sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Art Colombo",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Senegal",
+          "rating": 1,
+          "date": "January 3, 2023",
+          "reviewTitle": "Very bad",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 210,
+      "productionDate": "2019-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "$130.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493550,
+      "imageUrl": "http://images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-1-grey",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-2",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-3",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-remix-sneakers-in-gray/204525730-4"
+      ]
+    },
+    {
+      "id": 205116880,
+      "name": "Vans Knu Skool sneakers in navy and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 39, 40, 41, 42, 43, 44],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Tula Gunnip",
+          "userImage": "/src/assets/user profile photo 11.jpg",
+          "location": "Italy",
+          "rating": 3,
+          "date": "January 3, 2023",
+          "reviewTitle": "Good present for my boyfriend",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alden Stropki",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Bosnia",
+          "rating": 4,
+          "date": "February 3, 2023",
+          "reviewTitle": "Good and practical",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 7,
+      "productionDate": "2013-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": "$75.00"
+        }
+      },
+      "brandName": "Vans",
+      "productCode": 132249573,
+      "imageUrl": "http://images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-1-navy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-1-navy",
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-2",
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-3",
+        "images.asos-media.com/products/vans-knu-skool-sneakers-in-navy-and-white/205116880-4"
+      ]
+    },
+    {
+      "id": 205117227,
+      "name": "PUMA Palermo Leather sneakers in black and white",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 39, 40, 41, 42, 43, 44],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Trenton Schairer",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Germany",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best present for new year",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "John Markin",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "January 31, 2023",
+          "reviewTitle": "I like these sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Wilber Risola",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "This is excellent product by Puma!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 11,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "brandName": "Puma",
+      "productCode": 132250056,
+      "imageUrl": "http://images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-1-blackwhite",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-1-blackwhite",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-2",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-3",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-4",
+        "images.asos-media.com/products/puma-palermo-leather-sneakers-in-black-and-white/205117227-5"
+      ]
+    },
+    {
+      "id": 205170977,
+      "name": "New Balance 580 sneakers in gray",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Luka Modrić",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Croatia",
+          "rating": 5,
+          "date": "December 31, 2023",
+          "reviewTitle": "Best sneakers for sport!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Leon Westphalen",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Japan",
+          "rating": 4,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "I am very happy with this product, but it is not perfect!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Berta Ruediger",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "Januarz 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 320,
+      "productionDate": "2017-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 129.99,
+          "text": "$129.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362851,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-1-grey",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-2",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-3",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-4",
+        "images.asos-media.com/products/new-balance-580-sneakers-in-gray/205170977-5"
+      ]
+    },
+    {
+      "id": 205170993,
+      "name": "New Balance 574 sneakers in gray with black detail",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 3 f.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Excellent present for father's birthday!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Sooo goood sneakers!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hae Studer",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "The Best Sneakers In The World!!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3200,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 94.99,
+          "text": "$94.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362839,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-1-grey",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-2",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-3",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-4",
+        "images.asos-media.com/products/new-balance-574-sneakers-in-gray-with-black-detail/205170993-5"
+      ]
+    },
+    {
+      "id": 205171062,
+      "name": "New Balance 480 sneakers in black and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Benedict Pojar",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2023",
+          "reviewTitle": "Solid sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Henry Buller",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "England",
+          "rating": 5,
+          "date": "January 31, 2023",
+          "reviewTitle": "Soo goood sneakers!!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Earnest Monie",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "Egypt",
+          "rating": 1,
+          "date": "January 31, 2023",
+          "reviewTitle": "I want my money back",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3120,
+      "productionDate": "2010-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 89.99,
+          "text": "$89.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362836,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-1-black",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-2",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-3",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-4",
+        "images.asos-media.com/products/new-balance-480-sneakers-in-black-and-white/205171062-5"
+      ]
+    },
+    {
+      "id": 205171114,
+      "name": "New Balance 610 sneakers in blue with white detail",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Cristopher Sciano",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Holand",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Excellent sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Tommie Huesing",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "February 31, 2023",
+          "reviewTitle": "Very good and affordable sneakers",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Bryant Garns",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "August 31, 2023",
+          "reviewTitle": "Simple and elegant",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 230,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 109.99,
+          "text": "$109.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362845,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-1-midblue",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-1-midblue",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-2",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-3",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-4",
+        "images.asos-media.com/products/new-balance-610-sneakers-in-blue-with-white-detail/205171114-5"
+      ]
+    },
+    {
+      "id": 205171544,
+      "name": "New Balance 2002R sneakers in gray with black detail",
+      "description": "Demo description",
+      "isInStock": false,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Jerald Rosemond",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "Soooo fantastic!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Elwood Winstone",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "September 31, 2023",
+          "reviewTitle": "These sneakers are sooo goood!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Claude Soots",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 31, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 139.99,
+          "text": "$139.99"
+        }
+      },
+      "brandName": "New Balance",
+      "productCode": 132362844,
+      "imageUrl": "http://images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-1-grey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-1-grey",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-2",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-3",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-4",
+        "images.asos-media.com/products/new-balance-2002r-sneakers-in-gray-with-black-detail/205171544-5"
+      ]
+    },
+    {
+      "id": 203509790,
+      "name": "Nike Blazer Low '77 Jumbo sneakers in green and brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Manuel Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Denmark",
+          "rating": 4,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Breslin",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "October 29, 2023",
+          "reviewTitle": "They are good but...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "November 29, 2022",
+          "reviewTitle": "I am happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 130,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 121204339,
+      "imageUrl": "http://images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-1-green",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-1-green",
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-2",
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-3",
+        "images.asos-media.com/products/nike-blazer-low-77-jumbo-sneakers-in-green-and-brown/203509790-4"
+      ]
+    },
+    {
+      "id": 204525320,
+      "name": "Nike Blazer Mid '77 Vintage sneakers in white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "USA",
+          "rating": 4,
+          "date": "November 31, 2022",
+          "reviewTitle": "Very good sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Geraldo Dellapina",
+          "userImage": "/src/assets/user profile photo 3.jpg",
+          "location": "USA",
+          "rating": 5,
+          "date": "December 31, 2022",
+          "reviewTitle": "Excellent as a present for my kid!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Lewis Lefleur",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these sneakers...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3770,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 105,
+          "text": "$105.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493551,
+      "imageUrl": "http://images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-1-white",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-1-white",
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-2",
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-3",
+        "images.asos-media.com/products/nike-blazer-mid-77-vintage-sneakers-in-white/204525320-4"
+      ]
+    },
+    {
+      "id": 205136837,
+      "name": "Tommy Jeans retro basket essential sneakers in navy",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Errol Grabber",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kristofer Comi",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2011-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 131,
+          "text": "$131.00"
+        }
+      },
+      "brandName": "Tommy Jeans",
+      "productCode": 132292785,
+      "imageUrl": "http://images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-1-twilightnavy",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-1-twilightnavy",
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-2",
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-3",
+        "images.asos-media.com/products/tommy-jeans-retro-basket-essential-sneakers-in-navy/205136837-4"
+      ]
+    },
+    {
+      "id": 205102248,
+      "name": "Tommy Hilfiger core suede leather boots in cocoa",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 1,
+      "reviews": [
+        {
+          "username": "Nathaniel Luebrecht",
+          "userImage": "/src/assets/user profile photo 1.jpg",
+          "location": "Greece",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Switzerland",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "Not good at all!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "England",
+          "rating": 3,
+          "date": "January 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 3,
+      "productionDate": "2012-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 220,
+          "text": "$220.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229756,
+      "imageUrl": "http://images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-1-cocoa",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-1-cocoa",
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-2",
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-3",
+        "images.asos-media.com/products/tommy-hilfiger-core-suede-leather-boots-in-cocoa/205102248-4"
+      ]
+    },
+    {
+      "id": 205102326,
+      "name": "Tommy Hilfiger running sneakers in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 2,
+      "reviews": [
+        {
+          "username": "Korey Stevie",
+          "userImage": "/src/assets/user profile photo 10.jpg",
+          "location": "England",
+          "rating": 2,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Val Nak",
+          "userImage": "/src/assets/user profile photo 9.jpg",
+          "location": "Belgium",
+          "rating": 3,
+          "date": "Februrary 31, 2022",
+          "reviewTitle": "Good but...",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Omar Wolfendale",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Romania",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I won't buy these sneakers again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 330,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 147,
+          "text": "$147.00"
+        }
+      },
+      "brandName": "Tommy Hilfiger",
+      "productCode": 132229752,
+      "imageUrl": "http://images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-1-black",
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-2",
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-3",
+        "images.asos-media.com/products/tommy-hilfiger-running-sneakers-in-black/205102326-4"
+      ]
+    },
+    {
+      "id": 204811056,
+      "name": "New Look brogue in dark brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kris Uebbing",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good shoes",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marion Mulvenna",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 120,
+      "productionDate": "2014-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 58,
+          "text": "$58.00"
+        }
+      },
+      "brandName": "New Look",
+      "productCode": 130243741,
+      "imageUrl": "http://images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-1-darkbrown",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-1-darkbrown",
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-2",
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-3",
+        "images.asos-media.com/products/new-look-brogue-in-dark-brown/204811056-4"
+      ]
+    },
+    {
+      "id": 205225241,
+      "name": "AllSaints Rhett suede chelsea boots in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kris Uebbing",
+          "userImage": "/src/assets/user profile photo 5.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marion Mulvenna",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 249,
+          "text": "$249.00"
+        }
+      },
+      "brandName": "AllSaints",
+      "productCode": 132462856,
+      "imageUrl": "http://images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-1-black",
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-2",
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-3",
+        "images.asos-media.com/products/allsaints-rhett-suede-chelsea-boots-in-black/205225241-4"
+      ]
+    },
+    {
+      "id": 204525864,
+      "name": "Nike Air Force 1 '07 LV8 Mid sneakers in green and white",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Marion Mulvenna",
+          "userImage": "/src/assets/user profile photo 8.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good but..",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Alex Mulvenna",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Deandre Kuon",
+          "userImage": "/src/assets/user profile photo 4.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 5530,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 140,
+          "text": "$140.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 127493601,
+      "imageUrl": "http://images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-1-midgreen",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-1-midgreen",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-2",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-3",
+        "images.asos-media.com/products/nike-air-force-1-07-lv8-mid-sneakers-in-green-and-white/204525864-4"
+      ]
+    },
+    {
+      "id": 205107270,
+      "name": "Walk London Sean tassel loafers in brown milled leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40, 41, 42, 43, 44],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Gabriele Krein",
+          "userImage": "/src/assets/user profile photo 1 f.jpg",
+          "location": "France",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "The best product for women!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Ashlie Amon",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "France",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "Not perfect but very good!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Rosenda Kukucka",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Greece",
+          "rating": 4,
+          "date": "March 3, 2021",
+          "reviewTitle": "I will buy 10 of these!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "$88.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132236489,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-1-brown",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-1-brown",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-2",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-3",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-brown-milled-leather/205107270-4"
+      ]
+    },
+    {
+      "id": 204811084,
+      "name": "New Look woven loafers in dark brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Yuriko Infantolino",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Amira Georgevich",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Chery Marinoff",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 830,
+      "productionDate": "2015-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 65,
+          "text": "$65.00"
+        }
+      },
+      "brandName": "New Look",
+      "productCode": 130243740,
+      "imageUrl": "http://images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-1-darkbrown",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-1-darkbrown",
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-2",
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-3",
+        "images.asos-media.com/products/new-look-woven-loafers-in-dark-brown/204811084-4"
+      ]
+    },
+    {
+      "id": 204811114,
+      "name": "New Look tassle loafers in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Shae Laday",
+          "userImage": "/src/assets/user profile photo 8 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good but..",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Anjelica Eisenbarth",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Guadalupe Domina",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 20,
+      "productionDate": "2023-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 62,
+          "text": "$62.00"
+        }
+      },
+      "brandName": "New Look",
+      "productCode": 130243743,
+      "imageUrl": "http://images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-1-black",
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-2",
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-3",
+        "images.asos-media.com/products/new-look-tassle-loafers-in-black/204811114-4"
+      ]
+    },
+    {
+      "id": 205225329,
+      "name": "AllSaints Melos leather chelsea boots in dark brown",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [40, 41, 42, 43, 44, 45, 46],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Chery Marinoff",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Anjelica Eisenbarth",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Amira Georgevich",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 21330,
+      "productionDate": "2018-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 294,
+          "text": "$294.00"
+        }
+      },
+      "brandName": "AllSaints",
+      "productCode": 132462838,
+      "imageUrl": "http://images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-1-brownstone",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-1-brownstone",
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-2",
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-3",
+        "images.asos-media.com/products/allsaints-melos-leather-chelsea-boots-in-dark-brown/205225329-4"
+      ]
+    },
+    {
+      "id": 205002072,
+      "name": "ASOS DESIGN heeled chelsea boots in snake print faux leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "boots",
+      "availableSizes": ["XS", "S", "M", "L", "XL"],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Etta Corner",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with these jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Jerri Liriano",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent jeans...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marita Daya",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 870,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 99.99,
+          "text": "$99.99"
+        }
+      },
+      "brandName": "ASOS DESIGN",
+      "productCode": 131551127,
+      "imageUrl": "http://images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-1-snakegrey",
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-2",
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-3",
+        "images.asos-media.com/products/asos-design-heeled-chelsea-boots-in-snake-print-faux-leather/205002072-4"
+      ]
+    },
+    {
+      "id": 205082069,
+      "name": "Walk London Campus loafers in black leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [39, 40, 41, 42, 43, 44],
+      "rating": 3,
+      "reviews": [
+        {
+          "username": "Alline Smylie",
+          "userImage": "/src/assets/user profile photo 8 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Good but..",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Karie Timmermann",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Holand",
+          "rating": 5,
+          "date": "August 21, 2022",
+          "reviewTitle": "I would buy it again",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Demetra Delappe",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 89980,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 101,
+          "text": "$101.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179016,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-2",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-3",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-4"
+      ]
+    },
+    {
+      "id": 205082069,
+      "name": "Walk London Campus loafers in black leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Errol Grabber",
+          "userImage": "/src/assets/user profile photo 6.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Kristofer Comi",
+          "userImage": "/src/assets/user profile photo 7.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Luciano Haarman",
+          "userImage": "/src/assets/user profile photo 2.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 34230,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 101,
+          "text": "$101.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132179016,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-1-black",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-2",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-3",
+        "images.asos-media.com/products/walk-london-campus-loafers-in-black-leather/205082069-4"
+      ]
+    },
+    {
+      "id": 205107261,
+      "name": "Walk London Sean tassel loafers in black milled leather",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Daphne Binggeli",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Yolonda Doroteo",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shu Welland",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 8730,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 88,
+          "text": "$88.00"
+        }
+      },
+      "brandName": "WALK LONDON",
+      "productCode": 132236488,
+      "imageUrl": "http://images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-1-black",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-2",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-3",
+        "images.asos-media.com/products/walk-london-sean-tassel-loafers-in-black-milled-leather/205107261-4"
+      ]
+    },
+    {
+      "id": 205242079,
+      "name": "Crocs Classic metallic Crocskin clog black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "slippers",
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Jerri Liriano",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Daphne Binggeli",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Samira Mazar",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 1230,
+      "productionDate": "2016-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 54.99,
+          "text": "$54.99"
+        }
+      },
+      "brandName": "Crocs",
+      "productCode": 132515705,
+      "imageUrl": "http://images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-1-black",
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-2",
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-3",
+        "images.asos-media.com/products/crocs-classic-metallic-crocskin-clog-black/205242079-4"
+      ]
+    },
+    {
+      "id": 205541560,
+      "name": "River Island faux shearling slides in beige",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "slippers",
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
+      "rating": 4,
+      "reviews": [
+        {
+          "username": "Jerri Liriano",
+          "userImage": "/src/assets/user profile photo 4 f.jpg",
+          "location": "Nepal",
+          "rating": 1,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very bad quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Marita Daya",
+          "userImage": "/src/assets/user profile photo 5 f.jpg",
+          "location": "Holand",
+          "rating": 3,
+          "date": "August 21, 2022",
+          "reviewTitle": "Simple and good product",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shu Welland",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "Austria",
+          "rating": 4,
+          "date": "August 21, 2022",
+          "reviewTitle": "Very good quality",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 6530,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 55,
+          "text": "$55.00"
+        }
+      },
+      "brandName": "River Island",
+      "productCode": 133263510,
+      "imageUrl": "http://images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-1-beige",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-1-beige",
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-2",
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-3",
+        "images.asos-media.com/products/river-island-faux-shearling-slides-in-beige/205541560-4"
+      ]
+    },
+    {
+      "id": 205602826,
+      "name": "Pull and Bear chunky sole loafer in black",
+      "description": "Demo description",
+      "isInStock": true,
+      "gender": "female",
+      "category": "slippers",
+      "availableSizes": [39, 40, 41, 42, 43, 44, 45],
+      "rating": 5,
+      "reviews": [
+        {
+          "username": "Demetra Delappe",
+          "userImage": "/src/assets/user profile photo 6 f.jpg",
+          "location": "USA",
+          "rating": 1,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am not happy with this product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Shu Welland",
+          "userImage": "/src/assets/user profile photo 7 f.jpg",
+          "location": "Argentina",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "Excellent product...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        },
+        {
+          "username": "Hedy Barwari",
+          "userImage": "/src/assets/user profile photo 2 f.jpg",
+          "location": "Greece",
+          "rating": 5,
+          "date": "January 31, 2022",
+          "reviewTitle": "I am very happy...!!!",
+          "reviewText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, vero distinctio maxime quidem aperiam ut expedita voluptate similique, officia, maiores a minus fugit explicabo dolor iure quisquam in voluptatibus ipsa facilis aliquid. Labore nulla quibusdam adipisci eligendi eum accusamus repellat!"
+        }
+      ],
+      "totalReviewCount": 12330,
+      "productionDate": "2021-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 62.35,
+          "text": "$62.35"
+        }
+      },
+      "brandName": "Pull and Bear",
+      "productCode": 133392665,
+      "imageUrl": "http://images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-1-black",
+      "additionalImageUrls": [
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-1-black",
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-2",
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-3",
+        "images.asos-media.com/products/pullbear-chunky-sole-loafer-in-black/205602826-4"
+      ]
+    },
+    {
+      "id": 205107271,
+      "name": "Nike Air Force 1 '07 Sneakers in White",
+      "description": "Classic white sneakers from Nike",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [8, 9, 10, 11, 12],
+      "rating": 4.5,
+      "reviews": [
+        {
+          "username": "John Doe",
+          "userImage": "/src/assets/user-profile-photo-1.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great Shoes!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Jane Smith",
+          "userImage": "/src/assets/user-profile-photo-2.jpg",
+          "location": "United Kingdom",
+          "rating": 4,
+          "date": "March 3, 2023",
+          "reviewTitle": "Good but a bit tight",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 20,
+      "productionDate": "2022-10-31T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "brandName": "Nike",
+      "productCode": 132236490,
+      "imageUrl": "http://cdn-images.farfetch-contents.com/16/12/40/94/16124094_40804155_600.jpg",
+      "additionalImageUrls": [
+        "https://example.com/nike-air-force-1-07-sneakers-white-1.jpg",
+        "https://example.com/nike-air-force-1-07-sneakers-white-2.jpg",
+        "https://example.com/nike-air-force-1-07-sneakers-white-3.jpg"
+      ]
+    },
+    {
+      "id": 204811115,
+      "name": "Adidas Ultraboost 21 Running Shoes in Black",
+      "description": "High-performance running shoes from Adidas",
+      "isInStock": true,
+      "gender": "female",
+      "category": "running",
+      "availableSizes": [8, 9, 10, 11, 12],
+      "rating": 4.8,
+      "reviews": [
+        {
+          "username": "Chris Johnson",
+          "userImage": "/src/assets/user-profile-photo-3.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Amazing shoes for running!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Emily Davis",
+          "userImage": "/src/assets/user-profile-photo-4.jpg",
+          "location": "Australia",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Comfortable but could be lighter",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 15,
+      "productionDate": "2023-01-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 180,
+          "text": "$180.00"
+        }
+      },
+      "brandName": "Adidas",
+      "productCode": 130243744,
+      "imageUrl": "http://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7210d2419d5a448f9526ac7f0116f93f_9366/Ultraboost_21_Running_Shoes_Black_FZ2762_01_standard.jpg",
+      "additionalImageUrls": [
+        "https://example.com/adidas-ultraboost-21-running-shoes-black-1.jpg",
+        "https://example.com/adidas-ultraboost-21-running-shoes-black-2.jpg",
+        "https://example.com/adidas-ultraboost-21-running-shoes-black-3.jpg"
+      ]
+    },
+    {
+      "id": 205107272,
+      "name": "Puma Suede Classic Sneakers in Blue",
+      "description": "Iconic sneakers from Puma",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [8, 9, 10, 11, 12],
+      "rating": 4.2,
+      "reviews": [
+        {
+          "username": "Michael Thompson",
+          "userImage": "/src/assets/user-profile-photo-5.jpg",
+          "location": "United States",
+          "rating": 4,
+          "date": "March 3, 2023",
+          "reviewTitle": "Nice design but soles wear out quickly",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sarah Wilson",
+          "userImage": "/src/assets/user-profile-photo-6.jpg",
+          "location": "Canada",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Very comfortable",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 25,
+      "productionDate": "2022-12-20T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 75,
+          "text": "$75.00"
+        }
+      },
+      "brandName": "Puma",
+      "productCode": 132236491,
+      "imageUrl": "http://images.asos-media.com/products/puma-suede-classic-sneakers-in-blue-36534703/9358028-1-blue?$n_640w$&wid=513&fit=constrain",
+      "additionalImageUrls": [
+        "https://example.com/puma-suede-classic-sneakers-blue-1.jpg",
+        "https://example.com/puma-suede-classic-sneakers-blue-2.jpg",
+        "https://example.com/puma-suede-classic-sneakers-blue-3.jpg"
+      ]
+    },
+    {
+      "id": 204811116,
+      "name": "Converse Chuck Taylor All Star High Top Sneakers in Red",
+      "description": "Iconic high top sneakers from Converse",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "username": "Alex Rodriguez",
+          "userImage": "/src/assets/user-profile-photo-7.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Timeless classic",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Maria Garcia",
+          "userImage": "/src/assets/user-profile-photo-8.jpg",
+          "location": "Spain",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Very comfortable but runs large",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 30,
+      "productionDate": "2023-02-28T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 70,
+          "text": "$70.00"
+        }
+      },
+      "brandName": "Converse",
+      "productCode": 130243745,
+      "imageUrl": "http://converse.ca/media/catalog/product/cache/7675cebc3e2f09ee2a340c17d68ace33/m/9/m9621_a_107x1_2nd.jpg",
+      "additionalImageUrls": [
+        "https://example.com/converse-chuck-taylor-all-star-high-top-sneakers-red-1.jpg",
+        "https://example.com/converse-chuck-taylor-all-star-high-top-sneakers-red-2.jpg",
+        "https://example.com/converse-chuck-taylor-all-star-high-top-sneakers-red-3.jpg"
+      ]
+    },
+    {
+      "id": 205107273,
+      "name": "Vans Old Skool Sneakers in Black and White",
+      "description": "Classic skate shoes from Vans",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.4,
+      "reviews": [
+        {
+          "username": "David Brown",
+          "userImage": "/src/assets/user-profile-photo-9.jpg",
+          "location": "United Kingdom",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "My favorite shoes!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Emma White",
+          "userImage": "/src/assets/user-profile-photo-10.jpg",
+          "location": "Australia",
+          "rating": 4,
+          "date": "March 3, 2023",
+          "reviewTitle": "Good shoes but not the most durable",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 35,
+      "productionDate": "2022-11-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 60,
+          "text": "$60.00"
+        }
+      },
+      "brandName": "Vans",
+      "productCode": 132236492,
+      "imageUrl": "http://cdn-images.farfetch-contents.com/16/67/39/53/16673953_32666843_600.jpg",
+      "additionalImageUrls": [
+        "https://example.com/vans-old-skool-sneakers-black-white-1.jpg",
+        "https://example.com/vans-old-skool-sneakers-black-white-2.jpg",
+        "https://example.com/vans-old-skool-sneakers-black-white-3.jpg"
+      ]
+    },
+    {
+      "id": 204811117,
+      "name": "Reebok Classic Leather Sneakers in White",
+      "description": "Timeless sneakers from Reebok",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.6,
+      "reviews": [
+        {
+          "username": "Mark Wilson",
+          "userImage": "/src/assets/user-profile-photo-11.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Classic and comfortable",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Laura Johnson",
+          "userImage": "/src/assets/user-profile-photo-12.jpg",
+          "location": "United Kingdom",
+          "rating": 4.5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great shoes but a bit narrow",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 40,
+      "productionDate": "2023-03-01T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 80,
+          "text": "$80.00"
+        }
+      },
+      "brandName": "Reebok",
+      "productCode": 130243746,
+      "imageUrl": "http://reebok.bynder.com/transform/22a2be53-79cb-454d-8618-18f693ff3569/100008491_SLC_eCom-tif?io=transform:fit,width:500&quality=100",
+      "additionalImageUrls": [
+        "https://example.com/reebok-classic-leather-sneakers-white-1.jpg",
+        "https://example.com/reebok-classic-leather-sneakers-white-2.jpg",
+        "https://example.com/reebok-classic-leather-sneakers-white-3.jpg"
+      ]
+    },
+    {
+      "id": 205107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "female",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "http://xcdn.next.co.uk/COMMON/Items/Default/Default/ItemImages/AltItemShot/315x472/100190s.jpg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_bc5f62d7-5b1b-445d-b989-d4272f65b1f6?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_c1195982-8dc5-492e-8071-695c26c67c2d?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_278f7635-0f84-4a8d-8879-8829d34d1459?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_197211c5-9877-404b-9a05-5d63e42b1104?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.1,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$150.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_e0e0569e-c9b3-4838-82c0-5fc4764126c3?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_d568ea72-acfb-4b96-aea3-162ff9d8ad5b?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_b1955099-f156-425a-a1bd-962b93540ddf?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_9c120018-36ba-4615-8305-7ff40473d09d?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_fe431b0a-c069-49f0-ab2b-ad53231202e2?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5afe8969-4d35-4d6a-83bc-b8ee678f03fe?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_f91c9044-fc9a-47d4-9ae0-9faf6d4d8ca0?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da08e3d3-3e93-4edf-abab-da26c6fc54bc?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_da08e3d3-3e93-4edf-abab-da26c6fc54bc?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_212f91aa-ddf3-4c09-8c76-ff40ad1fde22?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_5815970b-f2e3-437a-b7ee-5d716a0945d8?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_f311624a-f156-4966-880d-5255be668d06?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_05663149-b93d-42c0-8c56-6230c6ba2dad?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    },
+    {
+      "id": 253107274,
+      "name": "Timberland 6-Inch Premium Boots in Wheat",
+      "description": "Iconic boots from Timberland",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "boots",
+      "availableSizes": [7, 8, 9, 10, 11],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "username": "Daniel Smith",
+          "userImage": "/src/assets/user-profile-photo-13.jpg",
+          "location": "Canada",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Great quality, worth the price!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        },
+        {
+          "username": "Sophia Johnson",
+          "userImage": "/src/assets/user-profile-photo-14.jpg",
+          "location": "United States",
+          "rating": 5,
+          "date": "March 3, 2023",
+          "reviewTitle": "Best boots ever!",
+          "reviewText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ex vel quam eleifend consequat."
+        }
+      ],
+      "totalReviewCount": 50,
+      "productionDate": "2022-09-15T09:00:00.594Z",
+      "price": {
+        "current": {
+          "value": 200,
+          "text": "$200.00"
+        }
+      },
+      "brandName": "Timberland",
+      "productCode": 132236493,
+      "imageUrl": "https://target.scene7.com/is/image/Target/GUEST_f15bfbd6-1733-41fa-85bd-7c408d0cf576?wid=626&hei=626&qlt=80&fmt=pjpeg",
+      "additionalImageUrls": [
+        "https://example.com/timberland-6-inch-premium-boots-wheat-1.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-2.jpg",
+        "https://example.com/timberland-6-inch-premium-boots-wheat-3.jpg"
+      ]
+    }
+  ]
+}
