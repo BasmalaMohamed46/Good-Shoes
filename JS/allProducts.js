@@ -25,7 +25,10 @@ async function processCategory(gender) {
   clearDiv();
   const data = await fetchData();
   var products = data.filter((ele) => ele["gender"] === gender);
-
+  drawPageContent(products,gender);
+}
+// ----------------------------------- draw page content --------------------------------
+async function drawPageContent(products,gender="search"){
   const ids = products.map((product) => product.id);
   const namesBeforeSlicing = products.map((product) => product.name);
   const ratings = products.map((product) => product.rating);
@@ -44,14 +47,18 @@ async function processCategory(gender) {
   header.classList.add("men-cat-header");
   headerDiv.classList.add("col-12");
   headerDiv.classList.add("men-cat-header");
-  if (gender === "male") {
-    header.textContent = "Men Department";
-  } else if (gender === "female") {
-    header.textContent = "Women Department";
-  } else if (gender === "kids") {
-    header.textContent = "Kids Department";
+  if(gender==="male" || gender==="female" || gender==="kids"){
+    if (gender === "male") {
+      header.textContent = "Men Department";
+    } else if (gender === "female") {
+      header.textContent = "Women Department";
+    } else if (gender === "kids") {
+      header.textContent = "Kids Department";
+    }
   }
-
+  else{
+    header.textContent = "Search Results";
+  }
   let container = document.getElementsByClassName("container")[1];
   // Create a row for every three products
   for (let i = 0; i < ids.length; i += 3) {
@@ -86,5 +93,17 @@ async function processCategory(gender) {
     button.addEventListener("click", () => addToCart(products[index]));
   });
 }
+// ----------------------------------- search --------------------------------
+async function search(){
+  clearDiv();
+  var input;
+  input=document.getElementById("search").value;
+  input=input.toLowerCase();
+  const data = await fetchData();
+  var products = data.filter((ele) => ele["name"].toLowerCase().includes(input));
+  drawPageContent(products);
+}
+var searchBtn = document.getElementById("searchBtn");
+searchBtn.addEventListener("click", search);
 
 processCategory("male");
