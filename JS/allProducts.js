@@ -103,7 +103,9 @@ async function search() {
   input = document.getElementById("search").value;
   input = input.toLowerCase();
   const data = await fetchData();
-  var products = data.filter((ele) => ele["name"].toLowerCase().includes(input));
+  var products = data.filter((ele) =>
+    ele["name"].toLowerCase().includes(input)
+  );
   drawPageContent(products);
 }
 var searchBtn = document.getElementById("searchBtn");
