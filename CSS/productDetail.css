@@ -87,3 +87,21 @@ body {
   position: absolute;
   left: 15px; 
 }
+
+.color-square {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  border: 1px solid #ccc; 
+}
+
+.additional-images {
+  margin-top: 10px;
+}
+
+.additional-image {
+  width: 100px;
+  height: auto;
+  margin-top: 5px;
+}
