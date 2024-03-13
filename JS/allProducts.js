@@ -25,10 +25,10 @@ async function processCategory(gender) {
   clearDiv();
   const data = await fetchData();
   var products = data.filter((ele) => ele["gender"] === gender);
-  drawPageContent(products,gender);
+  drawPageContent(products, gender);
 }
 // ----------------------------------- draw page content --------------------------------
-async function drawPageContent(products,gender="search"){
+async function drawPageContent(products, gender = "search") {
   const ids = products.map((product) => product.id);
   const namesBeforeSlicing = products.map((product) => product.name);
   const ratings = products.map((product) => product.rating);
@@ -47,7 +47,7 @@ async function drawPageContent(products,gender="search"){
   header.classList.add("men-cat-header");
   headerDiv.classList.add("col-12");
   headerDiv.classList.add("men-cat-header");
-  if(gender==="male" || gender==="female" || gender==="kids"){
+  if (gender === "male" || gender === "female" || gender === "kids") {
     if (gender === "male") {
       header.textContent = "Men Department";
     } else if (gender === "female") {
@@ -55,8 +55,7 @@ async function drawPageContent(products,gender="search"){
     } else if (gender === "kids") {
       header.textContent = "Kids Department";
     }
-  }
-  else{
+  } else {
     header.textContent = "Search Results";
   }
   let container = document.getElementsByClassName("container")[1];
@@ -78,7 +77,11 @@ async function drawPageContent(products,gender="search"){
         <p>Price: ${prices[j]}</p>
         <button class="add-to-cart-btn"><i class="fas fa-shopping-cart"> </i> Add </button>
       `;
-      row.appendChild(col);
+      // Create a link around the product content
+      const productLink = document.createElement("a");
+      productLink.href = `productDetail.html?id=${ids[j]}`;
+      productLink.appendChild(col);
+      row.appendChild(productLink);
     }
     container.appendChild(row);
   }
@@ -94,11 +97,11 @@ async function drawPageContent(products,gender="search"){
   });
 }
 // ----------------------------------- search --------------------------------
-async function search(){
+async function search() {
   clearDiv();
   var input;
-  input=document.getElementById("search").value;
-  input=input.toLowerCase();
+  input = document.getElementById("search").value;
+  input = input.toLowerCase();
   const data = await fetchData();
   var products = data.filter((ele) => ele["name"].toLowerCase().includes(input));
   drawPageContent(products);
