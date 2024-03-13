@@ -1,3 +1,7 @@
+
+import Cart from './cart.js';
+document.addEventListener('DOMContentLoaded', function() {
+const cartInstance = new Cart();
 // ------------------------------------------ Show And Hide Dropdown Menu ------------------------------
 function showDropdown(element) {
   element.querySelector(".dropdown-content").style.display = "block";
@@ -93,9 +97,14 @@ async function drawPageContent(products, gender = "search") {
   // Add event listeners to all "Add to Cart" buttons
   const addToCartButtons = document.querySelectorAll(".add-to-cart-btn");
   addToCartButtons.forEach((button, index) => {
-    button.addEventListener("click", () => addToCart(products[index]));
+    button.addEventListener("click", (event) => {
+      event.preventDefault();
+      window.location.href = "cart.html";
+      cartInstance.addItem(products[index]);
+    });
   });
 }
+
 // ----------------------------------- search --------------------------------
 async function search() {
   clearDiv();
@@ -109,4 +118,9 @@ async function search() {
 var searchBtn = document.getElementById("searchBtn");
 searchBtn.addEventListener("click", search);
 
+// ----------------------------------- Add to Cart --------------------------------
+// function addToCart(product) {
+//   cartInstance.addItem(product);
+// }
 processCategory("male");
+});

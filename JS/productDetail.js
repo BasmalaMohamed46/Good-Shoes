@@ -1,3 +1,6 @@
+import Cart from './cart.js';
+document.addEventListener('DOMContentLoaded', function() {
+const cartInstance = new Cart();
 async function fetchProductData(id) {
   const url = "../DATA/finalData.json";
   const response = await fetch(url);
@@ -52,6 +55,11 @@ function populateProductDetails(product) {
     });
     additionalImagesContainer.appendChild(img);
   });
+  var addToCartBtn=document.getElementById("addToCart");
+  addToCartBtn.addEventListener("click",function(){
+    window.location.href = "cart.html";
+    cartInstance.addItem(product);
+  });
 }
 
 // Get the product ID from the URL query parameter
@@ -62,4 +70,5 @@ const productId = urlParams.get('id');
 // Fetch and populate product details
 fetchProductData(productId).then((product) => {
   populateProductDetails(product);
+});
 });
