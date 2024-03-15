@@ -8,7 +8,9 @@ export default class Cart {
             this.calcSubTotal();
             this.calcShipping();
             this.calcTotal();
+            this.assignCheckoutButton();
         }
+        
     }
 
     addItem(product) {
@@ -89,6 +91,17 @@ export default class Cart {
             this.calcTotal();
         }
     }
+    checkout() {
+        var total = this.calcTotal();
+        sessionStorage.setItem('total', total);
+        window.location.href = 'payment.html';
+    }
+    assignCheckoutButton() {
+        const checkoutButton = document.getElementById('Checkout');
+        checkoutButton.addEventListener('click', () => {
+            this.checkout();
+        });
+    }
 
     displayCart() {
         const cartContainer = document.getElementById('product-scroll');
@@ -139,6 +152,7 @@ export default class Cart {
             });
         });
     }
-}    
+}  
 
 const cart = new Cart();
+
