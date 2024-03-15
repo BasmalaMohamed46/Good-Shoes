@@ -88,3 +88,23 @@ async function processCategory(gender) {
 }
 
 processCategory("male");
+// -------------------------------------------------------- Filter By Price -----------------------------------
+
+async function filterPrices(minPrice, maxPrice) {
+  let data = await fetchData();
+  let prices = data.filter(
+    (ele) =>
+      ele.price.current.value >= minPrice && ele.price.current.value <= maxPrice
+  );
+  console.log(prices);
+}
+filterPrices(200, 300);
+
+// -------------------------------------------------------- Filter By Color -----------------------------------
+
+async function filterFunction(color) {
+  let data = await fetchData();
+  let colors = data.filter((ele) => ele.availableColors.includes(color));
+  console.log(colors);
+}
+filterFunction("black");
