@@ -28,6 +28,21 @@ function populateProductDetails(product) {
     colorSquare.classList.add("color-square");
     colorSquare.style.backgroundColor = color.toLowerCase();
     colorsContainer.appendChild(colorSquare);
+    colorSquare.addEventListener("click", function() {
+      product.selectedColor = color;
+      colorSquare.style.border = "3px solid #9eff6d";
+      const otherColorSquares = Array.from(colorsContainer.children).filter((c) => c !== colorSquare);
+      otherColorSquares.forEach((c) => {
+        if(c.style.backgroundColor === "white"){
+          c.style.border = "1px solid #ccc";
+        }
+        else{
+          c.style.border = "none";
+        }
+        
+      });
+      
+    });
   });
 
   const sizesContainer = document.getElementById("productSizes");
@@ -41,6 +56,16 @@ function populateProductDetails(product) {
     sizeCircle.classList.add("size-circle");
     sizeCircle.textContent = size;
     sizesContainer.appendChild(sizeCircle);
+    sizeCircle.addEventListener("click", function() {
+      product.selectedSize = size;
+      sizeCircle.style.border = "3px solid #9eff6d";
+      const otherSizeCircles = Array.from(sizesContainer.children).filter((c) => c !== sizeCircle);
+      otherSizeCircles.forEach((c) =>{ 
+        c.style.border = "none";
+      } );
+
+
+    });
   });
 
   // Populate additional images
