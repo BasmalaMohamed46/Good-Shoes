@@ -39,15 +39,13 @@
                 <a href="#" class="nav-link">Home</a>
               </li>
               <li
-                class="nav-item dropdown"
-                onmouseover="showDropdown(this)"
-                onmouseout="hideDropdown(this)"
+                class="nav-item dropdown" id="dropdown"
               >
                 <a href="#" class="nav-link">Categories</a>
                 <div class="dropdown-content">
-                  <button onclick="processCategory('male')">Men</button>
-                  <button onclick="processCategory('female')">Women</button>
-                  <button onclick="processCategory('kids')">Kids</button>
+                  <button id="men">Men</button>
+                  <button id="women">Women</button>
+                  <button id="kids">Kids</button>
                 </div>
               </li>
               <li class="nav-item">
@@ -80,6 +78,6 @@
     </nav>
     <div class="first"></div>
     <div class="container"></div>
-    <script type="" src="../JS/allProducts.js"></script>
+    <script type="module" src="../JS/allProducts.js"></script>
   </body>
 </html>

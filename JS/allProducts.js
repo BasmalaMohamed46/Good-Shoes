@@ -1,6 +1,6 @@
-// import Cart from "./cart.js";
-// document.addEventListener("DOMContentLoaded", function () {
-// const cartInstance = new Cart();
+import Cart from "./cart.js";
+document.addEventListener("DOMContentLoaded", function () {
+const cartInstance = new Cart();
 // ------------------------------------------ Show And Hide Dropdown Menu ------------------------------
 function showDropdown(element) {
   element.querySelector(".dropdown-content").style.display = "block";
@@ -9,6 +9,13 @@ function showDropdown(element) {
 function hideDropdown(element) {
   element.querySelector(".dropdown-content").style.display = "none";
 }
+
+document.getElementById("dropdown").addEventListener("mouseover", function () {
+  showDropdown(this);
+});
+document.getElementById("dropdown").addEventListener("mouseout", function () {
+  hideDropdown(this);
+});
 // ---------------------------------------- Fetching Data From JSON File --------------------------------
 
 async function fetchData() {
@@ -65,9 +72,9 @@ async function drawPageContent(products, gender = "search") {
         <option value="kids">Kids</option>
       </select>
     </div>
-    <button class="price" onclick="getFilteredPrice()">Submit</button>
+    <button class="price" id="filterBtn">Submit</button>
   `;
-
+  document.getElementById("filterBtn").addEventListener("click", getFilteredPrice);
   // Set the gender select to the provided gender to use in filter function
   const genderSelect = document.getElementById("genderSelect");
   genderSelect.value = gender;
@@ -132,6 +139,16 @@ async function drawPageContent(products, gender = "search") {
   });
 }
 
+document.getElementById("men").addEventListener("click", function () {
+  processCategory('male');
+});
+document.getElementById("women").addEventListener("click", function () {
+  processCategory('female');
+});
+document.getElementById("kids").addEventListener("click", function () {
+  processCategory('kids');
+});
+
 // ----------------------------------- search ------------------------------------------------------------------
 async function search() {
   clearDiv();
@@ -188,6 +205,8 @@ async function filterPrices(minPrice, maxPrice, gender) {
 
   return filteredData;
 }
+});
+
 
 // -------------------------------------------------------- Filter By Color -----------------------------------
 // async function filterFunction(color) {
@@ -196,3 +215,5 @@ async function filterPrices(minPrice, maxPrice, gender) {
 //   console.log(colors);
 // }
 // filterFunction("black");
+
+

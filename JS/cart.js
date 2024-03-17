@@ -8,7 +8,10 @@ export default class Cart {
             this.calcSubTotal();
             this.calcShipping();
             this.calcTotal();
+            this.addPromoCodes();
             this.assignCheckoutButton();
+            this.assignPromoCode();
+
         }
         
     }
@@ -34,6 +37,7 @@ export default class Cart {
         this.calcSubTotal();
         this.calcShipping();
         this.calcTotal();
+        this.addPromoCodes();
     }
     
 
@@ -92,7 +96,7 @@ export default class Cart {
         }
     }
     checkout() {
-        var total = this.calcTotal();
+        var total = document.getElementById('total').innerHTML;
         sessionStorage.setItem('total', total);
         window.location.href = 'payment.html';
     }
@@ -100,6 +104,37 @@ export default class Cart {
         const checkoutButton = document.getElementById('Checkout');
         checkoutButton.addEventListener('click', () => {
             this.checkout();
+        });
+    }
+
+    addPromoCodes(){
+        var promoCodes={
+            "10OFF":0.1,
+            "20OFF":0.2,
+            "30OFF":0.3,
+            "40OFF":0.4,
+            "50OFF":0.5
+        };
+        localStorage.setItem('promoCodes',JSON.stringify(promoCodes));
+    }
+    checkPromoCode(){
+        var promoCodes=JSON.parse(localStorage.getItem('promoCodes'));
+        var promoCode=document.getElementById('promoCode').value;
+        if(promoCodes.hasOwnProperty(promoCode)){
+            var discount=this.calcTotal()*promoCodes[promoCode];
+            document.getElementById('discount').innerHTML=discount.toFixed(2)+'EGP';
+            document.getElementById('total').innerHTML=(this.calcTotal()-discount).toFixed(2)+'EGP';
+        }
+        else{
+            document.getElementById('discount').innerHTML='0.00EGP';
+            document.getElementById('total').innerHTML=this.calcTotal().toFixed(2)+'EGP';
+        }
+
+    }
+    assignPromoCode(){
+        var promoCodeButton=document.getElementById('apply');
+        promoCodeButton.addEventListener('click',()=>{
+            this.checkPromoCode();
         });
     }
 

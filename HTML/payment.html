@@ -1,85 +1,88 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Responsive Checkout Form</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="../CSS/payment.css">
 </head>
 <body>
-    <div class="row" >
-    <div class="col-75">
-        <div class="container">
-        <form action="/action_page.php">
 
-            <div class="row">
-            <div class="col-50">
-                <h3>Billing Address</h3>
-                <label for="fname"><i class="fa fa-user"></i> Full Name</label>
-                <input type="text" id="fname" name="firstname" placeholder="Full Name">
-                <label for="email"><i class="fa fa-envelope"></i> Email</label>
-                <input type="text" id="email" name="email" placeholder="example@example.com">
-                <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
-                <input type="text" id="adr" name="address" placeholder="Smouha, Alexandria Egypt">
-                <label for="city"><i class="fa fa-institution"></i> City</label>
-                <input type="text" id="city" name="city" placeholder="Alexandria">
-
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Billing Address</h3>
+            <form id="checkoutForm">
+                <div class="mb-3">
+                    <label for="fname" class="form-label"><i class="fa fa-user"></i> Full Name</label>
+                    <input type="text" class="form-control" id="fname" name="firstname" placeholder="Full Name">
+                    <div class="alert alert-danger d-none" id="fnameError"></div>
+                </div>
+                <div class="mb-3">
+                    <label for="adr" class="form-label"><i class="fa fa-address-card-o"></i> Address</label>
+                    <input type="text" class="form-control" id="adr" name="address" placeholder="Smouha, Alexandria Egypt">
+                    <div class="alert alert-danger d-none" id="adrError"></div>
+                </div>
                 <div class="row">
-                <div class="col-50">
-                    <label for="state">State</label>
-                    <input type="text" id="state" name="state" placeholder="EG">
+                    <div class="col-md-6">
+                        <label for="city" class="form-label"><i class="fa fa-institution"></i> City</label>
+                        <input type="text" class="form-control" id="city" name="city" placeholder="Alexandria">
+                        <div class="alert alert-danger d-none" id="cityError"></div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="state" class="form-label">State</label>
+                        <input type="text" class="form-control" id="state" name="state" placeholder="EG">
+                        <div class="alert alert-danger d-none" id="stateError"></div>
+                    </div>
                 </div>
-                <div class="col-50">
-                    <label for="zip">Zip</label>
-                    <input type="text" id="zip" name="zip" placeholder="400001">
+                <div class="mb-3">
+                    <label for="zip" class="form-label">Zip</label>
+                    <input type="text" class="form-control" id="zip" name="zip" placeholder="400001">
+                    <div class="alert alert-danger d-none" id="zipError"></div>
                 </div>
-                </div>
-            </div>
-
-            <div class="col-50">
-                <h3>Payment</h3>
-                <div class="wrapper">
-                    <input type="radio" name="select" id="option-1" checked>
-                    <input type="radio" name="select" id="option-2">
-                      <label for="option-1" class="option option-1">
-                        <div class="dot"></div>
-                         <span>Cash</span>
-                         </label>
-                      <label for="option-2" class="option option-2">
-                        <div class="dot"></div>
-                         <span>Credit</span>
-                      </label>
-                </div>
-                <label for="fname">Accepted Cards</label>
-                <div class="icon-container">
-                <i class="fa fa-cc-visa" style="color:navy;"></i>
-                <i class="fa fa-cc-amex" style="color:blue;"></i>
-                <i class="fa fa-cc-mastercard" style="color:red;"></i>
-                <i class="fa fa-cc-discover" style="color:orange;"></i>
-                </div>
-                <label for="cname">Name on Card</label>
-                <input type="text" id="cname" name="cardname" placeholder="Full Name" disabled>
-                <label for="ccnum">Credit card number</label>
-                <input type="text" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444" disabled>
-                <div class="row">
-                <div class="col-50">
-                    <label for="expyear">Exp Mon/Year</label>
-                    <input type="text" id="expyear" name="expyear" placeholder="2027" disabled>
-                </div>
-                <div class="col-50">
-                    <label for="cvv">CVV</label>
-                    <input type="text" id="cvv" name="cvv" placeholder="123" disabled>
-                </div>
-                </div>
-            </div>
-
-            </div>
-            <input type="submit" value="BUY NOW" class="btn">
-        </form>
+            </form>
         </div>
-    </div> 
+
+        <div class="col-md-6">
+            <h3>Payment</h3>
+            <div class="mb-3">
+                <label>Select Payment Method:</label><br>
+                <input type="radio" id="cash" name="payment" value="cash" checked>
+                <label for="cash">Cash</label><br>
+                <input type="radio" id="credit" name="payment" value="credit">
+                <label for="credit">Credit</label>
+            </div>
+            <form id="creditCardForm" style="display: none;">
+                <div class="mb-3">
+                    <label for="cname" class="form-label">Name on Card</label>
+                    <input type="text" class="form-control" id="cname" name="cardname" placeholder="Full Name" disabled>
+                    <div class="alert alert-danger d-none" id="cnameError"></div>
+                </div>
+                <div class="mb-3">
+                    <label for="ccnum" class="form-label">Credit card number</label>
+                    <input type="text" class="form-control" id="ccnum" name="cardnumber" placeholder="1111-2222-3333-4444" disabled>
+                    <div class="alert alert-danger d-none" id="ccnumError"></div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label for="expyear" class="form-label">Exp Mon/Year</label>
+                        <input type="text" class="form-control" id="expyear" name="expyear" placeholder="2027" disabled>
+                        <div class="alert alert-danger d-none" id="expyearError"></div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="cvv" class="form-label">CVV</label>
+                        <input type="text" class="form-control" id="cvv" name="cvv" placeholder="123" disabled>
+                        <div class="alert alert-danger d-none" id="cvvError"></div>
+                    </div>
+                </div>
+            </form>
+        </div>
     </div>
-       <script src="../JS/payment.js"></script>
+    <button id="order" class="btn btn-primary">Buy Now</button>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-1BmE4kWqhuhc6iJj8e5o4zDl/6YlX6f0zj6qc8r8nhF4Jc5V5m9d6Z1CkY6Uw1b6" crossorigin="anonymous"></script>
+<script src="../JS/payment.js"></script>
 </body>
 </html>
