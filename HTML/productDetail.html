@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="../bootstrap-4.0.0-dist/css/bootstrap.css" />
   <link rel="stylesheet" href="../CSS/productDetail.css" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+  <link rel="stylesheet" href="../CSS/rating.css">
 </head>
 <body>
   <div class="container">
@@ -16,6 +17,7 @@
         <div id="additionalImages" class="additional-images"></div>
       </div>
       <div class="col-lg-6">
+        <h2 id="productId" class="d-none"></h2>
         <h2 id="productName"></h2>
         <p id="productDescription"></p>
         <p id="productPrice"></p>
@@ -23,10 +25,34 @@
         <p id="productReviews"></p>
         <p id="productColors" id="pColors"></p>
         <p id="productSizes" id="pSizes"></p>
-        <button class="add-to-cart-btn" id="addToCart"><i class="fas fa-shopping-cart" ></i> Add to Cart</button>
+        <div class="row mt-3">
+          <div class="col-12">
+            <div class="card">
+              <br />
+              <div class="stars-container">
+                <span onclick="setRating(1)" class="star">★</span>
+                <span onclick="setRating(2)" class="star">★</span>
+                <span onclick="setRating(3)" class="star">★</span>
+                <span onclick="setRating(4)" class="star">★</span>
+                <span onclick="setRating(5)" class="star">★</span>
+              </div>
+              <div class="row d-flex justify-content-center">
+                <h4 id="output" class="">
+                  <p id="productRating"></p>
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-3">
+          <div class="col-12">
+            <button class="add-to-cart-btn btn-block" id="addToCart"><i class="fas fa-shopping-cart"></i> Add to Cart</button>
+          </div>
+        </div>
       </div>
     </div>
   </div>
   <script type="module" src="../JS/productDetail.js"></script>
+  <script src="../JS/rating.js"></script>
 </body>
 </html>
