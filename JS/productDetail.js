@@ -1,13 +1,24 @@
 import Cart from './cart.js';
-document.addEventListener('DOMContentLoaded', function() {
+
 const cartInstance = new Cart();
+
 async function fetchProductData(id) {
+   //for check if product data is available in local storage
+  const productsJSON = localStorage.getItem('products');
+  if (productsJSON) {
+      const products = JSON.parse(productsJSON);
+      const product = products.find((p) => p.id == id);
+      if (product) {
+          return product;
+      }
+  }
   const url = "../DATA/finalData.json";
   const response = await fetch(url);
   const data = await response.json();
   const product = data.products.find((p) => p.id == id);
   return product;
 }
+
 
 function populateProductDetails(product) {
   document.getElementById("productImage").src = product.imageUrl;
@@ -16,6 +27,8 @@ function populateProductDetails(product) {
   document.getElementById("productPrice").textContent = `Price: ${product.price.current.text}`;
   document.getElementById("productRating").textContent = `Rating: ${product.rating}`;
   document.getElementById("productReviews").textContent = `Total Reviews: ${product.totalReviewCount}`;
+  document.getElementById("productId").textContent = `ID: ${product.id}`;
+
 
   const colorsContainer = document.getElementById("productColors");
   colorsContainer.innerHTML = "";
@@ -87,6 +100,68 @@ function populateProductDetails(product) {
   });
 }
 
+function getUserId() {
+  let userId = localStorage.getItem('userId');
+  if (!userId) {
+    userId = Math.random().toString(36).slice(2, 11);
+    localStorage.setItem('userId', userId);
+  }
+  return userId;
+}
+
+
+
+function makeReview(productId, rating) {
+  const userId = getUserId(); 
+  const reviewKey = `${productId}_${userId}_reviewed`;
+
+  const productsJSON = localStorage.getItem('products');
+
+  if (productsJSON) {
+    const products = JSON.parse(productsJSON);
+
+    const productIndex = products.findIndex(product => product.id === productId);
+    if (productIndex !== -1) {
+      const product = products[productIndex];
+
+      if (!product.reviews) {
+        product.reviews = [];
+      }
+
+      const userReviewed = product.reviews.some(review => review.userId === userId);
+
+      if (!userReviewed) {
+        product.totalReviewCount++;
+        product.rating = ((product.rating * (product.totalReviewCount - 1)) + rating) / product.totalReviewCount;
+        product.reviews.push({ userId, rating });
+      } else {
+        const existingReviewIndex = product.reviews.findIndex(review => review.userId === userId);
+        product.rating = ((product.rating * product.totalReviewCount) - product.reviews[existingReviewIndex].rating + rating) / product.totalReviewCount;
+        product.reviews[existingReviewIndex].rating = rating;
+      }
+
+      products[productIndex] = product;
+      localStorage.setItem('products', JSON.stringify(products));
+
+      localStorage.setItem(reviewKey, true);
+
+      const totalReviewsElement = document.getElementById("productReviews");
+      totalReviewsElement.textContent = `Total Reviews: ${product.totalReviewCount}`;
+
+      console.log('Review submitted successfully');
+
+      populateProductDetails(product);
+      // localStorage.setItem('products', JSON.stringify(products));
+
+    }
+  } else {
+    console.log('Error: Unable to retrieve product data from local storage.');
+  }
+}
+
+
+
+
 // Get the product ID from the URL query parameter
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
@@ -95,5 +170,14 @@ const productId = urlParams.get('id');
 // Fetch and populate product details
 fetchProductData(productId).then((product) => {
   populateProductDetails(product);
+  const stars = document.getElementsByClassName("star");
+  for (let i = 0; i < stars.length; i++) {
+      stars[i].addEventListener("click", function(event) {
+        event.preventDefault();
+          const rating = i + 1; 
+          makeReview(product.id, rating);
+      });
+  }
 });
-});
+
+
