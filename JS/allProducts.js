@@ -1,7 +1,9 @@
 import Cart from "./cart.js";
+import Wishlist from "./wishlist.js";
 let productsContainer = document.getElementById("products");
 document.addEventListener("DOMContentLoaded", function () {
 const cartInstance = new Cart();
+const wishlist = new Wishlist();
 // ------------------------------------------ Show And Hide Dropdown Menu ------------------------------
 function showDropdown(element) {
   element.querySelector(".dropdown-content").style.display = "block";
@@ -123,7 +125,7 @@ async function drawPageContent(products, gender = "search") {
          <div class="button-container">
          <button class="add-to-cart">Add to Cart</button>
          </div>
-         <i class="fa-solid fa-heart"></i>
+         <button class="add-to-wishlist-btn"><i class="fas fa-heart"> </i> Add to Wishlist</button>
          </div>
         </div>
       </div>
@@ -183,6 +185,7 @@ async function drawPageContent(products, gender = "search") {
         window.location.href = "cart.html";
         cartInstance.addItem(product);
       });
+
 
       document.body.appendChild(modal);
       $('#exampleModal').modal('show');
@@ -245,6 +248,15 @@ product.availableSizes.forEach((size) => {
 
   mainContainer.appendChild(row);
   document.body.appendChild(mainContainer);
+  
+  /*const addToWishlistButtons = document.querySelectorAll(".add-to-wishlist-btn");
+  addToWishlistButtons.forEach((button, index) => {
+    button.addEventListener("click", (event) => {
+      event.preventDefault();
+      window.location.href = "wishList.html";
+      wishlist.addItem(products[index]);
+    });
+  });*/
 }
 
 
@@ -318,8 +330,6 @@ async function filterPrices(minPrice, maxPrice, gender) {
 
 });
 
-
-
 // -------------------------------------------------------- Filter By Color -----------------------------------
 // async function filterFunction(color) {
 //   let data = await fetchData();
@@ -327,5 +337,3 @@ async function filterPrices(minPrice, maxPrice, gender) {
 //   console.log(colors);
 // }
 // filterFunction("black");
-
-
