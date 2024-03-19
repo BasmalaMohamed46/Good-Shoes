@@ -3,20 +3,30 @@ import Cart from './cart.js';
 const cartInstance = new Cart();
 
 async function fetchProductData(id) {
-   //for check if product data is available in local storage
+  let products = [];
   const productsJSON = localStorage.getItem('products');
   if (productsJSON) {
-      const products = JSON.parse(productsJSON);
-      const product = products.find((p) => p.id == id);
-      if (product) {
-          return product;
-      }
+    products = JSON.parse(productsJSON);
+    const product = products.find((p) => p.id == id);
+    if (product) {
+      return product;
+    }
   }
+
   const url = "../DATA/finalData.json";
   const response = await fetch(url);
   const data = await response.json();
   const product = data.products.find((p) => p.id == id);
-  return product;
+
+  if (product) {
+    // Update local storage with the fetched product data
+    products.push(product);
+    localStorage.setItem('products', JSON.stringify(products));
+    return product;
+  } else {
+    console.log('Error: Product not found');
+    return null;
+  }
 }
 
 
