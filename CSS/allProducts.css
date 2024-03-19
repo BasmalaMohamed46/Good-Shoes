@@ -1,15 +1,4 @@
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #ffff;
-}
-
-.container {
-  background-color: #ffff;
-  padding: 15px;
-  margin-top: 20px;
-  position: static;
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 .logo {
   margin-right: 400px;
@@ -71,8 +60,7 @@ body {
   font-weight: bold;
   display: flex;
   justify-content: center;
-  margin-top: 50px;
-  height: 150px;
+  height: 100px;
   align-items: center;
   font-size: 40px;
 }
@@ -180,32 +168,9 @@ image {
   width: 100%;
 }
 
-.add-to-cart-btn {
-  position: relative;
-  color: #fff;
-  padding: 12px 16px 12px 36px; /* Added padding for the icon */
-  text-decoration: none;
-  display: block;
-  background-color: #333;
-  border: none;
-  text-align: center;
-  width: 160px; /* Increased width to accommodate the icon */
-}
 
-.add-to-cart-btn {
-  background-color: #1678e1;
-  border-radius: 5px;
-  font-weight: bold;
-}
 
-.add-to-cart-btn:hover {
-  background-color: #125fb1;
-}
 
-.add-to-cart-btn i {
-  position: absolute;
-  left: 33px; /* Position the icon */
-}
 
 .product-name {
   margin-top: 10px;
@@ -285,3 +250,482 @@ image {
   background-color: #007bff;
   border-radius: 5px;
 }
+
+
+
+
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin: 40px auto;
+}
+
+#header {
+    width: 100%;
+    height: 60px;
+    box-shadow: 5px 5px 15px #e8e8e8;
+}
+
+.col-lg-4,
+.col-md-6 {
+    padding-right: 0;
+}
+
+button.btn.btn-hide {
+    height: inherit;
+    background-color: #ff935d;
+    color: #fff;
+    font-size: 0.82rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+.box-label .btn {
+    background-color: #fff;
+    padding: 0;
+    font-size: 0.8rem;
+}
+
+.btn-red {
+    background-color: #e00000ce;
+}
+
+.btn-orange {
+    background-color: #ffa500;
+}
+
+.btn-pink {
+    background-color: #e0009dce;
+}
+
+.btn-green {
+    background-color: #00811c;
+}
+
+.btn-blue {
+    background-color: #026bc2;
+}
+
+.btn-brown {
+    background-color: #994a00;
+}
+
+.navbar {
+    display: inline-flex;
+}
+
+.pagination .page-item .page-link {
+    color: #333;
+    border: none;
+    width: 40px;
+    text-align: center;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #fff;
+    border: 1px solid #333;
+}
+
+select {
+    outline: none;
+    padding: 6px 12px;
+    margin: 0px 4px;
+    color: #999;
+    font-size: 0.85rem;
+    width: 140px;
+}
+
+#select2 {
+    border: 1px solid #777;
+    color: #999;
+}
+
+#pro {
+    border: none;
+    color: #333;
+    font-weight: 700;
+    padding-left: 0px;
+    width: initial;
+}
+
+#filterbar {
+    width: 25%;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    float: left;
+    margin-top: 140px;
+}
+
+#filterbar input[type="radio"] {
+    visibility: hidden;
+}
+
+#filterbar input[type='radio']:checked {
+    background-color: #16c79a;
+    border: none;
+}
+
+#filterbar .btn.btn-success {
+    background-color: #ddd;
+    color: #333;
+    border: none;
+    width: 115px;
+}
+
+#filterbar .btn.btn-success:hover {
+    background-color: #aff1e1;
+    color: #444;
+}
+
+#filterbar .btn-success:not(:disabled):not(.disabled).active,
+#filterbar .btn-success:not(:disabled):not(.disabled):active {
+    background-color: #16c79a;
+    color: #fff;
+}
+
+label {
+    cursor: pointer;
+}
+
+.tick {
+    display: block;
+    position: relative;
+    padding-left: 23px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+.tick input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.check {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    height: 18px;
+    width: 18px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.tick:hover input~.check {
+    background-color: #f3f3f3;
+}
+
+.tick input:checked~.check {
+    background-color: #ffffff;
+}
+
+.check:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.tick input:checked~.check:after {
+    display: block;
+    transform: rotate(45deg) scale(1);
+}
+
+.tick .check:after {
+    left: 6px;
+    top: 2px;
+    width: 5px;
+    height: 10px;
+    border: solid rgb(0, 0, 0);
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg) scale(2);
+}
+
+.box {
+    padding: 10px;
+}
+
+.box-label {
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+#inner-box,
+#inner-box2 {
+    height: 150px;
+    overflow-y: scroll;
+}
+
+#inner-box2 {
+    height: 132px;
+}
+
+#inner-box::-webkit-scrollbar,
+#inner-box2::-webkit-scrollbar {
+    width: 6px;
+}
+
+#inner-box::-webkit-scrollbar-track,
+#inner-box2::-webkit-scrollbar-track {
+    background-color: #ddd;
+    border-radius: 2px;
+}
+
+#inner-box::-webkit-scrollbar-thumb,
+#inner-box2::-webkit-scrollbar-thumb {
+    background-color: #333;
+    border-radius: 2px;
+}
+
+#price {
+    height: 45px;
+}
+
+#size input[type="checkbox"] {
+    visibility: hidden;
+}
+
+#size input[type='checkbox']:checked {
+    background-color: #16c79a;
+    border: none;
+}
+
+#size .btn.btn-success {
+    background-color: #ddd;
+    color: #333;
+    border: none;
+    width: 40px;
+    font-size: 0.8rem;
+    border-radius: 0;
+}
+
+#size .btn.btn-success:hover {
+    background-color: #aff1e1;
+    color: #444;
+}
+
+#size .btn-success:not(:disabled):not(.disabled).active,
+#size .btn-success:not(:disabled):not(.disabled):active {
+    background-color: #16c79a;
+    color: #fff;
+}
+
+#size label {
+    margin: 10px;
+    margin-left: 0px;
+}
+
+.card {
+    padding: 10px;
+    cursor: pointer;
+    transition: .3s all ease-in-out;
+    height: 350px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+.modal-card {
+  padding: 10px;
+  cursor: pointer;
+  transition: .3s all ease-in-out;
+  height: 350px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; 
+}
+
+.card:hover {
+    box-shadow: 2px 2px 15px #000000e5;
+    transform: scale(1.02);
+}
+
+.card .product-name {
+    font-weight: 600;
+}
+
+.card-body {
+    padding-bottom: 0;
+}
+
+.modal-card-body {
+  padding-bottom: 0;
+}
+
+.card .text-muted {
+    font-size: 0.82rem;
+}
+
+.card-img img {
+    padding-top: 10px;
+    width: inherit;
+    height: 180px;
+    object-fit: contain;
+    display: block;
+}
+
+.card-body .btn-group .btn {
+    padding: 0;
+    width: 20px;
+    height: 20px;
+}
+#products {
+    width: 75%;
+    float: right;
+
+}
+
+#inner-box {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  height:375px;
+  
+}
+
+#inner-box label {
+  font-weight: bold;
+  font-size: medium;
+  color: #000000;
+}
+
+#inner-box input[type="number"],
+#inner-box select {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#inner-box button {
+  width: 100%;
+  padding: 10px;
+  background-color: #000000;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#inner-box button:hover {
+  background-color: #545454;
+}
+.card-title{
+  font-size: 30px;
+  font-weight: bold;
+  align-self: center;
+}
+.card-text{
+  font-size: 20px;
+  align-self: center;
+}
+.actions{
+  flex-grow: 1;
+  display: flex;
+  margin-top: 10px;
+}
+.button-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.add-to-cart{
+  background-color: #000000;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  position: relative;
+  transition: all 0.5s ease-in-out;
+  width: 200px;
+}
+.add-to-cart:hover {
+  background-color: #545454;
+}
+.add-to-cart i {
+  position: absolute;
+  left: 33px; /* Position the icon */
+}
+.fa-heart{
+  color: rgb(192, 26, 26); 
+    font-size: 30px;
+   
+}
+#confirmAddToCart{
+  color: #ffffff;
+  background-color: #000000;
+}
+#confirmAddToCart:hover{
+  background-color: #545454;
+}
+
+#productSizes {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.size-circle {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: rgba(160, 158, 158, 0.5); 
+  margin-right: 5px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.color-square {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  border: 1px solid #cccccc; 
+}
+
+.additional-images {
+  margin-top: 10px;
+}
+
+.additional-image {
+  width: 100px;
+  height: auto;
+  margin-top: 5px;
+}
+
+
+
+

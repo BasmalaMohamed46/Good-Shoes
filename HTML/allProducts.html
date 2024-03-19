@@ -19,10 +19,12 @@
       integrity="sha512-..."
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
   </head>
   <body>
     <nav>
-      <div class="container-header container">
+      <div class="container">
         <div class="row">
           <div class="col-sm-6 col-md-1 col-lg-5">
             <ul class="nav-list">
@@ -74,10 +76,42 @@
             </ul>
           </div>
         </div>
-      </div>
+     
     </nav>
-    <div class="first"></div>
-    <div class="container"></div>
+    <div class="container" id="second-part">
+      <div id="content" class="my-5">
+          <div id="filterbar" >
+              <div class="box border-bottom">
+                  <div class="box-label text-uppercase d-flex align-items-center">Filter by price
+                      <button class="btn ml-auto" type="button" data-toggle="collapse" data-target="#inner-box" aria-expanded="false" aria-controls="inner-box" id="out" >
+                          <span class="fas fa-plus"></span>
+                      </button>
+                  </div>
+                  <div id="inner-box" class="collapse mt-2 mr-1">
+                      
+                  </div>
+              </div>
+              <div class="box border-bottom">
+                  <div class="box-label text-uppercase d-flex align-items-center">Season
+                      <button class="btn ml-auto" type="button" data-toggle="collapse" data-target="#inner-box2" aria-expanded="false" aria-controls="inner-box2">
+                          <span class="fas fa-plus"></span>
+                      </button>
+                  </div>
+                  <div id="inner-box2" class="collapse mt-2 mr-1">
+                  </div>
+              </div>
+
+          </div>
+          <div id="products" class="col-md-9">
+           
+          </div>
+      </div>
+  </div>
+</div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/471621b790.js" crossorigin="anonymous"></script>
     <script type="module" src="../JS/allProducts.js"></script>
+    
   </body>
 </html>

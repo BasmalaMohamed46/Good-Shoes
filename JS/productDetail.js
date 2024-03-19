@@ -43,7 +43,8 @@ function populateProductDetails(product) {
     colorsContainer.appendChild(colorSquare);
     colorSquare.addEventListener("click", function() {
       product.selectedColor = color;
-      colorSquare.style.border = "3px solid #9eff6d";
+      colorSquare.style.border = "3px solid black";
+      colorSquare.style.boxShadow = "0 0 10px grey";
       const otherColorSquares = Array.from(colorsContainer.children).filter((c) => c !== colorSquare);
       otherColorSquares.forEach((c) => {
         if(c.style.backgroundColor === "white"){
@@ -51,6 +52,7 @@ function populateProductDetails(product) {
         }
         else{
           c.style.border = "none";
+          c.style.boxShadow = "none";
         }
         
       });
@@ -71,10 +73,12 @@ function populateProductDetails(product) {
     sizesContainer.appendChild(sizeCircle);
     sizeCircle.addEventListener("click", function() {
       product.selectedSize = size;
-      sizeCircle.style.border = "3px solid #9eff6d";
+      sizeCircle.style.border = "3px solid black";
+      sizeCircle.style.boxShadow = "0 0 10px grey";
       const otherSizeCircles = Array.from(sizesContainer.children).filter((c) => c !== sizeCircle);
       otherSizeCircles.forEach((c) =>{ 
         c.style.border = "none";
+        c.style.boxShadow = "none";
       } );
 
 
