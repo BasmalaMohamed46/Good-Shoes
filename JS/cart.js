@@ -137,6 +137,15 @@ export default class Cart {
             this.checkPromoCode();
         });
     }
+    clearCart(){
+        this.items=[];
+        this.saveToSessionStorage();
+        this.displayCart();
+        this.calcNumOfItems();
+        this.calcSubTotal();
+        this.calcShipping();
+        this.calcTotal();
+    }
 
     displayCart() {
         const cartContainer = document.getElementById('product-scroll');

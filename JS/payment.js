@@ -1,3 +1,6 @@
+import Cart from './cart.js';
+var cart = new Cart();
+
 var cash = document.getElementById('cash');
 var credit = document.getElementById('credit');
 var fname = document.getElementById('fname');
@@ -41,25 +44,60 @@ function placeOrder() {
     var expyearVal = expyear.value.trim();
     var cvvVal = cvv.value.trim();
 
-    if (users != null) {
-        if (loggedInUser != null) {
-            for (const user of users) {
-                if (user.email == loggedInUser) {
-                    user.fname = fnameVal;
-                    user.adr = adrVal;
-                    user.city = cityVal;
-                    user.state = stateVal;
-                    user.zip = zipVal;
-                    user.cname = cnameVal;
-                    user.ccnum = ccnumVal;
-                    user.expyear = expyearVal;
-                    user.cvv = cvvVal;
-                }
-            }
+    if(users!=null){
+        if(loggedInUser!=null){
+            var user=users.find(function(user){
+                return user.email==loggedInUser;
+            });
+            user.fname = fnameVal;
+            user.adr = adrVal;
+            user.city = cityVal;
+            user.state = stateVal;
+            user.zip = zipVal;
+            user.cname = cnameVal;
+            user.ccnum = ccnumVal;
+            user.expyear = expyearVal;
+            user.cvv = cvvVal;
             localStorage.setItem('users', JSON.stringify(users));
         }
     }
+
+    // if (users != null) {
+    //     if (loggedInUser != null) {
+    //         for (const user of users) {
+    //             if (user.email == loggedInUser) {
+    //                 user.fname = fnameVal;
+    //                 user.adr = adrVal;
+    //                 user.city = cityVal;
+    //                 user.state = stateVal;
+    //                 user.zip = zipVal;
+    //                 user.cname = cnameVal;
+    //                 user.ccnum = ccnumVal;
+    //                 user.expyear = expyearVal;
+    //                 user.cvv = cvvVal;
+    //             }
+    //         }
+    //         localStorage.setItem('users', JSON.stringify(users));
+    //     }
+    // }
     
+}
+function addToLocalStorage(){
+    if(users!=null){
+        if(loggedInUser!=null){
+            var user=users.find(function(user){
+                return user.email==loggedInUser;
+            });
+        var order=sessionStorage.getItem('cartItems');
+        order=JSON.parse(order);
+        console.log(order);
+        if(user.orders==null){
+            user.orders=[];
+        }
+        user.orders.push(order);
+        localStorage.setItem('users', JSON.stringify(users));
+        }
+    }
 }
 
 function validateForm() {
@@ -200,7 +238,10 @@ function isValidCreditCard(ccnum) {
 var checkoutBtn=document.getElementById('order');
 checkoutBtn.addEventListener('click',function(){
     placeOrder();
+    
     if(validateForm()){
         window.location.href = 'allproducts.html';
     }
+    addToLocalStorage();
+    cart.clearCart();
 });
