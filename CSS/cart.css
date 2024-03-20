@@ -31,12 +31,12 @@ body {
 }
 
 .card-title {
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
 }
 
 .card-text {
-    font-size: 14px;
+    font-size: 16px;
     color: #555;
 }
 .card img{
@@ -225,4 +225,29 @@ a:hover{
     background-repeat: no-repeat;
     background-position-x: 95%;
     background-position-y: center;
+}
+.dot {
+    width: 18px;
+    height: 18px; 
+    display: inline-block; 
+    border:#000000 1px solid;
+    vertical-align: middle;
+    
+}
+.dot2{
+    border:#b0b0b0 1px solid;
+    border-radius: 50%;
+    padding: 4px;
+    background-color: #f8f5f5;
+}
+.no-spinners::-webkit-outer-spin-button,
+.no-spinners::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0; 
+}
+.no-spinners {
+    -moz-appearance: textfield; 
+}
+.btn-outline-secondary{
+    border-color: #e2e2e2;
 }

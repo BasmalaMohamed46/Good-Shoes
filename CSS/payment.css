@@ -27,3 +27,6 @@ body {
   background-color: black;
   margin-bottom: 20px;
 }
+.btn:hover {
+  background-color: #545454;
+}

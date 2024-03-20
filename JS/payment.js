@@ -5,6 +5,7 @@ var cash = document.getElementById('cash');
 var credit = document.getElementById('credit');
 var fname = document.getElementById('fname');
 var adr = document.getElementById('adr');
+var phn = document.getElementById('phn');
 var city = document.getElementById('city');
 var state = document.getElementById('state');
 var zip = document.getElementById('zip');
@@ -36,6 +37,7 @@ var users = JSON.parse(localStorage.getItem('users'));
 function placeOrder() {
     var fnameVal = fname.value.trim();
     var adrVal = adr.value.trim();
+    var phnVal = phn.value.trim();
     var cityVal = city.value.trim();
     var stateVal = state.value.trim();
     var zipVal = zip.value.trim();
@@ -51,6 +53,7 @@ function placeOrder() {
             });
             user.fname = fnameVal;
             user.adr = adrVal;
+            user.phn = phnVal;
             user.city = cityVal;
             user.state = stateVal;
             user.zip = zipVal;
@@ -103,6 +106,7 @@ function addToLocalStorage(){
 function validateForm() {
     var fnameVal = fname.value.trim();
     var adrVal = adr.value.trim();
+    var phnVal = phn.value.trim();
     var cityVal = city.value.trim();
     var stateVal = state.value.trim();
     var zipVal = zip.value.trim();
@@ -112,6 +116,7 @@ function validateForm() {
     var cvvVal = cvv.value.trim();
     const fnameError = document.getElementById('fnameError');
     const adrError = document.getElementById('adrError');
+    const phnError = document.getElementById('phnError');
     const cityError = document.getElementById('cityError');
     const stateError = document.getElementById('stateError');
     const zipError = document.getElementById('zipError');
@@ -122,6 +127,7 @@ function validateForm() {
 
     fnameError.innerHTML = '';
     adrError.innerHTML  = '';
+    phnError.innerHTML  = '';
     cityError.innerHTML  = '';
     stateError.innerHTML  = '';
     zipError.innerHTML  = '';
@@ -179,6 +185,19 @@ function validateForm() {
         zipError.classList.add('d-none');
     }
 
+    if (phnVal === '') {
+        phnError.classList.remove('d-none');
+        phnError.innerHTML  = 'Phone is required';
+        isValid = false;
+    } else if (!isValidPhn(phnVal)) {
+        phnError.classList.remove('d-none');
+        phnError.innerHTML  = 'Phone should be 11 digits';
+        isValid = false;
+    }
+    else{
+        phnError.classList.add('d-none');
+    }
+
 
 
     if (credit.checked) {
@@ -234,6 +253,10 @@ function isValidZip(zip) {
 function isValidCreditCard(ccnum) {
     const regex = /^\d{4}-\d{4}-\d{4}-\d{4}$/;
     return regex.test(ccnum);
+}
+function isValidPhn(phn) {
+    const regex = /^\d{11}$/;
+    return regex.test(phn);
 }
 var checkoutBtn=document.getElementById('order');
 checkoutBtn.addEventListener('click',function(){

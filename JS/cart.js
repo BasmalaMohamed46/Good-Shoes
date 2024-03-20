@@ -82,6 +82,13 @@ export default class Cart {
         quantityInput.value = parseInt(quantityInput.value) + 1;
         this.updateCartItemQuantity(itemId, quantityInput.value);
     }
+    decreaseQuantity(itemId) {
+        const quantityInput = document.getElementById('quantity-' + itemId);
+        if (parseInt(quantityInput.value) > 1) {
+            quantityInput.value = parseInt(quantityInput.value) - 1;
+            this.updateCartItemQuantity(itemId, quantityInput.value);
+        }
+    }
 
     updateCartItemQuantity(itemId, quantity) {
         const existingItemIndex = this.items.findIndex(item => item.hasOwnProperty(itemId));
@@ -163,14 +170,16 @@ export default class Cart {
                         <div class="col-md-8">
                             <div class="card-body">
                                 <h5 class="card-title">${item[key].name}</h5>
-                                <p class="card-text">${item[key].description}</p>
+                                <p class="card-text">Color:  <span class="dot" style="background-color:${item[key].selectedColor.toLowerCase()}"></span> </p>
+                                <p class="card-text">Size:  <span class="dot2">${item[key].selectedSize}</span> </p>
                                 <i class="fa-solid fa-trash float-end fa-2x remove" data-item-id="${key}"></i>
                                 <p class="card-text">${item[key].price.current.text}EGP</p>
                                 <div class="d-flex justify-content-between align-items-center">
-                                    <div class="input-group mb-3 quantity">
+                                    <div class="input-group mb-3 quantity" style="width: 200px;">
                                         <span class="input-group-text">Quantity</span>
-                                        <input type="number" class="form-control" id="quantity-${key}" value="${item[key].quantity || 1}" min="1">
+                                        <input type="number" class="form-control no-spinners" id="quantity-${key}" value="${item[key].quantity || 1}" min="1">
                                         <button class="btn btn-outline-secondary increase-quantity" data-item-id="${key}" type="button">+</button>
+                                        <button class="btn btn-outline-secondary decrease-quantity" data-item-id="${key}" type="button">-</button>
                                     </div>
                                 </div> 
                             </div>
@@ -195,6 +204,14 @@ export default class Cart {
                 this.increaseQuantity(itemId);
             });
         });
+        const decreaseButtons = document.querySelectorAll('.decrease-quantity');
+        decreaseButtons.forEach(button => {
+            button.addEventListener('click', event => {
+                const itemId = event.target.dataset.itemId;
+                this.decreaseQuantity(itemId);
+            });
+        });
+
     }
 }  
 
