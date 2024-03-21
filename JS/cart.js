@@ -1,4 +1,3 @@
-
 export default class Cart {
     constructor() {
         this.items = JSON.parse(sessionStorage.getItem('cartItems')) || [];
@@ -216,4 +215,3 @@ export default class Cart {
 }  
 
 const cart = new Cart();
-

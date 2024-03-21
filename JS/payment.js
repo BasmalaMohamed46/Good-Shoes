@@ -64,43 +64,6 @@ function placeOrder() {
             localStorage.setItem('users', JSON.stringify(users));
         }
     }
-
-    // if (users != null) {
-    //     if (loggedInUser != null) {
-    //         for (const user of users) {
-    //             if (user.email == loggedInUser) {
-    //                 user.fname = fnameVal;
-    //                 user.adr = adrVal;
-    //                 user.city = cityVal;
-    //                 user.state = stateVal;
-    //                 user.zip = zipVal;
-    //                 user.cname = cnameVal;
-    //                 user.ccnum = ccnumVal;
-    //                 user.expyear = expyearVal;
-    //                 user.cvv = cvvVal;
-    //             }
-    //         }
-    //         localStorage.setItem('users', JSON.stringify(users));
-    //     }
-    // }
-    
-}
-function addToLocalStorage(){
-    if(users!=null){
-        if(loggedInUser!=null){
-            var user=users.find(function(user){
-                return user.email==loggedInUser;
-            });
-        var order=sessionStorage.getItem('cartItems');
-        order=JSON.parse(order);
-        console.log(order);
-        if(user.orders==null){
-            user.orders=[];
-        }
-        user.orders.push(order);
-        localStorage.setItem('users', JSON.stringify(users));
-        }
-    }
 }
 
 function validateForm() {
@@ -263,8 +226,11 @@ checkoutBtn.addEventListener('click',function(){
     placeOrder();
     
     if(validateForm()){
-        window.location.href = 'allproducts.html';
+        var existingOrders = JSON.parse(localStorage.getItem('order')) || [];
+        var newOrder = JSON.parse(sessionStorage.getItem('cartItems'));
+        var updatedOrders = existingOrders.concat(newOrder);
+        localStorage.setItem('order', JSON.stringify(updatedOrders));
+        window.location.href = 'paymentConfirm.html';
     }
-    addToLocalStorage();
     cart.clearCart();
 });

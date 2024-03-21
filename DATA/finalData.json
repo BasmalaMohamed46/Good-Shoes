@@ -31,7 +31,7 @@
       "isInStock": true,
       "gender": "male",
       "category": "shoes",
-      "availableSizes": [],
+      "availableSizes": [40,41],
       "availableColors": ["Yellow", "White", "Red", "Black", "Blue"],
       "rating": 4.7,
       "totalReviewCount": 78,
@@ -59,8 +59,8 @@
       "category": "shoes",
       "availableSizes": [37,38,39,40,41,42],
       "availableColors": ["white", "blue", "black", "purple"],
-      "rating": null,
-      "totalReviewCount": null,
+      "rating": 3.6,
+      "totalReviewCount": 14,
       "price": {
         "current": {
           "value": 300,
