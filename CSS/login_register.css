@@ -4,24 +4,17 @@
     color: black;
 }
 
-.nav-menu a {
-color: black !important;
+.container-with-border {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 40px;
+    margin-top: 70px;
 }
 
-
-.nav-item a:hover{
-    color: red !important;
-} 
-
 body{
-    background: url("../ASSETS/img/p4.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    height: 100%; /* Ensure the body takes up the full height of the viewport */
-    margin: 0; /* Remove default margin */
+    height: 100%;
+    margin: 0; 
     padding: 0;
-    background-size: 100% 100%; /* Cover the entire viewport */
 }
 
 .error-message{

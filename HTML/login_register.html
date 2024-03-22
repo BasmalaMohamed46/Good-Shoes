@@ -7,40 +7,14 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="../CSS/login_register.css">
+    <link rel="stylesheet" href="../CSS/headerWithFooter.css" />
     <title>Login & Registration</title>
  
 </head>
 <body>
-
-    <div class="row wrapper d-flex justify-content-center">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light py-3 col-12 d-flex">
-            <div class="container-fluid col-12">
-                <div class="nav-logo col-4">
-                    <p><b>LOGO</b></p>
-                </div>
-                <button class="navbar-toggler d-lg-none d-sm-block" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse col-4" id="navbarNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">About</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Contact Us</a>
-                        </li>
-                    </ul>
-            
-                </div>
-            </div>
-        </nav>
-    </div>
-    
+    <div id="header"></div>
     <!-- LOGIN FORM -->
-    <div class="Forms">
+    <div class="Forms container-with-border">
         <div class="container loginContainer mt-5 form-container" id="loginContainer">
             <div class="row d-flex container-fluid justify-content-center">
                 <div class="col-sm-9">
@@ -79,7 +53,7 @@
             <div class="error-message fs-6"></div>
         </div>
         <!-- SIGNUP FORM -->
-        <div class="container signUpContainer mt-5 d-none form-container" id="signUpContainer">
+        <div class="container signUpContainer mt-5 d-none form-container " id="signUpContainer">
             <div class="row d-flex container-fluid justify-content-center">
                 <div class="col-sm-9">
                     <form>
@@ -129,7 +103,7 @@
 
                         <input type="hidden" name="isAdmin" value="false" id="isAdmin">
                         <div>
-                            <button type="submit" class="btn btn-primary rounded-pill w-100">Register</button>
+                            <button type="submit" class="btn btn-primary rounded-pill w-100" id="register">Register</button>
                         </div>
                         <div class="d-flex justify-content-center mt-4">
                             <span>Have an account? <a href="#" onclick="formToggler.toggleForm()">Login</a></span>
@@ -142,7 +116,9 @@
         </div>
     
     </div>
-   
+    <div id="footer"></div>
+    <script src="../JS/headerWithFooter.js"></script>
+    <script src="../JS/headerWithFooter.js"></script>
     <script src="../JS/login_register.js"></script>
     <script>
         const formToggler = new FormToggler('loginContainer', 'signUpContainer');

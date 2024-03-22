@@ -46,3 +46,24 @@ body {
 .lol {
   margin-top: 50px;
 }
+
+#photoInput {
+  display: none;
+}
+
+/* CSS for the upload icon */
+.upload-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  z-index: 1; /* Ensure the icon is above the image */
+}
+
+.error-message{
+  color: red;
+font-size: 0.8rem;
+margin-top: 5px;
+display: none;
+}
