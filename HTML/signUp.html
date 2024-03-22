@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="../CSS/login.css">
+</head>
+<body>
+<div class="daily">
+    <p class="daily-title">Good Shoes Website</p>
+    <div class="buttons"><button class="btn sign">Account Access Portal</button></div>
+</div>
+<div class="modal open">
+    <div class="wrapper">
+        <div class="btn-close">
+            <span></span>
+            <span></span>
+        </div>
+        <div class="title"><h1 class="text-center">Sign Up</h1></div>
+        <div class="left">
+            <div class="content">
+                <h2 class="subtitle">Please fill the form to create an account</h2>
+                <form id="signUpContainer" class="form">
+                    <div class="input-row">
+                        <div class="input-wrapper">
+                            <label for="FirstName">First Name</label>
+                            <input id="FirstName" type="text" class="form-control">
+                            <div class="error-message" id="signupFirstNameError"></div>
+                        </div>
+                        <div class="input-wrapper">
+                            <label for="LastName">Last Name</label>
+                            <input id="LastName" type="text" class="form-control">
+                            <div class="error-message" id="signupLastNameError"></div>
+                        </div>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="InputEmail">E-mail</label>
+                        <input id="InputEmail" type="email" class="form-control">
+                        <div class="error-message d-none" id="signupEmailError"></div>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="signupInputPassword">Password</label>
+                        <input id="signupInputPassword" type="password" class="form-control" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+                        title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required>
+                        <div class="toggle-password position-absolute end-0 top-10">
+                            <i class="bi bi-eye-slash fs-4" id="signup-eye-icon"></i>
+                        </div>
+                        <div class="error-message" id="signupPasswordError"></div>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="signupConfirmPassword">Confirm Password</label>
+                        <input id="signupConfirmPassword" type="password" class="form-control" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+                        title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required>
+                        <div class="toggle-password position-absolute end-0 top-10">
+                            <i class="bi bi-eye-slash fs-4" id="signup-confirm-eye-icon"></i>
+                        </div>
+                        <div class="error-message" id="signupConfirmPasswordError"></div>
+                    </div>
+                    <input type="hidden" name="isAdmin" value="false" id="isAdmin">
+                    <button class="btn btn-primary rounded-pill w-100" type="submit">Create Account</button>
+                </form>
+                <div class="error-message"></div>
+                <p>Already have an account? <a class="link" href="login_register.html">Log In</a></p>
+            </div>
+        </div>
+        <div class="right"></div>
+    </div>
+</div>
+<script src="../JS/signUp.js"></script>
+<script src="../JS/register.js"></script>
+</body>
+</html>

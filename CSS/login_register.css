@@ -44,10 +44,3 @@ animation: fadeIn 0.5s ease forwards;
 .toggle-password {
 cursor: pointer;
 }
-
-.toggle-password i {
-position: absolute;
-right: 15px;
-}
-
-

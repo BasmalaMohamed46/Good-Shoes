@@ -1,0 +1,664 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600,700,800,900|Barlow:300,400,500,600,700,800,900&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  font-family: "Barlow", sans-serif;
+  background-color: #3e415c;
+  overflow-x: hidden;
+}
+.btn {
+  height: 50px;
+  padding: 0 30px;
+  box-sizing: border-box;
+  background: linear-gradient(125deg, #7b8cd2 0%, #a694db 100%);
+  border: 0;
+  color: #f1f5f8;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: "Barlow", sans-serif;
+  letter-spacing: 0.07em;
+  border-radius: 6px;
+  box-shadow: 0px 12px 20px 0px rgba(123, 140, 210, 0.3);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.btn:hover {
+  transform: translateY(5px);
+  box-shadow: 0px 5px 10px 0px rgba(123, 140, 210, 0.3);
+}
+.btn:focus {
+  outline: 0;
+}
+.daily {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.daily .daily-title {
+  font-weight: 700;
+  font-family: "Barlow Condensed", sans-serif;
+  letter-spacing: 0.04em;
+  font-size: 60px;
+  background: linear-gradient(125deg, #a694db 0%, #d6f1f7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+  margin-bottom: 20px;
+  padding: 0;
+}
+@media screen and (max-width: 799px) {
+  .daily .daily-title {
+    font-size: 40px;
+  }
+}
+.daily .sign {
+  position: initial;
+}
+.content p {
+  text-align: center;
+  margin-top: 20px;
+}
+.content a {
+  color: #7b8cd2;
+  text-decoration: none;
+}
+.content a:hover {
+  text-decoration: underline;
+}
+.modal {
+  display: none;
+  overflow-x: hidden;
+}
+.modal.open {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+  background-color: rgba(255, 255, 255, 0);
+  animation: wrapper 0.6s ease both;
+}
+@keyframes wrapper {
+  100% {
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+}
+.input-row {
+  display: flex;
+  gap: 20px; 
+}
+.input-row .input-wrapper {
+  flex: 1;
+}
+.input-row input {
+  width: calc(50% - 10px); 
+}
+.modal.open .wrapper {
+  max-width: 1280px;
+  width: 100vw;
+  padding: 50px 0;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  position: relative;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper {
+    padding: 0;
+    max-height: initiaL;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: flex-end;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 3fr;
+    height: 100%;
+  }
+}
+@media screen and (max-width: 511px) {
+  .modal.open .wrapper {
+    padding: 0;
+  }
+}
+.modal.open .wrapper .title {
+  position: absolute;
+  text-align: center;
+  height: 200px;
+  z-index: 2;
+  top: 50%;
+  left: calc(50% - -75px);
+  transform: translate(-50%, -50%) rotate(-90deg);
+  grid-column-start: 1;
+  grid-column-end: 3;
+  transition: all 0.4s ease;
+  animation: title 1s 0.2s ease both;
+}
+@keyframes title {
+  0% {
+    top: 20%;
+    opacity: 0;
+  }
+  100% {
+    top: 50%;
+    opacity: 1;
+  }
+}
+.modal.open .wrapper .title h1 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 900;
+  font-size: 120px;
+  letter-spacing: 3px;
+  line-height: 180px;
+  margin: 0;
+  padding: 0;
+  transition: all 0.4s ease;
+  color: #a694db;
+  background: linear-gradient(125deg, #7b8cd2 0%, #a694db 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+@media screen and (max-width: 1023px) {
+  .modal.open .wrapper .title {
+    left: calc(50% - -70px);
+  }
+  .modal.open .wrapper .title h1 {
+    font-size: 80px;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .title {
+    top: 0;
+    transform: none;
+    height: 100%;
+    min-height: auto;
+    max-width: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding: 0 20px;
+    box-sizing: border-box;
+    animation: titlemob 1s 0.3s ease both;
+    grid-row-start: 1;
+    left: 5%;
+    grid-row-end: 2;
+  }
+  .modal.open .wrapper .title h1 {
+    height: auto;
+    font-size: 50px;
+    bottom: 0;
+    transform: translatey(10px);
+    line-height: normal;
+  }
+  @keyframes titlemob {
+    0% {
+      opacity: 0;
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
+  }
+}
+@media screen and (max-width: 511px) {
+  .modal.open .wrapper .title {
+    left: 0;
+  }
+}
+.modal.open .wrapper .btn-close {
+  width: 46px;
+  height: 46px;
+  border-radius: 100%;
+  background: linear-gradient(125deg, #7b8cd2 0%, #a694db 100%);
+  top: 0;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  right: 0;
+  transform: translate(-50px, 50px);
+  margin: 30px;
+  animation: btn-close 0.4s ease both;
+  -webkit-tap-highlight-color: transparent;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .btn-close {
+    width: 30px;
+    height: 30px;
+    transform: none;
+    margin: 15px;
+  }
+}
+@keyframes btn-close {
+  0% {
+    right: 25px;
+    top: 25px;
+    width: 0;
+    height: 0;
+    opacity: 0;
+  }
+}
+.modal.open .wrapper .btn-close span {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease-in-out;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .btn-close span {
+    width: 18px;
+    height: 18px;
+  }
+}
+.modal.open .wrapper .btn-close span:before, .modal.open .wrapper .btn-close span:after {
+  width: 2px;
+  height: 30%;
+  content: "";
+  background-color: white;
+  position: absolute;
+  border-radius: 2px;
+  transition: all 0.3s 0.2s ease, width 0.3s ease;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .btn-close span:before, .modal.open .wrapper .btn-close span:after {
+    height: 32%;
+  }
+}
+.modal.open .wrapper .btn-close span:before {
+  top: 0;
+}
+.modal.open .wrapper .btn-close span:after {
+  bottom: 0;
+}
+.modal.open .wrapper .btn-close span:first-child {
+  transform: rotate(-45deg);
+}
+.modal.open .wrapper .btn-close span:last-child {
+  transform: rotate(45deg);
+}
+.modal.open .wrapper .btn-close:hover span {
+  width: 5px;
+  height: 5px;
+  border-radius: 100%;
+}
+.modal.open .wrapper .btn-close:hover span:before, .modal.open .wrapper .btn-close:hover span:after {
+  width: 100%;
+  height: 100%;
+  border-radius: 100%;
+  transition: all 0.2s ease, width 0.2s 0.2s ease;
+}
+.modal.open .wrapper .left,
+.modal.open .wrapper .right {
+  width: 100%;
+  height: 0;
+  border-radius: 6px;
+  transition: all 0.4s ease;
+  animation: modal 1s ease both;
+}
+@keyframes modal {
+  0% {
+    min-height: 0px;
+    padding: 0;
+  }
+  100% {
+    min-height: 600px;
+    padding: 5% 0;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left,
+.modal.open .wrapper .right {
+    border-radius: 0px;
+    width: 100%;
+    animation: modalmob 1s ease both;
+  }
+  @keyframes modalmob {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(0%);
+    }
+  }
+}
+.modal.open .wrapper .left {
+  background-color: #f1f5f8;
+  margin-top: 50px;
+  transform: translateX(50px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  box-shadow: 0px 27px 50px -10px rgba(62, 65, 92, 0.2);
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left {
+    margin: 0;
+    transform: none;
+    height: 100%;
+    min-height: 400px;
+    align-items: flex-start;
+    order: 2;
+  }
+}
+.modal.open .wrapper .left .content {
+  width: 100%;
+  max-width: 400px;
+  padding: 0 40px;
+  box-sizing: border-box;
+  animation: content 1s 0.5s ease both;
+}
+@keyframes content {
+  0% {
+    transform: translatey(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translatey(0px);
+    opacity: 1;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left .content {
+    padding: 40px 20px;
+    animation: none;
+  }
+}
+.subtitle{
+  text-align: center;
+}
+.modal.open .wrapper .left .content .subtitle {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 38px;
+  letter-spacing: 0.02em;
+  color: #7b8cd2;
+  margin: 0 0 40px 0;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left .content .subtitle {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+}
+.modal.open .wrapper .left .content form {
+  display: flex;
+  flex-direction: column;
+}
+.modal.open .wrapper .left .content form .input-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  position: relative;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left .content form .input-wrapper {
+    margin-bottom: 15px;
+  }
+}
+.modal.open .wrapper .left .content form .input-wrapper:nth-child(4) {
+  margin-bottom: 40px;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left .content form .input-wrapper:nth-child(4) {
+    margin-bottom: 30px;
+  }
+}
+.modal.open .wrapper .left .content form .input-wrapper label {
+  position: absolute;
+  font-size: 16px;
+  color: #afc8f2;
+  transition: all 0.3s ease;
+  font-weight: normal;
+  left: 20px;
+}
+.modal.open .wrapper .left .content form .input-wrapper input {
+  width: 100%;
+  height: 50px;
+  border-radius: 6px;
+  border: 0;
+  padding: 14px 20px 0 20px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 600;
+  color: #7b8cd2 !important;
+  transition: all 0.3s ease;
+  display: flex;
+  font-family: "Barlow", sans-serif;
+}
+.modal.open .wrapper .left .content form .input-wrapper input:focus {
+  outline: 0;
+  box-shadow: 0px 7px 20px rgba(123, 140, 210, 0.2);
+}
+.modal.open .wrapper .left .content form .input-wrapper input:-internal-autofill-selected {
+  color: #7b8cd2 !important;
+}
+.modal.open .wrapper .left .content form .input-wrapper.active label {
+  font-size: 14px;
+  transform: translateY(-12px);
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .left .content form .input-wrapper.active label {
+    transform: translateY(-10px);
+    font-size: 12px;
+  }
+}
+.modal.open .wrapper .left .content form .input-wrapper:hover label {
+  color: #7b8cd2;
+}
+.modal.open .wrapper .left .content form .terms {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.modal.open .wrapper .left .content form .terms input {
+  display: none;
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+}
+.modal.open .wrapper .left .content form .terms label {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-tap-highlight-color: transparent;
+}
+.modal.open .wrapper .left .content form .terms label:before {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  border-radius: 2px;
+  transition: all 0.1s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.modal.open .wrapper .left .content form .terms label:after {
+  position: absolute;
+  content: "";
+  width: 50%;
+  height: 50%;
+  transition: all 0.2s ease;
+}
+.modal.open .wrapper .left .content form .terms input:checked + label:after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-image: url(https://rafaelavlucas.github.io/assets/icons/gray2/icon-51.svg);
+  transition: all 0.2s ease;
+}
+.modal.open .wrapper .left .content form .terms p {
+  margin: 0;
+  margin-left: 44px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.03em;
+  color: #7c7f9b;
+  padding: 0;
+}
+.modal.open .wrapper .right {
+  margin-bottom: 50px;
+  background-color: #3e415c;
+  transform: translateX(-50px);
+  z-index: 0;
+  animation-delay: 0.2s;
+  position: relative;
+}
+.modal.open .wrapper .right:before {
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: absolute;
+  background-image: url(https://rafaelavlucas.github.io/assets/images/img-48.jpeg);
+  background-size: cover;
+  background-position: center;
+  opacity: 0.4;
+  mix-blend-mode: multiply;
+  border-radius: 6px;
+  top: 0;
+}
+@media screen and (max-width: 799px) {
+  .modal.open .wrapper .right {
+    top: 0;
+    min-height: 110px;
+    height: 100%;
+    margin: 0;
+    animation-delay: 0.1s;
+    order: 1;
+  }
+}
+.modal.close {
+  animation: wrapper-out 0.6s 0.4s ease both;
+}
+@keyframes wrapper-out {
+  0% {
+    background-color: rgba(255, 255, 255, 0.9);
+  }
+  100% {
+    background-color: rgba(255, 255, 255, 0);
+  }
+}
+.modal.close .wrapper .title {
+  animation: title-out 1s 0.2s ease both;
+}
+@keyframes title-out {
+  0% {
+    top: 50%;
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    top: 20%;
+    opacity: 0;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.close .wrapper .title {
+    animation: titlemob-out 1s ease both;
+  }
+  @keyframes titlemob-out {
+    100% {
+      opacity: 0;
+      transform: translateX(100%);
+    }
+    0% {
+      transform: translateX(0%);
+    }
+  }
+}
+.modal.close .wrapper .btn-close {
+  animation: btn-close-out 0.4s ease both;
+}
+@keyframes btn-close-out {
+  100% {
+    width: 0;
+    height: 0;
+    opacity: 0;
+    right: 25px;
+    top: 25px;
+  }
+}
+.modal.close .wrapper .left,
+.modal.close .wrapper .right {
+  animation: modal-close 1s 0.2s ease both;
+}
+@keyframes modal-close {
+  0% {
+    height: 600px;
+    padding: 5% 0;
+  }
+  100% {
+    height: 0;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.close .wrapper .left,
+.modal.close .wrapper .right {
+    animation: modalmob-out 1s ease both;
+  }
+  @keyframes modalmob-out {
+    100% {
+      transform: translateX(100%);
+    }
+    0% {
+      transform: translateX(0%);
+    }
+  }
+}
+.modal.close .wrapper .left {
+  animation-delay: 0.4s;
+}
+.modal.close .wrapper .left .content {
+  animation: content-out 1s ease both;
+}
+@keyframes content-out {
+  0% {
+    transform: translatey(0px);
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    transform: translatey(-100px);
+    opacity: 0;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.close .wrapper .left .content {
+    animation: none;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.close .wrapper .left {
+    animation-delay: 0s;
+  }
+}
+@media screen and (max-width: 799px) {
+  .modal.close .wrapper .right {
+    animation-delay: 0.1s;
+  }
+}
