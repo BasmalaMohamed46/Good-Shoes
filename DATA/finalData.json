@@ -8,7 +8,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 39, 40, 41],
-      "availableColors": ["white", "brown", "Blue", "Grey"],
+      "availableColors": ["White", "Brown", "Blue", "Grey"],
       "rating": 4.9,
       "totalReviewCount": 26,
       "price": {
@@ -59,7 +59,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [37, 38, 39, 40, 41, 42],
-      "availableColors": ["white", "blue", "black", "purple"],
+      "availableColors": ["White", "Blue", "Black", "Purple"],
       "rating": 3.6,
       "totalReviewCount": 14,
       "price": {
@@ -85,7 +85,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [41, 42, 43, 44, 45, 46],
-      "availableColors": ["orange"],
+      "availableColors": ["Orange"],
       "rating": 4.2,
       "totalReviewCount": 36,
       "price": {
@@ -184,7 +184,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [41, 42, 43, 44],
-      "availableColors": ["white", "black"],
+      "availableColors": ["White", "Black"],
       "rating": 5,
       "totalReviewCount": 12,
       "price": {
@@ -415,7 +415,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30, 31, 32, 33, 34],
-      "availableColors": ["yellow"],
+      "availableColors": ["Yellow"],
       "rating": 4.6,
       "totalReviewCount": 42,
       "price": {
@@ -440,7 +440,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [39, 40, 41],
-      "availableColors": ["grey"],
+      "availableColors": ["Grey"],
       "rating": 4.6,
       "totalReviewCount": 42,
       "price": {
@@ -491,7 +491,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30, 31, 32, 33],
-      "availableColors": ["blue", "pink", "black"],
+      "availableColors": ["Blue", "Pink", "Black"],
       "rating": 3.9,
       "totalReviewCount": 21,
       "price": {
@@ -733,7 +733,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 40, 43, 44],
-      "availableColors": ["black", "white", "blue", "green"],
+      "availableColors": ["Black", "White", "Blue", "Green"],
       "rating": 4.9,
       "totalReviewCount": 21,
       "price": {
@@ -758,7 +758,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [40, 46, 39, 42],
-      "availableColors": ["white", "black", "Red", "purple"],
+      "availableColors": ["White", "Black", "Red", "Purple"],
       "rating": 4.1,
       "totalReviewCount": 24,
       "price": {
@@ -783,7 +783,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 40, 44, 42],
-      "availableColors": ["aqua", "black", "gray"],
+      "availableColors": ["Aqua", "Black", "Grey"],
       "rating": 4.9,
       "totalReviewCount": 21,
       "price": {
@@ -807,7 +807,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 47, 42, 41],
-      "availableColors": ["red", "black", "Brown", "gray"],
+      "availableColors": ["Red", "Black", "Brown", "Grey"],
       "rating": 4.9,
       "totalReviewCount": 21,
       "price": {
@@ -832,7 +832,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 47, 42, 41],
-      "availableColors": ["black", "blue", "yellow", "white"],
+      "availableColors": ["Black", "Blue", "Yellow", "White"],
       "rating": 4.2,
       "totalReviewCount": 30,
       "price": {
@@ -857,7 +857,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 47, 42, 41],
-      "availableColors": ["yellow", "red", "blue", "grey"],
+      "availableColors": ["Yellow", "Red", "Blue", "Grey"],
       "rating": 4.2,
       "totalReviewCount": 30,
       "price": {
@@ -882,7 +882,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 47, 39, 44],
-      "availableColors": ["black", "red", "blue", "grey"],
+      "availableColors": ["Black", "Red", "Blue", "Grey"],
       "rating": 4.1,
       "totalReviewCount": 40,
       "price": {
@@ -907,7 +907,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [39, 41, 40, 42],
-      "availableColors": ["gray", "black", "aqua", "blue"],
+      "availableColors": ["Grey", "Black", "Aqua", "Blue"],
       "rating": 3.9,
       "totalReviewCount": 70,
       "price": {
@@ -932,7 +932,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [46, 41, 45, 42],
-      "availableColors": ["yellow"],
+      "availableColors": ["Yellow"],
       "rating": 3.9,
       "totalReviewCount": 70,
       "price": {
@@ -954,7 +954,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [46, 44, 45, 43],
-      "availableColors": ["yellow"],
+      "availableColors": ["Yellow"],
       "rating": 3.9,
       "totalReviewCount": 70,
       "price": {
@@ -976,7 +976,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [46, 41, 45, 42],
-      "availableColors": ["red", "white", "gray"],
+      "availableColors": ["Red", "White", "Grey"],
       "rating": 4.7,
       "totalReviewCount": 80,
       "price": {
@@ -1000,7 +1000,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30, 31, 32, 33],
-      "availableColors": ["white", "orange", "green","blue"],
+      "availableColors": ["White", "Orange", "Green","Blue"],
       "rating": 4.2,
       "totalReviewCount": 63,
       "price": {
@@ -1025,7 +1025,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30, 31],
-      "availableColors": ["black", "white"],
+      "availableColors": ["Black", "White"],
       "rating": 4.7,
       "totalReviewCount": 51,
       "price": {
@@ -1049,7 +1049,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30, 31,32],
-      "availableColors": ["pink", "black","red","yellow"],
+      "availableColors": ["Pink", "Black","Red","Yellow"],
       "rating": 4.5,
       "totalReviewCount": 45,
       "price": {
@@ -1075,7 +1075,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30, 31,32,33],
-      "availableColors": [ "black","orange","red"],
+      "availableColors": [ "Black","Orange","Red"],
       "rating": 4.9,
       "totalReviewCount": 70,
       "price": {
@@ -1101,7 +1101,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [32,33],
-      "availableColors": [ "black","orange","white","green"],
+      "availableColors": [ "Black","Orange","White","Green"],
       "rating": 3.9,
       "totalReviewCount": 76,
       "price": {
@@ -1128,7 +1128,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [31,32,33],
-      "availableColors": [ "black","white"],
+      "availableColors": [ "Black","White"],
       "rating": 4.9,
       "totalReviewCount": 78,
       "price": {
@@ -1151,7 +1151,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [33],
-      "availableColors": [ "blue","black","red"],
+      "availableColors": [ "Blue","Black","Red"],
       "rating": 4.5,
       "totalReviewCount": 40,
       "price": {
@@ -1175,7 +1175,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30,31,32,33],
-      "availableColors": [ "black","white","blue","green"],
+      "availableColors": [ "Black","White","Blue","Green"],
       "rating": 4.3,
       "totalReviewCount": 80,
       "price": {
@@ -1202,7 +1202,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30,31,32,33],
-      "availableColors": ["black","brown","pink"],
+      "availableColors": ["Black","Brown","Pink"],
       "rating": 4.4,
       "totalReviewCount": 72,
       "price": {
@@ -1227,7 +1227,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30,31,32,33,34],
-      "availableColors": ["blue","brown"],
+      "availableColors": ["Blue","Brown"],
       "rating": 4.4,
       "totalReviewCount": 72,
       "price": {
@@ -1250,7 +1250,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30,31],
-      "availableColors": ["black","red"],
+      "availableColors": ["Black","Red"],
       "rating": 4.8,
       "totalReviewCount": 80,
       "price": {
@@ -1273,7 +1273,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [31,32],
-      "availableColors": ["pink","black","white","yellow"],
+      "availableColors": ["Pink","Black","White","Yellow"],
       "rating": 4.2,
       "totalReviewCount": 83,
       "price": {
@@ -1298,7 +1298,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [31,32,33,34,35],
-      "availableColors": ["red","black","white"],
+      "availableColors": ["Red","Black","White"],
       "rating": 4.7,
       "totalReviewCount": 93,
       "price": {
@@ -1323,7 +1323,7 @@
       "gender": "kids",
       "category": "shoes",
       "availableSizes": [30,31],
-      "availableColors": ["pink","yellow"],
+      "availableColors": ["Pink","Yellow"],
       "rating": 3.9,
       "totalReviewCount": 50,
       "price": {
