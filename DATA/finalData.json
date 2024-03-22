@@ -8,7 +8,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [38, 39, 40, 41],
-      "availableColors": ["white","brown","Blue","Grey"],
+      "availableColors": ["white", "brown", "Blue", "Grey"],
       "rating": 4.9,
       "totalReviewCount": 26,
       "price": {
@@ -19,19 +19,20 @@
       },
       "imageUrl": "https://www.testatoro.com/cdn/shop/files/424687305_365041993147185_5575419395093752350_n.jpg?v=1708436022&width=533",
       "additionalImageUrls": [
-      "https://m.media-amazon.com/images/I/51fK-ERwFdL._AC_SY625_.jpg",
-      "https://m.media-amazon.com/images/I/51c87JJPFKL._AC_SY625_.jpg",
-      "https://m.media-amazon.com/images/I/51+2tCg1IRL._AC_SY625_.jpg",
-      "https://m.media-amazon.com/images/I/518FQ2xFZKL._AC_SY625_.jpg"  
+        "https://m.media-amazon.com/images/I/51fK-ERwFdL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/51c87JJPFKL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/51+2tCg1IRL._AC_SY625_.jpg",
+        "https://m.media-amazon.com/images/I/518FQ2xFZKL._AC_SY625_.jpg"
       ]
-    },{
+    },
+    {
       "id": 14,
       "name": "Nike Jumpman MVP",
       "description": "Nike Jumpman MVP",
       "isInStock": true,
       "gender": "male",
       "category": "shoes",
-      "availableSizes": [40,41],
+      "availableSizes": [40, 41],
       "availableColors": ["Yellow", "White", "Red", "Black", "Blue"],
       "rating": 4.7,
       "totalReviewCount": 78,
@@ -57,7 +58,7 @@
       "isInStock": true,
       "gender": "male",
       "category": "shoes",
-      "availableSizes": [37,38,39,40,41,42],
+      "availableSizes": [37, 38, 39, 40, 41, 42],
       "availableColors": ["white", "blue", "black", "purple"],
       "rating": 3.6,
       "totalReviewCount": 14,
@@ -75,8 +76,8 @@
         "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/d047978a-f5b8-457b-9c48-85d94ff821b7/air-jordan-1-mid-shoes-SQf7DM.png",
         "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ee599219-8de1-4bd3-a628-aab5174872f7/air-jordan-1-mid-shoes-SQf7DM.png"
       ]
-    }    
-    ,{
+    },
+    {
       "id": 6,
       "name": "Activ",
       "description": "Activ Trekking Shoes - Beige",
@@ -99,7 +100,8 @@
         "https://activaboualaa.com/cdn/shop/files/www.activaboualaa.comTRK23194_1.jpg?v=1709032218&width=823",
         "https://activaboualaa.com/cdn/shop/files/www.activaboualaa.comTRK23194_2.jpg?v=1709032228&width=823"
       ]
-    },  {
+    },
+    {
       "id": 2,
       "name": "PRD-DVTH-016",
       "description": "Textured Sole Slip On Mid-Heeled Half Boots",
@@ -107,7 +109,7 @@
       "gender": "female",
       "category": "shoes",
       "availableSizes": [38, 39, 40],
-      "availableColors": ["Yellow", "Beige" , "Brown"],
+      "availableColors": ["Yellow", "Beige", "Brown"],
       "rating": 4.9,
       "totalReviewCount": 32,
       "price": {
@@ -133,7 +135,7 @@
       "gender": "male",
       "category": "shoes",
       "availableSizes": [39, 40, 41],
-      "availableColors": ["Black","White","Blue","Grey"],
+      "availableColors": ["Black", "White", "Blue", "Grey"],
       "rating": 4.8,
       "totalReviewCount": 26,
       "price": {
@@ -149,7 +151,8 @@
         "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/44/844394/1.jpg?8585",
         "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/80/848715/1.jpg?1251"
       ]
-    },{
+    },
+    {
       "id": 5,
       "name": "Activ",
       "description": "Activ Running Shoes - Orange",
@@ -198,7 +201,8 @@
         "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9c87f16e-14d6-4275-a4c1-9ccd9b0b1628/in-season-tr-13-workout-shoes-BDTlPf.png",
         "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/08fc31ac-c620-474a-a122-293a9e9f27e1/in-season-tr-13-workout-shoes-BDTlPf.png"
       ]
-    },{
+    },
+    {
       "id": 8,
       "name": "GER-DVTH-008",
       "description": "Side Zipper Mid Calf Boots With Attached Pocket",
@@ -223,502 +227,770 @@
         "https://dejavu.shoes/cdn/shop/files/GER-DVTH-008-WHITE_3.jpg?v=1697538967&width=1200",
         "https://dejavu.shoes/cdn/shop/files/GER-DVTH-008-PINK_2.jpg?v=1697538967&width=1200"
       ]
-   },{
-    "id": 11,
-    "name": "Nike",
-    "description": "Nike Go FlyEase",
-    "isInStock": true,
-    "gender": "female",
-    "category": "shoes",
-    "availableSizes": [37, 38, 39, 40],
-    "availableColors": ["Black", "White", "Beige"],
-    "rating": 3.8,
-    "totalReviewCount": 47,
-    "price": {
-      "current": {
-        "value": 366,
-        "text": "$366.00"
-      }
     },
-    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c76e2119-acb7-4944-9085-d4f5ae2bda4a/go-flyease-easy-on-off-shoes-3svRCL.png",
-    "additionalImageUrls": [
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb34cdcd-e21c-4576-a6c4-6c2e84cb2cde/go-flyease-easy-on-off-shoes-3svRCL.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4e8b5d07-1460-4b4d-aee0-ba2d9c07346a/go-flyease-easy-on-off-shoes-3svRCL.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/373480ea-8ddd-4cf2-bbd2-5a4ea445ecff/go-flyease-easy-on-off-shoes-3svRCL.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0af510b3-6532-46c9-a315-95405e03ae52/go-flyease-easy-on-off-shoes-3svRCL.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6674c466-6046-4723-ba8b-d41012966738/go-flyease-easy-on-off-shoes-3svRCL.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/25e1c300-cc0e-4c91-9a87-4f8b5af551dd/go-flyease-easy-on-off-shoes-3svRCL.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/73036ba9-2ed0-4ba7-833f-887b98997113/go-flyease-easy-on-off-shoes-3svRCL.png"
-    ]
-  },{
-    "id": 9,
-    "name": "Nike",
-    "description": "Nike Air Max 90 Futura",
-    "isInStock": true,
-    "gender": "female",
-    "category": "shoes",
-    "availableSizes": [37, 38, 39, 40],
-    "availableColors": ["White"],
-    "rating": 5,
-    "totalReviewCount": 45,
-    "price": {
-      "current": {
-        "value": 795,
-        "text": "$795.00"
-      }
+    {
+      "id": 11,
+      "name": "Nike",
+      "description": "Nike Go FlyEase",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40],
+      "availableColors": ["Black", "White", "Beige"],
+      "rating": 3.8,
+      "totalReviewCount": 47,
+      "price": {
+        "current": {
+          "value": 366,
+          "text": "$366.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c76e2119-acb7-4944-9085-d4f5ae2bda4a/go-flyease-easy-on-off-shoes-3svRCL.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/eb34cdcd-e21c-4576-a6c4-6c2e84cb2cde/go-flyease-easy-on-off-shoes-3svRCL.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4e8b5d07-1460-4b4d-aee0-ba2d9c07346a/go-flyease-easy-on-off-shoes-3svRCL.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/373480ea-8ddd-4cf2-bbd2-5a4ea445ecff/go-flyease-easy-on-off-shoes-3svRCL.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0af510b3-6532-46c9-a315-95405e03ae52/go-flyease-easy-on-off-shoes-3svRCL.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6674c466-6046-4723-ba8b-d41012966738/go-flyease-easy-on-off-shoes-3svRCL.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/25e1c300-cc0e-4c91-9a87-4f8b5af551dd/go-flyease-easy-on-off-shoes-3svRCL.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/73036ba9-2ed0-4ba7-833f-887b98997113/go-flyease-easy-on-off-shoes-3svRCL.png"
+      ]
     },
-    "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c13a75f9-64f9-458e-9b31-c2a988782cd2/air-max-90-futura-shoes-Rxjzm2.png",
-    "additionalImageUrls": [
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99e054cd-6c72-464e-8f03-77885afae28c/air-max-90-futura-shoes-Rxjzm2.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e9c4c525-212a-4a2e-a319-e28168235c8b/air-max-90-futura-shoes-Rxjzm2.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad95723d-4c3d-4a96-9041-e6c095e816a9/air-max-90-futura-shoes-Rxjzm2.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/650e86aa-5803-49fc-b054-fa41b0d71f34/air-max-90-futura-shoes-Rxjzm2.png",
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac19dae7-996c-4c5b-bc14-1b4783975d2e/air-max-90-futura-shoes-Rxjzm2.png"
-    ]
-  },{
-    "id": 10,
-    "name": "Activ",
-    "description": "Activ Running Shoes - Purple",
-    "isInStock": true,
-    "gender": "female",
-    "category": "shoes",
-    "availableSizes": [37, 38, 39, 40, 41],
-    "availableColors": ["Purple"],
-    "rating": 3.6,
-    "totalReviewCount": 24,
-    "price": {
-      "current": {
-        "value": 599,
-        "text": "$599.00"
-      }
+    {
+      "id": 9,
+      "name": "Nike",
+      "description": "Nike Air Max 90 Futura",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40],
+      "availableColors": ["White"],
+      "rating": 5,
+      "totalReviewCount": 45,
+      "price": {
+        "current": {
+          "value": 795,
+          "text": "$795.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c13a75f9-64f9-458e-9b31-c2a988782cd2/air-max-90-futura-shoes-Rxjzm2.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/99e054cd-6c72-464e-8f03-77885afae28c/air-max-90-futura-shoes-Rxjzm2.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e9c4c525-212a-4a2e-a319-e28168235c8b/air-max-90-futura-shoes-Rxjzm2.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ad95723d-4c3d-4a96-9041-e6c095e816a9/air-max-90-futura-shoes-Rxjzm2.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/650e86aa-5803-49fc-b054-fa41b0d71f34/air-max-90-futura-shoes-Rxjzm2.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac19dae7-996c-4c5b-bc14-1b4783975d2e/air-max-90-futura-shoes-Rxjzm2.png"
+      ]
     },
-    "imageUrl": "https://activaboualaa.com/cdn/shop/files/RU23262_2_www.activaboualaa.jpg?v=1708868899&width=823",
-    "additionalImageUrls": [
-      "https://activaboualaa.com/cdn/shop/files/RU23262_1_www.activaboualaa.jpg?v=1708868893&width=823",
-      "https://activaboualaa.com/cdn/shop/files/RU23262_3_www.activaboualaa.jpg?v=1708868904&width=823"
-    ]
-  },{
-    "id": 1,
-    "name": "SUN-DVTF-007",
-    "description": "Side Fringes Zipper Closure Over The Knees Boots",
-    "isInStock": true,
-    "gender": "female",
-    "category": "shoes",
-    "availableSizes": [36, 37, 38, 39, 40, 41],
-    "availableColors": ["Black", "Blue"],
-    "rating": 4,
-    "totalReviewCount": 30,
-    "price": {
-      "current": {
-        "value": 115,
-        "text": "$115.00"
-      }
+    {
+      "id": 10,
+      "name": "Activ",
+      "description": "Activ Running Shoes - Purple",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [37, 38, 39, 40, 41],
+      "availableColors": ["Purple"],
+      "rating": 3.6,
+      "totalReviewCount": 24,
+      "price": {
+        "current": {
+          "value": 599,
+          "text": "$599.00"
+        }
+      },
+      "imageUrl": "https://activaboualaa.com/cdn/shop/files/RU23262_2_www.activaboualaa.jpg?v=1708868899&width=823",
+      "additionalImageUrls": [
+        "https://activaboualaa.com/cdn/shop/files/RU23262_1_www.activaboualaa.jpg?v=1708868893&width=823",
+        "https://activaboualaa.com/cdn/shop/files/RU23262_3_www.activaboualaa.jpg?v=1708868904&width=823"
+      ]
     },
-    "imageUrl": "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLACK-38_2.jpg?v=1699798791&width=1200",
-    "additionalImageUrls": [
-      "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLACK-38_3.jpg?v=1699798791&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLACK-38_4.jpg?v=1699798791&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLUE-38_2.jpg?v=1699798791&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLUE-38_3.jpg?v=1699798791&width=1200"
-    ]
-  },{
-    "id": 12,
-    "name": "PRD-DVTF-007",
-    "description": "Hard Rubber Sole Round Toecap Shape Side Zipper Closure",
-    "isInStock": true,
-    "gender": "female",
-    "category": "shoes",
-    "availableSizes": [36, 37, 38, 39, 40, 41],
-    "availableColors": ["Black", "grey", "Silver"],
-    "rating": 4.1,
-    "totalReviewCount": 21,
-    "price": {
-      "current": {
-        "value": 699,
-        "text": "$699.00"
-      }
+    {
+      "id": 1,
+      "name": "SUN-DVTF-007",
+      "description": "Side Fringes Zipper Closure Over The Knees Boots",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Black", "Blue"],
+      "rating": 4,
+      "totalReviewCount": 30,
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "$115.00"
+        }
+      },
+      "imageUrl": "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLACK-38_2.jpg?v=1699798791&width=1200",
+      "additionalImageUrls": [
+        "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLACK-38_3.jpg?v=1699798791&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLACK-38_4.jpg?v=1699798791&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLUE-38_2.jpg?v=1699798791&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/SUN-DVTF-007-BLUE-38_3.jpg?v=1699798791&width=1200"
+      ]
     },
-    "imageUrl": "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-BLACK-38_2.jpg?v=1699796788&width=1200",
-    "additionalImageUrls": [
-      "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-JEANS-38_3.jpg?v=1699796788&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-JEANS-38_1.jpg?v=1699796788&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-SILVER-38_4.jpg?v=1699796788&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-SILVER-38_2.jpg?v=1699796788&width=1200",
-      "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-JEANS-38_5.jpg?v=1699796788&width=1200"
-    ]
-  },{
-    "id": 13,
-    "name": "GOR-DVTH-006",
-    "description": "Lace Up Textile Boots",
-    "isInStock": true,
-    "gender": "female",
-    "category": "shoes",
-    "availableSizes": [39, 40, 41],
-    "availableColors": ["Black", "White"],
-    "rating": 4.0,
-    "totalReviewCount": 9,
-    "price": {
-      "current": {
-        "value": 749,
-        "text": "$749.00"
-      }
+    {
+      "id": 12,
+      "name": "PRD-DVTF-007",
+      "description": "Hard Rubber Sole Round Toecap Shape Side Zipper Closure",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Black", "grey", "Silver"],
+      "rating": 4.1,
+      "totalReviewCount": 21,
+      "price": {
+        "current": {
+          "value": 699,
+          "text": "$699.00"
+        }
+      },
+      "imageUrl": "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-BLACK-38_2.jpg?v=1699796788&width=1200",
+      "additionalImageUrls": [
+        "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-JEANS-38_3.jpg?v=1699796788&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-JEANS-38_1.jpg?v=1699796788&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-SILVER-38_4.jpg?v=1699796788&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-SILVER-38_2.jpg?v=1699796788&width=1200",
+        "https://dejavu.shoes/cdn/shop/files/PRD-DVTF-007-JEANS-38_5.jpg?v=1699796788&width=1200"
+      ]
     },
-    "imageUrl": "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-BLACK_1.jpg?v=1671524530&width=1200",
-    "additionalImageUrls": [
-      "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-WHITE_1.jpg?v=1671524530&width=1200",
-      "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-WHITE_3.jpg?v=1671524531&width=1200",
-      "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-BLACK_3.jpg?v=1671524529&width=1200",
-      "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-WHITE_4.jpg?v=1671524531&width=1200",
-      "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-BLACK_4.jpg?v=1671524531&width=1200"
-    ]
-  },{
-    "id": 17,
-    "name": "ADIDAS",
-    "description": "ADIDAS X DISNEY SURU365 MICKEY SLIP-ON SHOES",
-    "isInStock": true,
-    "gender": "kids",
-    "category": "shoes",
-    "availableSizes": [32,33,34],
-    "availableColors": ["Red"],
-    "rating": 4.7,
-    "totalReviewCount": 36,
-    "price": {
-      "current": {
-        "value": 135,
-        "text": "$135.00"
-      }
+    {
+      "id": 13,
+      "name": "GOR-DVTH-006",
+      "description": "Lace Up Textile Boots",
+      "isInStock": true,
+      "gender": "female",
+      "category": "shoes",
+      "availableSizes": [39, 40, 41],
+      "availableColors": ["Black", "White"],
+      "rating": 4.0,
+      "totalReviewCount": 9,
+      "price": {
+        "current": {
+          "value": 749,
+          "text": "$749.00"
+        }
+      },
+      "imageUrl": "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-BLACK_1.jpg?v=1671524530&width=1200",
+      "additionalImageUrls": [
+        "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-WHITE_1.jpg?v=1671524530&width=1200",
+        "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-WHITE_3.jpg?v=1671524531&width=1200",
+        "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-BLACK_3.jpg?v=1671524529&width=1200",
+        "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-WHITE_4.jpg?v=1671524531&width=1200",
+        "https://dejavu.shoes/cdn/shop/products/GOR-DVTH-006-BLACK_4.jpg?v=1671524531&width=1200"
+      ]
     },
-    "imageUrl": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ebdc5f3514294e74878caf5100d6243b_9366/HP9002_01_standard.jpg",
-    "additionalImageUrls": [
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ebdc5f3514294e74878caf5100d6243b_9366/HP9002_01_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/5aa9e1283ac14fde935baf5100d6579f_9366/HP9002_04_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/813d3ea2a69d40c08ce7af5100d64f94_9366/HP9002_03_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/5e11b0b9ed3c48789152af5100d64226_9366/HP9002_02_standard_hover.jpg"
-    ]
-  },{
-    "id": 18,
-    "name": "ADIDAS",
-    "description": "ADIDAS DNA X LEGO® TWO-STRAP HOOK-AND-LOOP SHOES",
-    "isInStock": true,
-    "gender": "kids",
-    "category": "shoes",
-    "availableSizes": [30,31,32,33,34],
-    "availableColors": ["yellow"],
-    "rating": 4.6,
-    "totalReviewCount": 42,
-    "price": {
-      "current": {
-        "value": 115,
-        "text": "$115.00"
-      }
+    {
+      "id": 17,
+      "name": "ADIDAS",
+      "description": "ADIDAS X DISNEY SURU365 MICKEY SLIP-ON SHOES",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [32, 33, 34],
+      "availableColors": ["Red"],
+      "rating": 4.7,
+      "totalReviewCount": 36,
+      "price": {
+        "current": {
+          "value": 135,
+          "text": "$135.00"
+        }
+      },
+      "imageUrl": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ebdc5f3514294e74878caf5100d6243b_9366/HP9002_01_standard.jpg",
+      "additionalImageUrls": [
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ebdc5f3514294e74878caf5100d6243b_9366/HP9002_01_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/5aa9e1283ac14fde935baf5100d6579f_9366/HP9002_04_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/813d3ea2a69d40c08ce7af5100d64f94_9366/HP9002_03_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/5e11b0b9ed3c48789152af5100d64226_9366/HP9002_02_standard_hover.jpg"
+      ]
     },
-    "imageUrl": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a1bd7b738f54fa69451af340146942f_9366/HQ1308_01_standard.jpg",
-    "additionalImageUrls": [
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a1bd7b738f54fa69451af340146942f_9366/HQ1308_01_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a1bd7b738f54fa69451af340146942f_9366/HQ1308_01_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/c0b6390fedf84913881faf340146ca9a_9366/HQ1308_02_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/83f49aeb9e8543859c78af340146d398_9366/HQ1308_03_standard.jpg"
-    ]
-  },{
-    "id": 19,
-    "name": "ADIDAS",
-    "description": "PUREBOOST 22 SHOES",
-    "isInStock": true,
-    "gender": "male",
-    "category": "shoes",
-    "availableSizes": [39,40,41],
-    "availableColors": ["grey"],
-    "rating": 4.6,
-    "totalReviewCount": 42,
-    "price": {
-      "current": {
-        "value": 225,
-        "text": "$225.00"
-      }
+    {
+      "id": 18,
+      "name": "ADIDAS",
+      "description": "ADIDAS DNA X LEGO® TWO-STRAP HOOK-AND-LOOP SHOES",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31, 32, 33, 34],
+      "availableColors": ["yellow"],
+      "rating": 4.6,
+      "totalReviewCount": 42,
+      "price": {
+        "current": {
+          "value": 115,
+          "text": "$115.00"
+        }
+      },
+      "imageUrl": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a1bd7b738f54fa69451af340146942f_9366/HQ1308_01_standard.jpg",
+      "additionalImageUrls": [
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a1bd7b738f54fa69451af340146942f_9366/HQ1308_01_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/1a1bd7b738f54fa69451af340146942f_9366/HQ1308_01_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/c0b6390fedf84913881faf340146ca9a_9366/HQ1308_02_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/83f49aeb9e8543859c78af340146d398_9366/HQ1308_03_standard.jpg"
+      ]
     },
-    "imageUrl": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba2659b7dd1a4e65812faf51009cb58c_9366/HP9019_01_standard.jpg",
-    "additionalImageUrls": [
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba2659b7dd1a4e65812faf51009cb58c_9366/HP9019_01_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba2659b7dd1a4e65812faf51009cb58c_9366/HP9019_01_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba3e6e6b40e84349a2beaf51009ccf36_9366/HP9019_04_standard.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/af013157a66a41aa8afdaf510130b5b5_9366/HP9019_02_standard_hover.jpg",
-      "https://assets.adidas.com/images/w_1880,f_auto,q_auto/2d3b3d7e0f014a0292e9af510130befb_9366/HP9019_03_standard.jpg"
-    ]
-  },{
-    "id": 21,
-    "name": "Roadwalker",
-    "description": "Double Velcro Leather Kids Sneakers",
-    "isInStock": true,
-    "gender": "kids",
-    "category": "shoes",
-    "availableSizes": [30,31,32,33],
-    "availableColors": ["White"],
-    "rating": 4.6,
-    "totalReviewCount": 24,
-    "price": {
-      "current": {
-        "value": 140,
-        "text": "$140.00"
-      }
+    {
+      "id": 19,
+      "name": "ADIDAS",
+      "description": "PUREBOOST 22 SHOES",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [39, 40, 41],
+      "availableColors": ["grey"],
+      "rating": 4.6,
+      "totalReviewCount": 42,
+      "price": {
+        "current": {
+          "value": 225,
+          "text": "$225.00"
+        }
+      },
+      "imageUrl": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba2659b7dd1a4e65812faf51009cb58c_9366/HP9019_01_standard.jpg",
+      "additionalImageUrls": [
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba2659b7dd1a4e65812faf51009cb58c_9366/HP9019_01_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba2659b7dd1a4e65812faf51009cb58c_9366/HP9019_01_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/ba3e6e6b40e84349a2beaf51009ccf36_9366/HP9019_04_standard.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/af013157a66a41aa8afdaf510130b5b5_9366/HP9019_02_standard_hover.jpg",
+        "https://assets.adidas.com/images/w_1880,f_auto,q_auto/2d3b3d7e0f014a0292e9af510130befb_9366/HP9019_03_standard.jpg"
+      ]
     },
-    "imageUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/1.jpg?7044",
-    "additionalImageUrls": [
-      "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/1.jpg?7044",
-      "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/2.jpg?7045",
-      "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/3.jpg?7046",
-      "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/4.jpg?7047"
-    ]
-  }
-  ,{
-    "id": 20,
-    "name": "MOSCHINO KIDS",
-    "description": "Baby leather sneakers",
-    "isInStock": true,
-    "gender": "kids",
-    "category": "shoes",
-    "availableSizes": [30,31,32,33],
-    "availableColors": ["blue", "pink", "black"],
-    "rating": 3.9,
-    "totalReviewCount": 21,
-    "price": {
-      "current": {
-        "value": 109,
-        "text": "$109.00"
-      }
+    {
+      "id": 21,
+      "name": "Roadwalker",
+      "description": "Double Velcro Leather Kids Sneakers",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31, 32, 33],
+      "availableColors": ["White"],
+      "rating": 4.6,
+      "totalReviewCount": 24,
+      "price": {
+        "current": {
+          "value": 140,
+          "text": "$140.00"
+        }
+      },
+      "imageUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/1.jpg?7044",
+      "additionalImageUrls": [
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/1.jpg?7044",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/2.jpg?7045",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/3.jpg?7046",
+        "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/76/480274/4.jpg?7047"
+      ]
     },
-    "imageUrl": "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/55/P00543157.jpg",
-    "additionalImageUrls": [
-      "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/55/P00543157.jpg",
-      "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/55/P00543157_d2.jpg",
-      "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/bc/P00591953.jpg",
-      "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/bc/P00591953_d2.jpg",
-      "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/2b/P00591955.jpg"
-    ]
-  },
-  {
-    "id": 22,
-    "name": "01-4019 Half Boot",
-    "description": "Mid-Heeled Half Boots",
-    "isInStock": true,
-    "gender": "female",
-    "category": "boots",
-    "availableSizes": [36,37,38, 39, 40,41],
-    "availableColors": ["Blue", "Black" , "Beige","Purple"],
-    "rating": 4.7,
-    "totalReviewCount": 29,
-    "price": {
-      "current": {
-        "value": 150,
-        "text": "$150.00"
-      }
+    {
+      "id": 20,
+      "name": "MOSCHINO KIDS",
+      "description": "Baby leather sneakers",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31, 32, 33],
+      "availableColors": ["blue", "pink", "black"],
+      "rating": 3.9,
+      "totalReviewCount": 21,
+      "price": {
+        "current": {
+          "value": 109,
+          "text": "$109.00"
+        }
+      },
+      "imageUrl": "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/55/P00543157.jpg",
+      "additionalImageUrls": [
+        "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/55/P00543157.jpg",
+        "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/55/P00543157_d2.jpg",
+        "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/bc/P00591953.jpg",
+        "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/bc/P00591953_d2.jpg",
+        "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/2b/P00591955.jpg"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4019-80_1.jpg?v=1708409625",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4019-80_1.jpg?v=1708409625",
-      "https://pixishoes.com/cdn/shop/products/01-4019-01_2.jpg?v=1708409625",
-      "https://pixishoes.com/cdn/shop/products/01-4019-03_2.jpg?v=1699525678",
-      "https://pixishoes.com/cdn/shop/files/01-4019-11_2.jpg?v=1708409625"
-      
-    ]
-  },
-  {
-    "id": 23,
-    "name": "01-4580 Half Boot",
-    "description": "Mid-Heeled Half Boots",
-    "isInStock": true,
-    "gender": "female",
-    "category": "boots",
-    "availableSizes": [36,40,41],
-    "availableColors": ["Black", "Beige" , "Green","Brown"],
-    "rating": 4.8,
-    "totalReviewCount": 30,
-    "price": {
-      "current": {
-        "value": 90,
-        "text": "$90.00"
-      }
+    {
+      "id": 22,
+      "name": "01-4019 Half Boot",
+      "description": "Mid-Heeled Half Boots",
+      "isInStock": true,
+      "gender": "female",
+      "category": "boots",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Blue", "Black", "Beige", "Purple"],
+      "rating": 4.7,
+      "totalReviewCount": 29,
+      "price": {
+        "current": {
+          "value": 150,
+          "text": "$150.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4019-80_1.jpg?v=1708409625",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4019-80_1.jpg?v=1708409625",
+        "https://pixishoes.com/cdn/shop/products/01-4019-01_2.jpg?v=1708409625",
+        "https://pixishoes.com/cdn/shop/products/01-4019-03_2.jpg?v=1699525678",
+        "https://pixishoes.com/cdn/shop/files/01-4019-11_2.jpg?v=1708409625"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4580-01_2.jpg?v=1699434834",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4580-01_2.jpg?v=1699434834",
-      "https://pixishoes.com/cdn/shop/files/01-4580-03_2.jpg?v=1699434834",
-      "https://pixishoes.com/cdn/shop/files/01-4580-97_2.jpg?v=1699434834",
-      "https://pixishoes.com/cdn/shop/files/01-4580_3.jpg?v=1705483430"
-      
-    ]
-  },
-  {
-    "id": 24,
-    "name": "01-4513 Platform Sneaker",
-    "description": "Mid-Heeled Sneaker with black lace",
-    "isInStock": true,
-    "gender": "female",
-    "category": "sneakers",
-    "availableSizes": [36,37,38,39,40,41],
-    "availableColors": ["Black", "White" , "Beige"],
-    "rating": 4.6,
-    "totalReviewCount": 27,
-    "price": {
-      "current": {
-        "value": 70,
-        "text": "$70.00"
-      }
+    {
+      "id": 23,
+      "name": "01-4580 Half Boot",
+      "description": "Mid-Heeled Half Boots",
+      "isInStock": true,
+      "gender": "female",
+      "category": "boots",
+      "availableSizes": [36, 40, 41],
+      "availableColors": ["Black", "Beige", "Green", "Brown"],
+      "rating": 4.8,
+      "totalReviewCount": 30,
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4580-01_2.jpg?v=1699434834",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4580-01_2.jpg?v=1699434834",
+        "https://pixishoes.com/cdn/shop/files/01-4580-03_2.jpg?v=1699434834",
+        "https://pixishoes.com/cdn/shop/files/01-4580-97_2.jpg?v=1699434834",
+        "https://pixishoes.com/cdn/shop/files/01-4580_3.jpg?v=1705483430"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4513-01_2.jpg?v=1699871059",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4513-01_2.jpg?v=1699871059",
-      "https://pixishoes.com/cdn/shop/files/01-4513-02_2.jpg?v=1699871059",
-      "https://pixishoes.com/cdn/shop/files/01-4513-03_2.jpg?v=1699871059"
-      
-    ]
-  },
-  {
-    "id": 25,
-    "name": "01-4533 High Heel Pumps",
-    "description": "High Heels pumps with gold heel",
-    "isInStock": true,
-    "gender": "female",
-    "category": "heels",
-    "availableSizes": [40,41],
-    "availableColors": ["Black", "Beige","Green"],
-    "rating": 4.5,
-    "totalReviewCount": 26,
-    "price": {
-      "current": {
-        "value": 100,
-        "text": "$100.00"
-      }
+    {
+      "id": 24,
+      "name": "01-4513 Platform Sneaker",
+      "description": "Mid-Heeled Sneaker with black lace",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Black", "White", "Beige"],
+      "rating": 4.6,
+      "totalReviewCount": 27,
+      "price": {
+        "current": {
+          "value": 70,
+          "text": "$70.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4513-01_2.jpg?v=1699871059",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4513-01_2.jpg?v=1699871059",
+        "https://pixishoes.com/cdn/shop/files/01-4513-02_2.jpg?v=1699871059",
+        "https://pixishoes.com/cdn/shop/files/01-4513-03_2.jpg?v=1699871059"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4533-01_2.jpg?v=1699877864",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4533-01_2.jpg?v=1699877864",
-      "https://pixishoes.com/cdn/shop/files/01-4533-03_2.jpg?v=1700483142",
-      "https://pixishoes.com/cdn/shop/files/01-4533-97_2.jpg?v=1700483142"
-      
-    ]
-  },
-  {
-    "id": 26,
-    "name": "01-4529 High Heel",
-    "description": " Stiletto High Heel Pumps",
-    "isInStock": true,
-    "gender": "female",
-    "category": "heels",
-    "availableSizes": [36,37,38,40,41],
-    "availableColors": ["Purple", "Black"],
-    "rating": 4.3,
-    "totalReviewCount": 31,
-    "price": {
-      "current": {
-        "value": 95,
-        "text": "$95.00"
-      }
+    {
+      "id": 25,
+      "name": "01-4533 High Heel Pumps",
+      "description": "High Heels pumps with gold heel",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [40, 41],
+      "availableColors": ["Black", "Beige", "Green"],
+      "rating": 4.5,
+      "totalReviewCount": 26,
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4533-01_2.jpg?v=1699877864",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4533-01_2.jpg?v=1699877864",
+        "https://pixishoes.com/cdn/shop/files/01-4533-03_2.jpg?v=1700483142",
+        "https://pixishoes.com/cdn/shop/files/01-4533-97_2.jpg?v=1700483142"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4529-11_2.jpg?v=1700482583",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4529-11_2.jpg?v=1700482583",
-      "https://pixishoes.com/cdn/shop/files/01-4529-01_2.jpg?v=1700482583"
-      
-    ]
-  },
-  {
-    "id": 27,
-    "name": "01-4525 Kitten Heel Pumps",
-    "description": "Kitten Heel Pumps shiny",
-    "isInStock": true,
-    "gender": "female",
-    "category": "heels",
-    "availableSizes": [36,37,38,39,40,41],
-    "availableColors": ["Black", "Beige","Purple"],
-    "rating": 4.5,
-    "totalReviewCount": 37,
-    "price": {
-      "current": {
-        "value": 110,
-        "text": "$110.00"
-      }
+    {
+      "id": 26,
+      "name": "01-4529 High Heel",
+      "description": " Stiletto High Heel Pumps",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [36, 37, 38, 40, 41],
+      "availableColors": ["Purple", "Black"],
+      "rating": 4.3,
+      "totalReviewCount": 31,
+      "price": {
+        "current": {
+          "value": 95,
+          "text": "$95.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4529-11_2.jpg?v=1700482583",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4529-11_2.jpg?v=1700482583",
+        "https://pixishoes.com/cdn/shop/files/01-4529-01_2.jpg?v=1700482583"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4525-01_2.jpg?v=1699876501",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4525-01_2.jpg?v=1699876501",
-      "https://pixishoes.com/cdn/shop/files/01-4525-03_2.jpg?v=1700482196",
-      "https://pixishoes.com/cdn/shop/files/01-4525-11_3.jpg?v=1700482196"
-      
-    ]
-  },
-  {
-    "id": 28,
-    "name": "01-3137 Block Heel Pumps",
-    "description": "Block Heel Pumps with striped heel",
-    "isInStock": true,
-    "gender": "female",
-    "category": "heels",
-    "availableSizes": [36,37,38,39,40,41],
-    "availableColors": ["Beige", "Black"],
-    "rating": 4.4,
-    "totalReviewCount": 23,
-    "price": {
-      "current": {
-        "value": 120,
-        "text": "$120.00"
-      }
+    {
+      "id": 27,
+      "name": "01-4525 Kitten Heel Pumps",
+      "description": "Kitten Heel Pumps shiny",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Black", "Beige", "Purple"],
+      "rating": 4.5,
+      "totalReviewCount": 37,
+      "price": {
+        "current": {
+          "value": 110,
+          "text": "$110.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4525-01_2.jpg?v=1699876501",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4525-01_2.jpg?v=1699876501",
+        "https://pixishoes.com/cdn/shop/files/01-4525-03_2.jpg?v=1700482196",
+        "https://pixishoes.com/cdn/shop/files/01-4525-11_3.jpg?v=1700482196"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/products/3137-03_1.jpg?v=1639983960",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/products/3137-03_1.jpg?v=1639983960",
-      "https://pixishoes.com/cdn/shop/products/3137-01_1.jpg?v=1640519641"
-      
-    ]
-  },
-  {
-    "id": 29,
-    "name": "01-4563 Platform Sneaker",
-    "description": "Platform Sneaker with white heels and colored laces",
-    "isInStock": true,
-    "gender": "female",
-    "category": "sneakers",
-    "availableSizes": [36,37,38,39,40,41],
-    "availableColors": ["Green", "Beige","Black"],
-    "rating": 4.8,
-    "totalReviewCount": 30,
-    "price": {
-      "current": {
-        "value": 130,
-        "text": "$130.00"
-      }
+    {
+      "id": 28,
+      "name": "01-3137 Block Heel Pumps",
+      "description": "Block Heel Pumps with striped heel",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Beige", "Black"],
+      "rating": 4.4,
+      "totalReviewCount": 23,
+      "price": {
+        "current": {
+          "value": 120,
+          "text": "$120.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/products/3137-03_1.jpg?v=1639983960",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/products/3137-03_1.jpg?v=1639983960",
+        "https://pixishoes.com/cdn/shop/products/3137-01_1.jpg?v=1640519641"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4563-97_2.jpg?v=1699873171",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4563-97_2.jpg?v=1699873171",
-      "https://pixishoes.com/cdn/shop/files/01-4563-03_2.jpg?v=1700559178",
-      "https://pixishoes.com/cdn/shop/files/01-4563-01_2.jpg?v=1700559178"
-      
-    ]
-  },
-  {
-    "id": 30,
-    "name": "01-4542 UnderKnee Boot",
-    "description": "UnderKnee Boot shiny and with small heel",
-    "isInStock": true,
-    "gender": "female",
-    "category": "heels",
-    "availableSizes": [36,37,38],
-    "availableColors": ["Black", "Purple","Beige"],
-    "rating": 4.6,
-    "totalReviewCount": 32,
-    "price": {
-      "current": {
-        "value": 150,
-        "text": "$150.00"
-      }
+    {
+      "id": 29,
+      "name": "01-4563 Platform Sneaker",
+      "description": "Platform Sneaker with white heels and colored laces",
+      "isInStock": true,
+      "gender": "female",
+      "category": "sneakers",
+      "availableSizes": [36, 37, 38, 39, 40, 41],
+      "availableColors": ["Green", "Beige", "Black"],
+      "rating": 4.8,
+      "totalReviewCount": 30,
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "$130.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4563-97_2.jpg?v=1699873171",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4563-97_2.jpg?v=1699873171",
+        "https://pixishoes.com/cdn/shop/files/01-4563-03_2.jpg?v=1700559178",
+        "https://pixishoes.com/cdn/shop/files/01-4563-01_2.jpg?v=1700559178"
+      ]
     },
-    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4542-01_2.jpg?v=1707908226",
-    "additionalImageUrls": [
-      "https://pixishoes.com/cdn/shop/files/01-4542-01_2.jpg?v=1707908226",
-      "https://pixishoes.com/cdn/shop/files/01-4542_2.jpg?v=1707908226",
-      "https://pixishoes.com/cdn/shop/files/01-4542-03_2.jpg?v=1707908250"
-      
-    ]
-  }                          
+    {
+      "id": 30,
+      "name": "01-4542 UnderKnee Boot",
+      "description": "UnderKnee Boot shiny and with small heel",
+      "isInStock": true,
+      "gender": "female",
+      "category": "heels",
+      "availableSizes": [36, 37, 38],
+      "availableColors": ["Black", "Purple", "Beige"],
+      "rating": 4.6,
+      "totalReviewCount": 32,
+      "price": {
+        "current": {
+          "value": 150,
+          "text": "$150.00"
+        }
+      },
+      "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4542-01_2.jpg?v=1707908226",
+      "additionalImageUrls": [
+        "https://pixishoes.com/cdn/shop/files/01-4542-01_2.jpg?v=1707908226",
+        "https://pixishoes.com/cdn/shop/files/01-4542_2.jpg?v=1707908226",
+        "https://pixishoes.com/cdn/shop/files/01-4542-03_2.jpg?v=1707908250"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Nike Court Borough",
+      "description": "Flex grooves on the outsole",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 40, 43, 44],
+      "availableColors": ["black", "white", "blue", "green"],
+      "rating": 4.9,
+      "totalReviewCount": 21,
+      "price": {
+        "current": {
+          "value": 114,
+          "text": "$114.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/12891be9-a7dc-4d23-b3bd-e07256c91024/court-borough-low-recraft-big-kids-shoes-dDK0q4.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/12891be9-a7dc-4d23-b3bd-e07256c91024/court-borough-low-recraft-big-kids-shoes-dDK0q4.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/c916df01-4be5-4637-b988-5f485152c621/court-borough-low-recraft-big-kids-shoes-dDK0q4.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/a8cca7a6-2bae-45fb-89a2-40bcb8d1c48e/court-borough-low-recraft-big-kids-shoes-dDK0q4.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9ca32e49-8946-4d01-8e03-023c81e6e359/court-borough-low-recraft-big-kids-shoes-dDK0q4.png"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Nike Air Huarache",
+      "description": "Your personalized Air Huarache",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [40, 46, 39, 42],
+      "availableColors": ["white", "black", "Red", "purple"],
+      "rating": 4.1,
+      "totalReviewCount": 24,
+      "price": {
+        "current": {
+          "value": 255,
+          "text": "$255.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/844d1e27-a857-4172-b42c-0a60468620c8/custom-huarache-run-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/844d1e27-a857-4172-b42c-0a60468620c8/custom-huarache-run-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ac63399f-1601-482e-a52f-f0d731c66db5/custom-huarache-run-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/5cd3e560-b280-47a4-979d-9d6c2a8eebd0/custom-huarache-run-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f9c2d401-79ab-4a65-a4a6-27fd09805214/custom-huarache-run-by-you.png"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "MOSCHINO Nike",
+      "description": "Man leather sneakers",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 40, 44, 42],
+      "availableColors": ["aqua", "black", "gray"],
+      "rating": 4.9,
+      "totalReviewCount": 21,
+      "price": {
+        "current": {
+          "value": 220,
+          "text": "$220.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cc11861c-e016-4925-a669-a9f8aa6ee356/custom-nike-air-max-97-shoes-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cc11861c-e016-4925-a669-a9f8aa6ee356/custom-nike-air-max-97-shoes-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e7d61576-cbec-4992-809e-6d50cb13884e/custom-nike-air-max-97-shoes-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6d17a039-44f9-4fba-902d-92ab77689cee/custom-nike-air-max-97-shoes-by-you.png"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Nike Air Max",
+      "description": "The AM97 was the shapeshifter",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 47, 42, 41],
+      "availableColors": ["red", "black", "Brown", "gray"],
+      "rating": 4.9,
+      "totalReviewCount": 21,
+      "price": {
+        "current": {
+          "value": 360,
+          "text": "$360.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/69bfbb40-ef09-4aaa-b480-807e77ce4895/custom-nike-air-zoom-pegasus-flyease-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/69bfbb40-ef09-4aaa-b480-807e77ce4895/custom-nike-air-zoom-pegasus-flyease-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/96936dd7-ab5d-4ce5-bc94-ba3c8f243045/custom-nike-air-zoom-pegasus-flyease-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2468ea36-9ffd-4bd8-b46b-81adac38cb07/custom-nike-air-zoom-pegasus-flyease-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/2a12c252-d8bf-4300-b5e3-79dc00c0e9f5/custom-nike-air-zoom-pegasus-flyease-by-you.png"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Nike Air Force",
+      "description": "Explore the Nike Air Force 1 '07 Men's Shoes",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 47, 42, 41],
+      "availableColors": ["black", "blue", "yellow", "white"],
+      "rating": 4.2,
+      "totalReviewCount": 30,
+      "price": {
+        "current": {
+          "value": 340,
+          "text": "$340.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1defaebe-cdc7-49ec-8530-acd53889a052/custom-nike-air-force-1-low-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1defaebe-cdc7-49ec-8530-acd53889a052/custom-nike-air-force-1-low-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6e097acf-6dd2-4afb-bfe6-42de7820e532/custom-nike-air-force-1-low-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7af8241b-654c-48d4-adb6-f48c71544d69/custom-nike-air-force-1-low-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ce43fee7-ac49-407b-b7c7-a8c93e03f5a7/custom-nike-air-force-1-low-by-you.png"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Air Force",
+      "description": "Explore the Nike Air Force 19 '07 Men's Shoes",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 47, 42, 41],
+      "availableColors": ["yellow", "red", "blue", "grey"],
+      "rating": 4.2,
+      "totalReviewCount": 30,
+      "price": {
+        "current": {
+          "value": 340,
+          "text": "$340.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8cc4cec3-c98f-4560-86ee-4c3680979284/custom-nike-air-force-1-low-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/8cc4cec3-c98f-4560-86ee-4c3680979284/custom-nike-air-force-1-low-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ba382b8d-5a34-447b-9e04-86c9f7f49e48/custom-nike-air-force-1-low-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cc0507f6-05b9-4220-9305-58cbe8b53e79/custom-nike-air-force-1-low-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/cad021fc-3a08-4ece-bf8d-ee5f125a4677/custom-nike-air-force-1-low-by-you.png"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Nike Dunk Low",
+      "description": "Created for the hardwood but taken to the streets",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [38, 47, 39, 44],
+      "availableColors": ["black", "red", "blue", "grey"],
+      "rating": 4.1,
+      "totalReviewCount": 40,
+      "price": {
+        "current": {
+          "value": 210,
+          "text": "$210.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/34d35abd-ffbe-4dcb-8d85-4169ebf2b782/custom-nike-dunk-low-by-you-shoes.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/34d35abd-ffbe-4dcb-8d85-4169ebf2b782/custom-nike-dunk-low-by-you-shoes.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/33f0f1ca-db79-4d41-9801-f57cc3662661/custom-nike-dunk-low-by-you-shoes.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/26d8a79d-7f98-4594-be42-caee59aa8573/custom-nike-dunk-low-by-you-shoes.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b4a93d41-c41c-42ab-8294-3823695e0086/custom-nike-dunk-low-by-you-shoes.png"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Nike Metcon 9",
+      "description": "Hard work shines in and out of the gym",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [39, 41, 40, 42],
+      "availableColors": ["gray", "black", "aqua", "blue"],
+      "rating": 3.9,
+      "totalReviewCount": 70,
+      "price": {
+        "current": {
+          "value": 240,
+          "text": "$240.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/71381876-be9f-4538-884a-d6da85f2330e/custom-nike-metcon-9-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/71381876-be9f-4538-884a-d6da85f2330e/custom-nike-metcon-9-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9dbd25df-f70d-4e59-b83f-5476c8f86d84/custom-nike-metcon-9-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/97d3252c-f115-4a29-b135-827f67637b57/custom-nike-metcon-9-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ad07aaa8-6909-4b2e-b93a-5cfa519b7eaa/custom-nike-metcon-9-by-you.png"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Nike Air Force 1 LV8",
+      "description": "Hard work shines",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [46, 41, 45, 42],
+      "availableColors": ["yellow"],
+      "rating": 3.9,
+      "totalReviewCount": 70,
+      "price": {
+        "current": {
+          "value": 240,
+          "text": "$240.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/135207e0-0286-462b-a1b3-b509501c8111/air-force-1-lv8-big-kids-shoes-phNQ4x.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/135207e0-0286-462b-a1b3-b509501c8111/air-force-1-lv8-big-kids-shoes-phNQ4x.png"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Nike Dunk High",
+      "description": "Nike Dunk High By You, With Luck",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [46, 44, 45, 43],
+      "availableColors": ["yellow"],
+      "rating": 3.9,
+      "totalReviewCount": 70,
+      "price": {
+        "current": {
+          "value": 280,
+          "text": "$280.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/90a6158f-f444-40f3-ac6f-ea2c576e2a1e/custom-nike-dunk-high-by-you-shoes.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/90a6158f-f444-40f3-ac6f-ea2c576e2a1e/custom-nike-dunk-high-by-you-shoes.png"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Nike Low Unlocked",
+      "description": "Nike Dunk High",
+      "isInStock": true,
+      "gender": "male",
+      "category": "shoes",
+      "availableSizes": [46, 41, 45, 42],
+      "availableColors": ["red", "white", "gray"],
+      "rating": 4.7,
+      "totalReviewCount": 80,
+      "price": {
+        "current": {
+          "value": 240,
+          "text": "$240.00"
+        }
+      },
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/88c916e6-896f-42d0-8c91-5e33ebec8558/nike-dunk-low-unlocked-by-you.png",
+      "additionalImageUrls": [
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/88c916e6-896f-42d0-8c91-5e33ebec8558/nike-dunk-low-unlocked-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9a1ba562-a95e-43ee-b575-f94f6d0bf7b9/nike-dunk-low-unlocked-by-you.png",
+        "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/125971f2-e45e-4257-8800-a8d9281351b6/nike-dunk-low-unlocked-by-you.png"
+      ]
+    }
   ]
 }
