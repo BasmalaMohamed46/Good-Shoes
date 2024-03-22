@@ -83,6 +83,7 @@ export default class Wishlist {
                           <div class="modal-body">
                           <div class="modal-card h-100">
                               <div class="modal-card-body d-flex flex-column justify-content-between">
+                              <div class="alert alert-danger d-none" id="colorSize"></div>
                                   <div> 
                                       <img id="mImg" class="card-img-top img-fluid" style="width: 100%; height: 400px;">
                                   </div>
@@ -127,13 +128,21 @@ export default class Wishlist {
             mPrice.textContent = item.price.current.text;
             const confirmAddToCartButton = document.querySelector("#confirmAddToCart");
             confirmAddToCartButton.addEventListener("click", function() {
+                if(!item.selectedColor || !item.selectedSize) {
+                    //error message by bootstrap inside the modal
+                    
+                    var colorSize = document.getElementById('colorSize');
+                    colorSize.classList.remove('d-none');
+                    colorSize.innerHTML  = 'Color and size should be selected';
+                }
+                else{
                 $('#exampleModal').modal('hide');
                 
                 window.location.href = "cart.html";
                 const cartInstance = new Cart();
                 cartInstance.addItem(item);
                 
-                
+                }
                 
             });
             const colorsContainer = document.getElementById("productColors");
