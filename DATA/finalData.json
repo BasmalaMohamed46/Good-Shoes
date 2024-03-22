@@ -991,6 +991,358 @@
         "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9a1ba562-a95e-43ee-b575-f94f6d0bf7b9/nike-dunk-low-unlocked-by-you.png",
         "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/125971f2-e45e-4257-8800-a8d9281351b6/nike-dunk-low-unlocked-by-you.png"
       ]
+    },
+    {
+      "id": 42,
+      "name": "Jordan AJ 1 Mid",
+      "description": "Jordan with high neck",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31, 32, 33],
+      "availableColors": ["white", "orange", "green","blue"],
+      "rating": 4.2,
+      "totalReviewCount": 63,
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/D8425132_a1?wid=581&hei=581&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/D8425132_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/40735701_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/Q8425301_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/Q8425401_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "adidas Originals X_PLR",
+      "description": "adidas Originals X_PLR with medium heel",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31],
+      "availableColors": ["black", "white"],
+      "rating": 4.7,
+      "totalReviewCount": 51,
+      "price": {
+        "current": {
+          "value": 120,
+          "text": "$120.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/BY9961_a1?wid=581&hei=581&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/BY9961_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/CQ3132_a1?wid=581&hei=581&fmt=jpg-alpha"
+
+      ]
+    },
+    {
+      "id": 44,
+      "name": "UGG Fluff Yeah Slides",
+      "description": "UGG Fluff Yeah Slides flat",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31,32],
+      "availableColors": ["pink", "black","red","yellow"],
+      "rating": 4.5,
+      "totalReviewCount": 45,
+      "price": {
+        "current": {
+          "value": 90,
+          "text": "$90.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/579TRCR_a1?wid=581&hei=581&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/579TRCR_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/579TBLK_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/579TRBRD_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/7437TYEL?wid=583&hei=583&fmt=jpg-alpha"
+
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Timberland 6 Premium",
+      "description": "Timberland 6 Premium Waterproof Boots",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30, 31,32,33],
+      "availableColors": [ "black","orange","red"],
+      "rating": 4.9,
+      "totalReviewCount": 70,
+      "price": {
+        "current": {
+          "value": 150,
+          "text": "$150.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/12807_a1?wid=581&hei=581&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/12807_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/A62SB804_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/A626KP92_a1?wid=581&hei=581&fmt=jpg-alpha"
+        
+
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Nike Flex ",
+      "description": "Nike Flex Runner 2 - flat",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [32,33],
+      "availableColors": [ "black","orange","white","green"],
+      "rating": 3.9,
+      "totalReviewCount": 76,
+      "price": {
+        "current": {
+          "value": 110,
+          "text": "$110.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/D6039001_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/D6039001_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/M4206800_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/D6039100_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/J6039700_a1?wid=581&hei=581&fmt=jpg-alpha"
+        
+
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Converse All Star",
+      "description": "Converse All Star Low Top",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [31,32,33],
+      "availableColors": [ "black","white"],
+      "rating": 4.9,
+      "totalReviewCount": 78,
+      "price": {
+        "current": {
+          "value": 100,
+          "text": "$100.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/7235001_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/7235001_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/7J256102_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Jordan AJ",
+      "description": "Jordan AJ 11 CMFT Low",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [33],
+      "availableColors": [ "blue","black","red"],
+      "rating": 4.5,
+      "totalReviewCount": 40,
+      "price": {
+        "current": {
+          "value": 130,
+          "text": "$130.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/Z0906114_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/Z0906114_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/Z0906102_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/Z0906116_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Crocs Classic Clogs",
+      "description": "Crocs Classic Clogs new collection",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30,31,32,33],
+      "availableColors": [ "black","white","blue","green"],
+      "rating": 4.3,
+      "totalReviewCount": 80,
+      "price": {
+        "current": {
+          "value": 80,
+          "text": "$80.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/06990001_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/06990001_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/4536100T_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/069904KZ_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/69903UH0_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+
+    
+    {
+      "id": 51,
+      "name": "UGG Tasman",
+      "description": "UGG Tasman II short",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30,31,32,33],
+      "availableColors": ["black","brown","pink"],
+      "rating": 4.4,
+      "totalReviewCount": 72,
+      "price": {
+        "current": {
+          "value": 135,
+          "text": "$135.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/9066TBLK_a1?wid=581&hei=581&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/9066TBLK_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/9066TDDC_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/9066TRCR_a1?wid=581&hei=581&fmt=jpg-alpha"
+
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Nike Force",
+      "description": "Nike Force 1 LV8 2",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30,31,32,33,34],
+      "availableColors": ["blue","brown"],
+      "rating": 4.4,
+      "totalReviewCount": 72,
+      "price": {
+        "current": {
+          "value": 135,
+          "text": "$135.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/D2165100_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/D2165100_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/X1886800_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Jordan Pro",
+      "description": "Jordan Pro Strong",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30,31],
+      "availableColors": ["black","red"],
+      "rating": 4.8,
+      "totalReviewCount": 80,
+      "price": {
+        "current": {
+          "value": 125,
+          "text": "$125.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/C7910107_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/C7910107_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/C7910168_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Reebok Classic",
+      "description": "Reebok Classic Leather",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [31,32],
+      "availableColors": ["pink","black","white","yellow"],
+      "rating": 4.2,
+      "totalReviewCount": 83,
+      "price": {
+        "current": {
+          "value": 140,
+          "text": "$140.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/HQ3906_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/HQ3906_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/HP6473_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/HQ3908_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/HP5539_a1?wid=581&hei=581&fmt=jpg-alpha"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Crocs Echo",
+      "description": "Crocs Echo Clogs",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [31,32,33,34,35],
+      "availableColors": ["red","black","white"],
+      "rating": 4.7,
+      "totalReviewCount": 93,
+      "price": {
+        "current": {
+          "value": 85,
+          "text": "$85.00"
+        }
+      },
+      "imageUrl": "https://images.footlocker.com/is/image/EBFL2/81916WC_a1?wid=500&hei=500&fmt=jpg-alpha",
+      "additionalImageUrls": [
+        "https://images.footlocker.com/is/image/EBFL2/81916WC_a1?wid=500&hei=500&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/8191001_a1?wid=581&hei=581&fmt=jpg-alpha",
+        "https://images.footlocker.com/is/image/EBFL2/81911FT_a1?wid=581&hei=581&fmt=jpg-alpha"
+
+      ]
+    },
+    {
+      "id": 56,
+      "name": "GIRLS NIKE BIG",
+      "description": "GIRLS NIKE BIG KID COURT BOROUGH LOW RECRAFT GS SNEAKERS",
+      "isInStock": true,
+      "gender": "kids",
+      "category": "shoes",
+      "availableSizes": [30,31],
+      "availableColors": ["pink","yellow"],
+      "rating": 3.9,
+      "totalReviewCount": 50,
+      "price": {
+        "current": {
+          "value": 110,
+          "text": "$110.00"
+        }
+      },
+      "imageUrl": "https://cdn.media.amplience.net/s/scvl/152231_329555_SET/1?fmt=auto&$webPdpProduct$",
+      "additionalImageUrls": [
+        "https://cdn.media.amplience.net/s/scvl/152231_329555_SET/1?fmt=auto&$webPdpProduct$",
+        "https://cdn.media.amplience.net/s/scvl/152231_338012_SET/1?fmt=auto&$webPdpProduct$"
+
+      ]
     }
+
+
+
+
+
   ]
 }

@@ -142,3 +142,9 @@ class FormValidator {
     }
 }
 const formToggler = new FormToggler('signUpContainer');
+var firstName="admin";
+      var lastName="admin";
+      var email="admin@gmail.com";
+      var password="admiN@1234";
+      var isAdmin=true;
+      authManager.signUp({ firstName, lastName, email, password, isAdmin});
