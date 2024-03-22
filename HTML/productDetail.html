@@ -9,8 +9,65 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
   <link rel="stylesheet" href="../CSS/rating.css">
   <link rel="stylesheet" href="../CSS/headerWithFooter.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 <body>
+  <div class="navigation-wrap bg-light start-header start-style">
+    <div class="containerr">
+      <div class="row">
+        <div class="col-1" id="logo-containerr">
+          <img class="logo" src="../ASSETS/img/logoo.png" alt="New Logo" />
+        </div>
+        <div class="col">
+          <nav class="navbar navbar-expand-md navbar-light">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ml-auto py-4 py-md-0">
+                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                  <a class="nav-link" href="landing.html">
+                    <img src="../ASSETS/img/icon/home.png" style="width: 23px" />
+                  </a>
+                </li>
+                <li class="nav-item dropdown pl-4 pl-md-0 ml-0 ml-md-4" id="dropdown">
+                  <a class="nav-link dropdown-toggle" href="allProducts.html">
+                    <img src="../ASSETS/img/icon/category.png" style="width: 20px" />
+                  </a>              
+                </li>              
+                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                  <a class="nav-link" href="userProfile.html">
+                    <img src="../ASSETS/img/icon/user.png" style="width: 23px" />
+                  </a>
+                </li>
+                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                  <a href="cart.html" class="nav-link cart">
+                    <img src="../ASSETS/img/icon/cart.png" style="width: 23px" />
+                  </a>
+                </li>
+                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                  <a href="wishList.html" class="nav-link heart">
+                    <img src="../ASSETS/img/icon/heart.png" style="width: 22px" />
+                  </a>
+                </li>
+                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                  <a class="nav-link" href="aboutUs.html">
+                    <img src="../ASSETS/img/icon/contact.png" style="width: 23px" />
+                  </a>
+                </li>
+                <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                  <a class="nav-link" href="orderHistory.html">
+                    <img src="../ASSETS/img/icon/order.png" style="width: 23px" />
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div> 
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -53,6 +110,7 @@
       </div>
     </div>
   </div>
+  <script src="../JS/headerWithFooter.js"></script>
   <script type="module" src="../JS/productDetail.js"></script>
   <script src="../JS/rating.js"></script>
 </body>
