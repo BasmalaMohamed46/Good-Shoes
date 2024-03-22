@@ -24,7 +24,10 @@
     <div class="container rounded bg-white mt-5 mb-5">
         <div class="row ">
             <div class="col-md-3 border-right mt-5">
-                <div class="d-flex flex-column align-items-center text-center p-3 py-5"><img class="rounded-circle mt-5" width="150px" src="https://st3.depositphotos.com/15648834/17930/v/600/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg"><span class="font-weight-bold">Edogaru</span><span class="text-black-50">edogaru@mail.com.my</span><span> </span></div>
+                <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                    <img id="profilePhoto" class="rounded-circle mt-5" width="200" height="200" width="150px" src="https://bootdey.com/img/Content/avatar/avatar7.png">
+                    <input type="file" id="profilePhotoInput" style="display: none;" accept="image/*">
+                </div>
             </div>
             <div class="col-md-5 border-right lol">
                 <div class="p-3 py-5">
@@ -32,24 +35,25 @@
                         <h4 class="text-right">Profile Settings</h4>
                     </div>
                     <div class="row mt-2">
-                        <div class="col-md-6"><label class="labels">Name</label><input type="text" class="form-control" placeholder="first name" value=""></div>
-                        <div class="col-md-6"><label class="labels">Surname</label><input type="text" class="form-control" value="" placeholder="surname"></div>
+                        <div class="col-md-6"><label class="labels">First Name</label><input type="text" class="form-control" id="firstName" placeholder="first name" value=""></div>
+                        <div class="col-md-6"><label class="labels">Surname</label><input type="text" class="form-control" id="surName" placeholder="surname" value=""></div>
                     </div>
                     <div class="row mt-3">
-                        <div class="col-md-12"><label class="labels">Mobile Number</label><input type="text" class="form-control" placeholder="enter phone number" value=""></div>
-                        <div class="col-md-12"><label class="labels">Address Line 1</label><input type="text" class="form-control" placeholder="enter address line 1" value=""></div>
-                        <div class="col-md-12"><label class="labels">Address Line 2</label><input type="text" class="form-control" placeholder="enter address line 2" value=""></div>
-                        <div class="col-md-12"><label class="labels">Postcode</label><input type="text" class="form-control" placeholder="enter address line 2" value=""></div>
-                        <div class="col-md-12"><label class="labels">State</label><input type="text" class="form-control" placeholder="enter address line 2" value=""></div>
-                        <div class="col-md-12"><label class="labels">Area</label><input type="text" class="form-control" placeholder="enter address line 2" value=""></div>
-                        <div class="col-md-12"><label class="labels">Email ID</label><input type="text" class="form-control" placeholder="enter email id" value=""></div>
-                        <div class="col-md-12"><label class="labels">Education</label><input type="text" class="form-control" placeholder="education" value=""></div>
+                        <div class="col-md-12"><label class="labels">Mobile Number</label><input type="text" class="form-control" id="mobileNumber" placeholder="enter phone number" value=""></div>
+                        <div class="col-md-12"><label class="labels">Address Line 1</label><input type="text" class="form-control" id="addressLine1" placeholder="enter address line 1" value=""></div>
+                        <div class="col-md-12"><label class="labels">Address Line 2</label><input type="text" class="form-control" id="addressLine2"2placeholder="enter address line 2" value=""></div>
+                        <div class="col-md-12"><label class="labels">Postcode</label><input type="text" class="form-control" id="postcode" placeholder="enter address line 2" value=""></div>
+                        <div class="col-md-12"><label class="labels">State</label><input type="text" class="form-control" id="state" placeholder="enter address line 2" value=""></div>
+                        <div class="col-md-12"><label class="labels">Area</label><input type="text" class="form-control" id="area" placeholder="enter address line 2" value=""></div>
+                        <div class="col-md-12"><label class="labels">Email ID</label><input type="text" class="form-control" id="email" placeholder="enter email id" value=""></div>
+                        <div class="error-message" id="existingEmailError"></div>
+                        <div class="col-md-12"><label class="labels">Education</label><input type="text" class="form-control" id="education" placeholder="education" value=""></div>
                     </div>
                     <div class="row mt-3">
-                        <div class="col-md-6"><label class="labels">Country</label><input type="text" class="form-control" placeholder="country" value=""></div>
-                        <div class="col-md-6"><label class="labels">State/Region</label><input type="text" class="form-control" value="" placeholder="state"></div>
+                        <div class="col-md-6"><label class="labels">Country</label><input type="text" class="form-control" id="country" placeholder="country" value=""></div>
+                        <div class="col-md-6"><label class="labels">State/Region</label><input type="text" class="form-control" id="region" value="" placeholder="state"></div>
                     </div>
-                    <div class="mt-5 text-center"><button class="btn btn-primary profile-button" type="button">Save Profile</button></div>
+                    <div class="mt-5 text-center"><button id="saveProfileButton" class="btn btn-primary profile-button" type="submit">Save Profile</button></div>
                 </div>
             </div>
         </div>
@@ -64,5 +68,7 @@
 <script src="../JS/trending.js"></script>
 <script src="../JS/headerWithFooter.js"></script>
 <script src="../JS/headerWithFooter.js"></script>
+<script src="../JS/editProfile.js"></script>
+<script src="../JS/userProfile.js"></script>
 </body>
 </html>
