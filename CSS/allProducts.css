@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 .logo {
   max-width: 100px;
@@ -6,8 +6,8 @@
 }
 
 #logo-container {
-    margin-top: 14px;
-    margin-bottom: 14px;
+  margin-top: 14px;
+  margin-bottom: 14px;
 }
 
 .nav-list {
@@ -43,7 +43,7 @@
   left: 0;
   width: 100%;
   height: 2px;
-  content: '';
+  content: "";
   background-color: #8167a9;
   opacity: 0;
   transition: all 200ms linear;
@@ -181,10 +181,9 @@ button:hover {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  width: 100%; 
-  max-width: 1200px; 
+  width: 100%;
+  max-width: 1200px;
 }
-
 
 .product-col:hover {
   background-color: rgb(219, 217, 217);
@@ -273,310 +272,310 @@ image {
 }
 
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
-    background-color: #f4f4f4;
+  background-color: #f4f4f4;
 }
 
-
 #header {
-    width: 100%;
-    height: 60px;
-    box-shadow: 5px 5px 15px #e8e8e8;
+  width: 100%;
+  height: 60px;
+  box-shadow: 5px 5px 15px #e8e8e8;
 }
 
 button.btn.btn-hide {
-    height: inherit;
-    background-color: #ff935d;
-    color: #fff;
-    font-size: 0.82rem;
-    padding-left: 40px;
-    padding-right: 40px;
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
+  height: inherit;
+  background-color: #ff935d;
+  color: #fff;
+  font-size: 0.82rem;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
 }
 
 .btn:focus {
-    box-shadow: none;
+  box-shadow: none;
 }
 
 .box-label .btn {
-    background-color: #fff;
-    padding: 0;
-    font-size: 0.8rem;
+  background-color: #fff;
+  padding: 0;
+  font-size: 0.8rem;
 }
 
 .btn-red {
-    background-color: #e00000ce;
+  background-color: #e00000ce;
 }
 
 .btn-orange {
-    background-color: #ffa500;
+  background-color: #ffa500;
 }
 
 .btn-pink {
-    background-color: #e0009dce;
+  background-color: #e0009dce;
 }
 
 .btn-green {
-    background-color: #00811c;
+  background-color: #00811c;
 }
 
 .btn-blue {
-    background-color: #026bc2;
+  background-color: #026bc2;
 }
 
 .btn-brown {
-    background-color: #994a00;
+  background-color: #994a00;
 }
 
 .navbar {
-    display: inline-flex;
+  display: inline-flex;
 }
 
 .pagination .page-item .page-link {
-    color: #333;
-    border: none;
-    width: 40px;
-    text-align: center;
+  color: #333;
+  border: none;
+  width: 40px;
+  text-align: center;
 }
 
 .pagination .page-item.active .page-link {
-    background-color: #fff;
-    border: 1px solid #333;
+  background-color: #fff;
+  border: 1px solid #333;
 }
 
 select {
-    outline: none;
-    padding: 6px 12px;
-    margin: 0px 4px;
-    color: #999;
-    font-size: 0.85rem;
-    width: 140px;
+  outline: none;
+  padding: 6px 12px;
+  margin: 0px 4px;
+  color: #999;
+  font-size: 0.85rem;
+  width: 140px;
 }
 
 #select2 {
-    border: 1px solid #777;
-    color: #999;
+  border: 1px solid #777;
+  color: #999;
 }
 
 #pro {
-    border: none;
-    color: #333;
-    font-weight: 700;
-    padding-left: 0px;
-    width: initial;
+  border: none;
+  color: #333;
+  font-weight: 700;
+  padding-left: 0px;
+  width: initial;
 }
 
 #filterbar {
-    width: 20%;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 15px;
-    float: left;
-    margin-top: 80px;
+  width: 20%;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  float: left;
+  margin-top: 80px;
 }
 
 #filterbar input[type="radio"] {
-    visibility: hidden;
+  visibility: hidden;
 }
 
-#filterbar input[type='radio']:checked {
-    background-color: #16c79a;
-    border: none;
+#filterbar input[type="radio"]:checked {
+  background-color: #16c79a;
+  border: none;
 }
 
 #filterbar .btn.btn-success {
-    background-color: #ddd;
-    color: #333;
-    border: none;
-    width: 100px;
+  background-color: #ddd;
+  color: #333;
+  border: none;
+  width: 100px;
 }
 
 #filterbar .btn.btn-success:hover {
-    background-color: #aff1e1;
-    color: #444;
+  background-color: #aff1e1;
+  color: #444;
 }
 
 #filterbar .btn-success:not(:disabled):not(.disabled).active,
 #filterbar .btn-success:not(:disabled):not(.disabled):active {
-    background-color: #16c79a;
-    color: #fff;
+  background-color: #16c79a;
+  color: #fff;
 }
 
 label {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .tick {
-    display: block;
-    position: relative;
-    padding-left: 23px;
-    cursor: pointer;
-    font-size: 0.9rem;
-    margin: 0;
+  display: block;
+  position: relative;
+  padding-left: 23px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin: 0;
 }
 
 .tick input {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-    height: 0;
-    width: 0;
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
 }
 
 .check {
-    position: absolute;
-    top: 1px;
-    left: 0;
-    height: 18px;
-    width: 18px;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 3px;
+  position: absolute;
+  top: 1px;
+  left: 0;
+  height: 18px;
+  width: 18px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 3px;
 }
 
-.tick:hover input~.check {
-    background-color: #f3f3f3;
+.tick:hover input ~ .check {
+  background-color: #f3f3f3;
 }
 
-.tick input:checked~.check {
-    background-color: #ffffff;
+.tick input:checked ~ .check {
+  background-color: #ffffff;
 }
 
 .check:after {
-    content: "";
-    position: absolute;
-    display: none;
+  content: "";
+  position: absolute;
+  display: none;
 }
 
-.tick input:checked~.check:after {
-    display: block;
-    transform: rotate(45deg) scale(1);
+.tick input:checked ~ .check:after {
+  display: block;
+  transform: rotate(45deg) scale(1);
 }
 
 .tick .check:after {
-    left: 6px;
-    top: 2px;
-    width: 5px;
-    height: 10px;
-    border: solid rgb(0, 0, 0);
-    border-width: 0 3px 3px 0;
-    transform: rotate(45deg) scale(2);
+  left: 6px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid rgb(0, 0, 0);
+  border-width: 0 3px 3px 0;
+  transform: rotate(45deg) scale(2);
 }
 
 .box {
-    padding: 10px;
+  padding: 10px;
 }
 
 .box-label {
-    color: #000000;
-    font-size: 1rem;
-    font-weight: 800;
+  color: #000000;
+  font-size: 1rem;
+  font-weight: 800;
 }
 
 #inner-box,
 #inner-box2 {
-    height: 150px;
-    overflow-y: scroll;
+  height: 150px;
+  overflow-y: scroll;
 }
 
 #inner-box2 {
-    height: 132px;
+  height: 132px;
 }
 
 #inner-box::-webkit-scrollbar,
 #inner-box2::-webkit-scrollbar {
-    width: 6px;
+  width: 6px;
 }
 
 #inner-box::-webkit-scrollbar-track,
 #inner-box2::-webkit-scrollbar-track {
-    background-color: #ddd;
-    border-radius: 2px;
+  background-color: #ddd;
+  border-radius: 2px;
 }
 
 #inner-box::-webkit-scrollbar-thumb,
 #inner-box2::-webkit-scrollbar-thumb {
-    background-color: #333;
-    border-radius: 2px;
+  background-color: #333;
+  border-radius: 2px;
 }
 
 #price {
-    height: 45px;
+  height: 45px;
 }
 
 #size input[type="checkbox"] {
-    visibility: hidden;
+  visibility: hidden;
 }
 
-#size input[type='checkbox']:checked {
-    background-color: #16c79a;
-    border: none;
+#size input[type="checkbox"]:checked {
+  background-color: #16c79a;
+  border: none;
 }
 
 #size .btn.btn-success {
-    background-color: #ddd;
-    color: #333;
-    border: none;
-    width: 40px;
-    font-size: 0.8rem;
-    border-radius: 0;
+  background-color: #ddd;
+  color: #333;
+  border: none;
+  width: 40px;
+  font-size: 0.8rem;
+  border-radius: 0;
 }
 
 #size .btn.btn-success:hover {
-    background-color: #aff1e1;
-    color: #444;
+  background-color: #aff1e1;
+  color: #444;
 }
 
 #size .btn-success:not(:disabled):not(.disabled).active,
 #size .btn-success:not(:disabled):not(.disabled):active {
-    background-color: #16c79a;
-    color: #fff;
+  background-color: #16c79a;
+  color: #fff;
 }
 
 #size label {
-    margin: 10px;
-    margin-left: 0px;
+  margin: 10px;
+  margin-left: 0px;
 }
 
 .card {
-    padding: 10px;
-    cursor: pointer;
-    transition: .3s all ease-in-out;
-    height: 350px;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center; 
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 .modal-card {
   padding: 10px;
   cursor: pointer;
-  transition: .3s all ease-in-out;
+  transition: 0.3s all ease-in-out;
   height: 350px;
-  display:flex;
+  display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center; 
+  text-align: center;
 }
 
 .card:hover {
-    box-shadow: 2px 2px 15px #000000e5;
-    transform: scale(1.02);
+  box-shadow: 2px 2px 15px #000000e5;
+  transform: scale(1.02);
 }
 
 .card .product-name {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .card-body {
-    padding-bottom: 0;
+  padding-bottom: 0;
+  
 }
 
 .modal-card-body {
@@ -584,25 +583,25 @@ label {
 }
 
 .card .text-muted {
-    font-size: 0.82rem;
+  font-size: 0.82rem;
 }
 
 .card-img img {
-    padding-top: 10px;
-    width: inherit;
-    height: 180px;
-    object-fit: contain;
-    display: block;
+  padding-top: 10px;
+  width: inherit;
+  height: 180px;
+  object-fit: contain;
+  display: block;
 }
 
 .card-body .btn-group .btn {
-    padding: 0;
-    width: 20px;
-    height: 20px;
+  padding: 0;
+  width: 20px;
+  height: 20px;
 }
 #products {
-    width: 100%;
-    float: right;
+  width: 100%;
+  float: right;
 }
 
 #inner-box {
@@ -611,8 +610,7 @@ label {
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  height:375px;
-  
+  height: 375px;
 }
 
 #inner-box label {
@@ -644,19 +642,22 @@ label {
 #inner-box button:hover {
   background-color: #545454;
 }
-.card-title{
+.card-title {
   font-size: 24px;
   font-weight: bold;
   align-self: center;
 }
-.card-text{
+.card-text {
   font-size: 20px;
   align-self: center;
 }
-.actions{
+.actions {
   flex-grow: 1;
   display: flex;
   margin-top: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+
 }
 .button-container {
   flex-grow: 1;
@@ -664,10 +665,9 @@ label {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
 }
 
-.add-to-cart{
+.add-to-cart {
   background-color: #000000;
   color: #fff;
   padding: 10px 20px;
@@ -675,7 +675,7 @@ label {
   border-radius: 5px;
   position: relative;
   transition: all 0.5s ease-in-out;
-  width: 200px;
+  width: 80%;
 }
 .add-to-cart:hover {
   background-color: #545454;
@@ -684,16 +684,15 @@ label {
   position: absolute;
   left: 33px; /* Position the icon */
 }
-.fa-heart{
-  color: rgb(192, 26, 26); 
-    font-size: 30px;
-   
+.fa-heart {
+  color: rgb(192, 26, 26);
+  font-size: 25px;
 }
-#confirmAddToCart{
+#confirmAddToCart {
   color: #ffffff;
   background-color: #000000;
 }
-#confirmAddToCart:hover{
+#confirmAddToCart:hover {
   background-color: #545454;
 }
 
@@ -707,7 +706,7 @@ label {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background-color: rgba(160, 158, 158, 0.5); 
+  background-color: rgba(160, 158, 158, 0.5);
   margin-right: 5px;
   text-align: center;
   line-height: 30px;
@@ -718,7 +717,7 @@ label {
   width: 20px;
   height: 20px;
   margin-right: 5px;
-  border: 1px solid #cccccc; 
+  border: 1px solid #cccccc;
 }
 
 .additional-images {
@@ -730,20 +729,43 @@ label {
   height: auto;
   margin-top: 5px;
 }
-.pagination{
+.pagination {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-
 }
-.pagination button{
+.pagination button {
   background-color: #000000;
   color: #fff;
   border: none;
   cursor: pointer;
   transition: all 0.5s ease-in-out;
 }
-.pagination button:hover{
+.pagination button:hover {
   background-color: #545454;
 }
+.filterSizes {
+  border: #979797 solid 1px;
+  border-radius: 50%; /* Make it circular */
+  width: 30px; /* Set fixed width */
+  height: 30px; /* Set fixed height */
+  display: inline-flex; /* Use flex to center content */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  margin: 5px; /* Adjust margin as needed */
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+.filterColors {
+  border: #979797 solid 1px;
+  border-radius: 50%; /* Make it circular */
+  width: 30px; /* Set fixed width */
+  height: 30px; /* Set fixed height */
+  display: inline-flex; /* Use flex to center content */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  margin: 5px; /* Adjust margin as needed */
+  cursor: pointer;
+}
+

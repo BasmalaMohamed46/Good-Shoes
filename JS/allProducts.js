@@ -88,7 +88,58 @@ async function drawPageContent(products, gender = "search", page = 1) {
       </div>
       <button class="btn btn-primary" id="filterBtn">Submit</button>
   `;
+  var prods = await fetchData();
+  var sizes = [];
+  prods.forEach((prod) => {
+      prod.availableSizes.forEach((size) => {
+          if (!sizes.includes(size)) {
+              sizes.push(size);
+          }
+      });
+  });
+  
+  sizes.sort();
+  if (document.getElementsByClassName("filterSizes").length === 0){
+      sizes.forEach((size) => {
+          var sizeElement = document.createElement("div");
+          sizeElement.classList.add("filterSizes");
+          sizeElement.textContent = size;
+  
+          sizeElement.addEventListener("click", function() {
+              filterSizes(size);
+          });
+  
+          document.getElementById("inner-box2").appendChild(sizeElement);
+      });
+  }
+  var colors = [];
+    prods.forEach((prod) => {
+        prod.availableColors.forEach((color) => {
+            color = color.toLowerCase();
+            if (!colors.includes(color)){
+                colors.push(color);
+            }
+        });
+    });
+    colors.sort();
+    console.log(colors);
+    if(document.getElementsByClassName("filterColors").length === 0){
+        colors.forEach((color) => {
+            var colorElement = document.createElement("div");
+            colorElement.classList.add("filterColors");
+            color= color.toLowerCase();
+            colorElement.style.backgroundColor = color;
+            colorElement.addEventListener("click", function() {
+                filterColors(color);
+            });
+    
+            document.getElementById("inner-box3").appendChild(colorElement);
+        });
+    }
 
+  
+
+    
   // Event listener for filter button
   document.getElementById("filterBtn").addEventListener("click", getFilteredPrice);
 
@@ -125,8 +176,8 @@ async function drawPageContent(products, gender = "search", page = 1) {
         productsContainer.appendChild(productsRow);
     }
       const col = document.createElement("div");
-      col.classList.add("col-lg-4");
-      col.classList.add("col-md-5");
+      col.classList.add("col-lg-6");
+      col.classList.add("col-md-6");
       col.classList.add("mb-4");
       col.innerHTML = `
       <div class="card h-100">
@@ -134,10 +185,12 @@ async function drawPageContent(products, gender = "search", page = 1) {
           <div> 
               <img src="${product.imageUrl}" class="card-img-top img-fluid mb-2" alt="${product.name}" style="width: 100%; height: 400px;">
           </div>
-          <div> 
+          <div class="product-info"> 
               <h5 class="card-title">${product.name}</h5>
-              <p class="card-text">${product.price.current.text}</p>
           </div>
+          <div class="product-info">
+          <p class="card-text">${product.price.current.text}</p>
+        </div>
           <div class="actions">
               <div class="button-container">
                   <button class="add-to-cart">Add to Cart</button>
@@ -158,59 +211,72 @@ async function drawPageContent(products, gender = "search", page = 1) {
     });
       // Add event listener for add to cart button
       const addToCartButton = col.querySelector(".add-to-cart");
-      addToCartButton.setAttribute("data-bs-toggle", "modal");
-      addToCartButton.setAttribute("data-bs-target", "#exampleModal");
-      addToCartButton.addEventListener("click", function(event) {
-          event.stopPropagation();
-          const modalContent = `
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title">Add to Cart</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                            <div class="modal-card h-100">
-                                <div class="modal-card-body d-flex flex-column justify-content-between">
-                                    <div> 
-                                        <img src="${product.imageUrl}" class="card-img-top img-fluid" alt="${product.name}" style="width: 100%; height: 400px;">
-                                    </div>
-                                    <div> 
-                                        <h5 class="card-title">${product.name}</h5>
-                                        <p class="card-text">${product.price.current.text}</p>
-                                    </div>
-                                </div>
+addToCartButton.setAttribute("data-bs-toggle", "modal");
+addToCartButton.setAttribute("data-bs-target", `#exampleModal`);
+addToCartButton.addEventListener("click", function(event) {
+    event.stopPropagation();
+    const modalContent = `
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Add to Cart</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="modal-card h-100">
+                        <div class="modal-card-body d-flex flex-column justify-content-between">
+                            <div> 
+                                <img id="mImg" class="card-img-top img-fluid" style="width: 100%; height: 400px;">
                             </div>
-
-                            <div id="productColors"></div>
-                            <div id="productSizes"></div>
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
-                            <button type="button" class="btn btn-primary" id="confirmAddToCart">Add to Cart</button>
+                            <div> 
+                                <h5 class="card-title" id="mTitle"></h5>
+                                <p class="card-text" id="mPrice"></p>
+                            </div>
                         </div>
                     </div>
+
+                    <div id="productColors"></div>
+                    <div id="productSizes"></div>
                 </div>
-`;
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" >Cancel</button>
+                    <button type="button" class="btn btn-primary" id="confirmAddToCart">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    `;
 
+    const modal = document.createElement("div");
+    modal.id = `exampleModal`;
+    modal.classList.add("modal", "fade");
+    modal.innerHTML = modalContent;
 
-          const modal = document.createElement("div");
-          modal.id = "exampleModal";
-          modal.classList.add("modal", "fade");
-          modal.innerHTML = modalContent;
-
-          const confirmAddToCartButton = modal.querySelector("#confirmAddToCart");
-          confirmAddToCartButton.addEventListener("click", function() {
-              $('#exampleModal').modal('hide');
-              event.preventDefault();
-              window.location.href = "cart.html";
-              cartInstance.addItem(product);
-          });
+  
+    $(document).ready(function() {
+        $('#exampleModal').on('hidden.bs.modal', function (e) {
+            $(this).remove();
+        });
+      });
 
           document.body.appendChild(modal);
           $('#exampleModal').modal('show');
+          var mImg = document.getElementById("mImg");
+            var mTitle = document.getElementById("mTitle");
+            var mPrice = document.getElementById("mPrice");
+            mImg.src = product.imageUrl;
+            mTitle.textContent = product.name;
+            mPrice.textContent = product.price.current.text;
+            const confirmAddToCartButton = document.querySelector("#confirmAddToCart");
+            confirmAddToCartButton.addEventListener("click", function() {
+                $('#exampleModal').modal('hide');
+                
+                window.location.href = "cart.html";
+                cartInstance.addItem(product);
+                
+                
+            });
           const colorsContainer = document.getElementById("productColors");
 colorsContainer.innerHTML = "";
 const colorsLabel = document.createElement("span");
@@ -224,6 +290,7 @@ product.availableColors.forEach((color) => {
     colorsContainer.appendChild(colorSquare);
     colorSquare.addEventListener("click", function () {
         product.selectedColor = color;
+        console.log(product);
         colorSquare.style.border = "3px solid black";
         colorSquare.style.boxShadow = "0 0 10px 0 grey";
         const otherColorSquares = Array.from(colorsContainer.children).filter((c) => c !== colorSquare);
@@ -251,6 +318,7 @@ product.availableSizes.forEach((size) => {
     sizesContainer.appendChild(sizeCircle);
     sizeCircle.addEventListener("click", function () {
         product.selectedSize = size;
+        console.log(product);
         sizeCircle.style.border = "3px solid black";
         sizeCircle.style.boxShadow = "0 0 10px 0 grey";
         const otherSizeCircles = Array.from(sizesContainer.children).filter((c) => c !== sizeCircle);
@@ -260,6 +328,7 @@ product.availableSizes.forEach((size) => {
         });
     });
 });
+
       });
 
       // Add event listener for product click
@@ -393,8 +462,31 @@ async function filterPrices(minPrice, maxPrice, gender) {
   return filteredData;
 }
 
+async function filterSizes(size) {
+  clearDiv();
+  const data = await fetchData();
+  console.log(data);
+  const products = data.filter((ele) => ele.availableSizes.includes(size));
+  drawPageContent(products);
+}
+
+async function filterColors(color) {
+  clearDiv();
+  const data = await fetchData();
+  color=color.charAt(0).toUpperCase() + color.slice(1);
+  const products = data.filter((ele) => ele.availableColors.includes(color));
+  drawPageContent(products);
+}
+
 
 });
+
+
+// -------------------------------------------------------- Filter By Size -----------------------------------
+
+
+
+
 
 // -------------------------------------------------------- Filter By Color -----------------------------------
 // async function filterFunction(color) {

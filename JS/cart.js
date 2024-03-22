@@ -156,8 +156,10 @@ export default class Cart {
     displayCart() {
         const cartContainer = document.getElementById('product-scroll');
         cartContainer.innerHTML = '';
+        console.log(this.items);
         this.items.forEach(item => {
             for (const key in item) {
+                console.log(item[key]);
                 const card = document.createElement('div');
                 card.classList.add('card', 'mb-3');
                 card.style.maxWidth = '800px';

@@ -494,6 +494,231 @@
       "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/bc/P00591953_d2.jpg",
       "https://img.mytheresa.com/1094/1238/100/jpeg/catalog/product/2b/P00591955.jpg"
     ]
-  }                  
+  },
+  {
+    "id": 22,
+    "name": "01-4019 Half Boot",
+    "description": "Mid-Heeled Half Boots",
+    "isInStock": true,
+    "gender": "female",
+    "category": "boots",
+    "availableSizes": [36,37,38, 39, 40,41],
+    "availableColors": ["Blue", "Black" , "Beige","Purple"],
+    "rating": 4.7,
+    "totalReviewCount": 29,
+    "price": {
+      "current": {
+        "value": 150,
+        "text": "$150.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4019-80_1.jpg?v=1708409625",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4019-80_1.jpg?v=1708409625",
+      "https://pixishoes.com/cdn/shop/products/01-4019-01_2.jpg?v=1708409625",
+      "https://pixishoes.com/cdn/shop/products/01-4019-03_2.jpg?v=1699525678",
+      "https://pixishoes.com/cdn/shop/files/01-4019-11_2.jpg?v=1708409625"
+      
+    ]
+  },
+  {
+    "id": 23,
+    "name": "01-4580 Half Boot",
+    "description": "Mid-Heeled Half Boots",
+    "isInStock": true,
+    "gender": "female",
+    "category": "boots",
+    "availableSizes": [36,40,41],
+    "availableColors": ["Black", "Beige" , "Green","Brown"],
+    "rating": 4.8,
+    "totalReviewCount": 30,
+    "price": {
+      "current": {
+        "value": 90,
+        "text": "$90.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4580-01_2.jpg?v=1699434834",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4580-01_2.jpg?v=1699434834",
+      "https://pixishoes.com/cdn/shop/files/01-4580-03_2.jpg?v=1699434834",
+      "https://pixishoes.com/cdn/shop/files/01-4580-97_2.jpg?v=1699434834",
+      "https://pixishoes.com/cdn/shop/files/01-4580_3.jpg?v=1705483430"
+      
+    ]
+  },
+  {
+    "id": 24,
+    "name": "01-4513 Platform Sneaker",
+    "description": "Mid-Heeled Sneaker with black lace",
+    "isInStock": true,
+    "gender": "female",
+    "category": "sneakers",
+    "availableSizes": [36,37,38,39,40,41],
+    "availableColors": ["Black", "White" , "Beige"],
+    "rating": 4.6,
+    "totalReviewCount": 27,
+    "price": {
+      "current": {
+        "value": 70,
+        "text": "$70.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4513-01_2.jpg?v=1699871059",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4513-01_2.jpg?v=1699871059",
+      "https://pixishoes.com/cdn/shop/files/01-4513-02_2.jpg?v=1699871059",
+      "https://pixishoes.com/cdn/shop/files/01-4513-03_2.jpg?v=1699871059"
+      
+    ]
+  },
+  {
+    "id": 25,
+    "name": "01-4533 High Heel Pumps",
+    "description": "High Heels pumps with gold heel",
+    "isInStock": true,
+    "gender": "female",
+    "category": "heels",
+    "availableSizes": [40,41],
+    "availableColors": ["Black", "Beige","Green"],
+    "rating": 4.5,
+    "totalReviewCount": 26,
+    "price": {
+      "current": {
+        "value": 100,
+        "text": "$100.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4533-01_2.jpg?v=1699877864",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4533-01_2.jpg?v=1699877864",
+      "https://pixishoes.com/cdn/shop/files/01-4533-03_2.jpg?v=1700483142",
+      "https://pixishoes.com/cdn/shop/files/01-4533-97_2.jpg?v=1700483142"
+      
+    ]
+  },
+  {
+    "id": 26,
+    "name": "01-4529 High Heel",
+    "description": " Stiletto High Heel Pumps",
+    "isInStock": true,
+    "gender": "female",
+    "category": "heels",
+    "availableSizes": [36,37,38,40,41],
+    "availableColors": ["Purple", "Black"],
+    "rating": 4.3,
+    "totalReviewCount": 31,
+    "price": {
+      "current": {
+        "value": 95,
+        "text": "$95.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4529-11_2.jpg?v=1700482583",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4529-11_2.jpg?v=1700482583",
+      "https://pixishoes.com/cdn/shop/files/01-4529-01_2.jpg?v=1700482583"
+      
+    ]
+  },
+  {
+    "id": 27,
+    "name": "01-4525 Kitten Heel Pumps",
+    "description": "Kitten Heel Pumps shiny",
+    "isInStock": true,
+    "gender": "female",
+    "category": "heels",
+    "availableSizes": [36,37,38,39,40,41],
+    "availableColors": ["Black", "Beige","Purple"],
+    "rating": 4.5,
+    "totalReviewCount": 37,
+    "price": {
+      "current": {
+        "value": 110,
+        "text": "$110.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4525-01_2.jpg?v=1699876501",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4525-01_2.jpg?v=1699876501",
+      "https://pixishoes.com/cdn/shop/files/01-4525-03_2.jpg?v=1700482196",
+      "https://pixishoes.com/cdn/shop/files/01-4525-11_3.jpg?v=1700482196"
+      
+    ]
+  },
+  {
+    "id": 28,
+    "name": "01-3137 Block Heel Pumps",
+    "description": "Block Heel Pumps with striped heel",
+    "isInStock": true,
+    "gender": "female",
+    "category": "heels",
+    "availableSizes": [36,37,38,39,40,41],
+    "availableColors": ["Beige", "Black"],
+    "rating": 4.4,
+    "totalReviewCount": 23,
+    "price": {
+      "current": {
+        "value": 120,
+        "text": "$120.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/products/3137-03_1.jpg?v=1639983960",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/products/3137-03_1.jpg?v=1639983960",
+      "https://pixishoes.com/cdn/shop/products/3137-01_1.jpg?v=1640519641"
+      
+    ]
+  },
+  {
+    "id": 29,
+    "name": "01-4563 Platform Sneaker",
+    "description": "Platform Sneaker with white heels and colored laces",
+    "isInStock": true,
+    "gender": "female",
+    "category": "sneakers",
+    "availableSizes": [36,37,38,39,40,41],
+    "availableColors": ["Green", "Beige","Black"],
+    "rating": 4.8,
+    "totalReviewCount": 30,
+    "price": {
+      "current": {
+        "value": 130,
+        "text": "$130.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4563-97_2.jpg?v=1699873171",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4563-97_2.jpg?v=1699873171",
+      "https://pixishoes.com/cdn/shop/files/01-4563-03_2.jpg?v=1700559178",
+      "https://pixishoes.com/cdn/shop/files/01-4563-01_2.jpg?v=1700559178"
+      
+    ]
+  },
+  {
+    "id": 30,
+    "name": "01-4542 UnderKnee Boot",
+    "description": "UnderKnee Boot shiny and with small heel",
+    "isInStock": true,
+    "gender": "female",
+    "category": "heels",
+    "availableSizes": [36,37,38],
+    "availableColors": ["Black", "Purple","Beige"],
+    "rating": 4.6,
+    "totalReviewCount": 32,
+    "price": {
+      "current": {
+        "value": 150,
+        "text": "$150.00"
+      }
+    },
+    "imageUrl": "https://pixishoes.com/cdn/shop/files/01-4542-01_2.jpg?v=1707908226",
+    "additionalImageUrls": [
+      "https://pixishoes.com/cdn/shop/files/01-4542-01_2.jpg?v=1707908226",
+      "https://pixishoes.com/cdn/shop/files/01-4542_2.jpg?v=1707908226",
+      "https://pixishoes.com/cdn/shop/files/01-4542-03_2.jpg?v=1707908250"
+      
+    ]
+  }                          
   ]
 }

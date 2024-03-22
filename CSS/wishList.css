@@ -72,3 +72,33 @@ h1 {
 .remove-btn:hover {
     background-color: #8167a9;
 }
+.modal-card {
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .modal-card-body {
+    padding-bottom: 0;
+  }
+  .color-square {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    border: 1px solid #cccccc;
+  }
+  .size-circle {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgba(160, 158, 158, 0.5);
+    margin-right: 5px;
+    text-align: center;
+    line-height: 30px;
+  }
