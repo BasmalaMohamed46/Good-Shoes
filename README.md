@@ -5,7 +5,7 @@
 - [Demo Video](#demo-video)
 - [Production Deployment](#production-deployment)
 - [Features](#features)
-  - [1. Landing Page](#landing-page)
+  - [1. Landing Page](##landing-page)
   - [2. Authentication System](#authentication-system)
   - [3. Product Display and Filtering](#product-display-and-filtering)
   - [4. Shopping Cart](#shopping-cart)
