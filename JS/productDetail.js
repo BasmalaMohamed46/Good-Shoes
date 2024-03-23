@@ -35,7 +35,7 @@ function populateProductDetails(product) {
   document.getElementById("productName").textContent = product.name;
   document.getElementById("productDescription").textContent = product.description;
   document.getElementById("productPrice").textContent = `Price: ${product.price.current.text}`;
-  document.getElementById("productRating").textContent = `Rating: ${product.rating}`;
+  document.getElementById("productRating").textContent = `Rating: ${product.rating.toFixed(1)}`;
   document.getElementById("productReviews").textContent = `Total Reviews: ${product.totalReviewCount}`;
   document.getElementById("productId").textContent = `ID: ${product.id}`;
 
