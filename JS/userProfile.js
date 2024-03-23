@@ -50,5 +50,5 @@ document.addEventListener("DOMContentLoaded", function() {
 document.getElementById('logoutButton').addEventListener('click', function() {
     //clear the current user data from local storage
     localStorage.removeItem('currentUser');
-    window.location.href = '../HTML/login_register.html';
+    window.location.href = '../HTML/signIn.html';
 });
