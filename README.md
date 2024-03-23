@@ -1,10 +1,21 @@
 # Good Shoes
 
 # Table of Contents
-- [Introduction](#introduction)
+
 - [Demo Video](#demo-video)
 - [Production Deployment](#production-deployment)
 - [Features](#features)
+  - [1. Landing Page](#landing-page)
+  - [2. Authentication System](#authentication-system)
+  - [3. Product Display and Filtering](#product-display-and-filtering)
+  - [4. Shopping Cart](#shopping-cart)
+  - [5. Checkout Process](#checkout-process)
+  - [6. Product Details](#product-details)
+  - [7. Wishlist](#wishlist)
+  - [8. Order History](#order-history)
+  - [9. User Profile](#user-profile)
+  - [10. Additional Pages](#additional-pages)
+  - [11. Admin Dashboard](#admin-dashboard)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -25,7 +36,14 @@ You can access the production deployment of [Good Shoes](https://basmalamohamed4
 
 ## Features
 
-### 1. Authentication System
+### 1. Landing Page
+-The landing page showcases featured products and provides quick access to various sections of the website.
+
+![Landing Page](readmeImgs/landin1.png)
+![Landing Page](readmeImgs/landing2.png)
+![Landing Page](readmeImgs/landing3.png)
+
+### 2. Authentication System
 - Users can register, log in, and log out securely.
 - Session management and local storage are utilized for user authentication.
 - Comprehensive validation ensures data integrity and security.
@@ -33,7 +51,7 @@ You can access the production deployment of [Good Shoes](https://basmalamohamed4
 ![Authentication](readmeImgs/signup.jpg)
 ![Authentication](readmeImgs/login.jpg)
 
-### 2. Product Display and Filtering
+### 3. Product Display and Filtering
 - All products are fetched from a JSON file.
 - Users can filter products by categories, price, size, and color.
 - Users can search for a specific product
@@ -41,7 +59,7 @@ You can access the production deployment of [Good Shoes](https://basmalamohamed4
 ![Product Display](readmeImgs/allProducts.jpg)
 ![Product Display](readmeImgs/search.jpg)
 
-### 3. Shopping Cart
+### 4. Shopping Cart
 - Users can add products to their cart.
 - The cart includes pricing information and allows users to apply promo codes for discounts.
 - Users can adjust quantity, choose color and size for each item.
@@ -49,43 +67,43 @@ You can access the production deployment of [Good Shoes](https://basmalamohamed4
 ![Shopping Cart](readmeImgs/modal.png)
 ![Shopping Cart](readmeImgs/cart.png)
 
-### 4. Checkout Process
+### 5. Checkout Process
 - Users can provide additional information during checkout.
 - Payment methods include Visa or cash, with thorough validation of user input.
 
 ![Checkout](readmeImgs/payment.png)
 ![Checkout](readmeImgs/onway.jpg)
 
-### 5. Product Details
+### 6. Product Details
 - Detailed product information is available.
 - Users can add products to their cart, wishlist, or rate them.
 
 ![Product Details](readmeImgs/details.jpg)
 
-### 6. Wishlist
+### 7. Wishlist
 - Users can add products to their wishlist for future reference.
 - Wishlist items can be easily added to the cart for seamless ordering.
 
 ![Wishlist](readmeImgs/wishlist.jpg)
 
-### 7. Order History
+### 8. Order History
 - Users can view details of their past orders in the order history page.
 
 ![Order History](readmeImgs/orderhistory.png)
 
-### 8. User Profile
+### 9. User Profile
 - Each user has a dedicated profile where they can view and update their data, including profile picture.
 
 ![User Profile](readmeImgs/profile.jpg)
 
-### 9. Additional Pages
+### 10. Additional Pages
 - About Us, FAQ, Delivery Info, Privacy Policy, and Terms and Conditions are provided for user reference.
 
 ![Additional Pages](readmeImgs/aboutus.jpg)
 ![Additional Pages](readmeImgs/faq.jpg)
 ![Additional Pages](readmeImgs/terms.jpg)
 
-### 10. Admin Dashboard
+### 11. Admin Dashboard
 - Admins have access to a dashboard where they can perform CRUD operations on products (view, update, add, delete).
 
 ![Admin Dashboard](readmeImgs/admincrud1.png)
