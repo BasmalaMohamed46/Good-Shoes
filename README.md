@@ -2,6 +2,8 @@
 
 # Table of Contents
 - [Introduction](#introduction)
+- [Demo Video](#demo-video)
+- [Production Deployment](#production-deployment)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -9,7 +11,15 @@
 
 ## Introduction
 
-This repository contains the source code for a web application called Good Shoes. Good Shoes is an e-commerce platform focused on providing a seamless shopping experience for footwear enthusiasts. Whether you're looking for the latest trends or classic styles, Good Shoes has you covered.
+This repository contains the source code for a web application called Good Shoes. Good Shoes is an e-commerce platform focused on providing a seamless shopping experience for footwear enthusiasts. Whether you're looking for the latest trends or classic styles, Good Shoes is the destination for the perfect pair of foot wear.
+
+## Demo Video
+
+To see a demonstration of the project in action, watch our demo video [here](https://drive.google.com/file/d/19boUvq2Kd1C6Wyp8pDEEArwaKuEP9i6P/view?usp=sharing).
+
+## Production Deployment
+
+You can access the production deployment of [Good Shoes](https://basmalamohamed46.github.io/Good-Shoes/)
 
 ## Features
 
