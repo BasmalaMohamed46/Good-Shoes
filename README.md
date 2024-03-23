@@ -69,17 +69,17 @@ To get started with Good Shoes, follow these steps:
 
 1. **Clone the repository:**
 
-\`\`\`bash
+```bash
 git clone https://github.com/BasmalaMohamed46/Good-Shoes.git
-\`\`\`
+```
 
 2. **Open the project:**
 
-\`\`\`bash
+```bash
 cd Good-Shoes
-\`\`\`
+```
 
-3. **Open signUp.html file in your preferred web browser to explore the Good Shoes E-commerce website
+3. **Open signUp.html file in your preferred web browser to explore the Good Shoes E-commerce website**
 
 
 ## Contributing
