@@ -15,7 +15,9 @@ This repository contains the source code for a web application called Good Shoes
 
 ## Demo Video
 
-To see a demonstration of the project in action, watch our demo video [here](https://drive.google.com/file/d/19boUvq2Kd1C6Wyp8pDEEArwaKuEP9i6P/view?usp=sharing).
+To see a demonstration of the project in action, watch our demo video 
+
+[![Good Shoes](https://img.youtube.com/vi/xLORfV15zXo/0.jpg)](https://www.youtube.com/watch?v=xLORfV15zXo)
 
 ## Production Deployment
 
