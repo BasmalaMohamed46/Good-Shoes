@@ -1,5 +1,12 @@
 # Good Shoes
 
+# Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Introduction
 
 This repository contains the source code for a web application called Good Shoes. Good Shoes is an e-commerce platform focused on providing a seamless shopping experience for footwear enthusiasts. Whether you're looking for the latest trends or classic styles, Good Shoes has you covered.
@@ -17,51 +24,60 @@ This repository contains the source code for a web application called Good Shoes
 ### 2. Product Display and Filtering
 - All products are fetched from a JSON file.
 - Users can filter products by categories, price, size, and color.
+- Users can search for a specific product
 
-![Product Display](images/product_display.png)
+![Product Display](readmeImgs/allProducts.jpg)
+![Product Display](readmeImgs/search.jpg)
 
 ### 3. Shopping Cart
 - Users can add products to their cart.
 - The cart includes pricing information and allows users to apply promo codes for discounts.
 - Users can adjust quantity, choose color and size for each item.
-
-![Shopping Cart](images/shopping_cart.png)
+  
+![Shopping Cart](readmeImgs/modal.png)
+![Shopping Cart](readmeImgs/cart.png)
 
 ### 4. Checkout Process
 - Users can provide additional information during checkout.
 - Payment methods include Visa or cash, with thorough validation of user input.
 
-![Checkout](images/checkout.png)
+![Checkout](readmeImgs/payment.png)
+![Checkout](readmeImgs/onway.jpg)
 
 ### 5. Product Details
 - Detailed product information is available.
 - Users can add products to their cart, wishlist, or rate them.
 
-![Product Details](images/product_details.png)
+![Product Details](readmeImgs/details.jpg)
 
 ### 6. Wishlist
 - Users can add products to their wishlist for future reference.
 - Wishlist items can be easily added to the cart for seamless ordering.
 
-![Wishlist](images/wishlist.png)
+![Wishlist](readmeImgs/wishlist.jpg)
 
 ### 7. Order History
 - Users can view details of their past orders in the order history page.
 
-![Order History](images/order_history.png)
+![Order History](readmeImgs/orderhistory.png)
 
 ### 8. User Profile
 - Each user has a dedicated profile where they can view and update their data, including profile picture.
 
-![User Profile](images/user_profile.png)
+![User Profile](readmeImgs/profile.jpg)
 
-### 9. Admin Dashboard
+### 9. Additional Pages
+- About Us, FAQ, Delivery Info, Privacy Policy, and Terms and Conditions are provided for user reference.
+
+![Additional Pages](readmeImgs/aboutus.jpg)
+![Additional Pages](readmeImgs/faq.jpg)
+![Additional Pages](readmeImgs/terms.jpg)
+
+### 10. Admin Dashboard
 - Admins have access to a dashboard where they can perform CRUD operations on products (view, update, add, delete).
 
-![Admin Dashboard](images/admin_dashboard.png)
-
-### 10. Additional Pages
-- About Us, FAQ, Delivery Info, Privacy Policy, and Terms and Conditions are provided for user reference.
+![Admin Dashboard](readmeImgs/admincrud1.png)
+![Admin Dashboard](readmeImgs/admincrud2.png)
 
 ## Getting Started
 
