@@ -82,7 +82,7 @@ class FormValidator {
             const isAdmin = this.signupForm.querySelector("#isAdmin").value;
             const success = authManager.signUp({ firstName, lastName, email, password, isAdmin });
             if (success) {
-                window.location.href = "landing.html";
+                window.location.href = "HTML/landing.html";
             }
         });
     }
