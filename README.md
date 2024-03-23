@@ -65,11 +65,22 @@ This repository contains the source code for a web application called Good Shoes
 
 ## Getting Started
 
-To get started with Good Shoes, use the following commands:
+To get started with Good Shoes, follow these steps:
 
-```bash
+1. **Clone the repository:**
+
+\`\`\`bash
 git clone https://github.com/BasmalaMohamed46/Good-Shoes.git
+\`\`\`
+
+2. **Open the project:**
+
+\`\`\`bash
 cd Good-Shoes
+\`\`\`
+
+3. **Open signUp.html file in your preferred web browser to explore the Good Shoes E-commerce website
+
 
 ## Contributing
 
@@ -84,3 +95,6 @@ We welcome contributions to improve Good Shoes! To contribute:
 ## License
 
 This project is licensed under the MIT License.
+
+
+
