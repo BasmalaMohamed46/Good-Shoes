@@ -195,18 +195,20 @@ async function drawPageContent(products, gender = "search", page = 1) {
               <div class="button-container">
                   <button class="add-to-cart">Add to Cart</button>
               </div>
-              <i class="fa-solid fa-heart add-to-wishlist"></i>
+              <i class="fa-solid fa-heart add-to-wishlist-${product.id}"></i>
           </div>
       </div>
   </div>`;  
       productsRow.appendChild(col);
       // const addToWishlistButtons = document.querySelectorAll(".add-to-wishlist");
       productsContainer.addEventListener("click", function(event) {
-        if (event.target.classList.contains("add-to-wishlist")) {
+        if (event.target.classList.contains(`add-to-wishlist-${product.id}`)) {
             event.preventDefault();
             window.location.href = "wishList.html";
             const index = Array.from(event.target.parentNode.parentNode.parentNode.parentNode.parentNode.children).indexOf(event.target.parentNode.parentNode.parentNode.parentNode);
-            wishlist.addItem(productsToDisplay[index]);
+            const prod=productsToDisplay[index];
+            wishlist.addItem(prod);
+            
         }
     });
       // Add event listener for add to cart button

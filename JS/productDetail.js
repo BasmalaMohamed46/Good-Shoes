@@ -109,8 +109,16 @@ function populateProductDetails(product) {
   });
   var addToCartBtn=document.getElementById("addToCart");
   addToCartBtn.addEventListener("click",function(){
+    if(!product.selectedColor || !product.selectedSize) {
+      //error message by bootstrap inside the modal
+      
+      var colorSize = document.getElementById('colorSize');
+      colorSize.classList.remove('d-none');
+      colorSize.innerHTML  = 'Color and size should be selected';
+   }else{
     window.location.href = "cart.html";
     cartInstance.addItem(product);
+   }
   });
 }
 
